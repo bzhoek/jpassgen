@@ -95,7 +95,7 @@ random_character(){
 	echo $CHAR
 }
 
-TEMPPASS=$(random_word)$(random_word)$(random_number)$(random_word)$(random_character);
+TEMPPASS=$(random_number)$(random_character)$(random_word)-$(random_word)-$(random_word)$(random_character)$(random_number);
 
 # stdout and clipboard
 echo $TEMPPASS
