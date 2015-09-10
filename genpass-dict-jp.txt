@@ -2,6 +2,7 @@ abarthrosis
 abauto
 abayo
 abcess
+abekku
 ability
 able
 ably
@@ -74,6 +75,7 @@ amae
 amai
 amazed
 amazingly
+amazoru
 ambushed
 among
 ampul
@@ -83,6 +85,7 @@ and
 anger
 angrily
 anka
+anmoku
 anne
 annoyances
 annoying
@@ -141,18 +144,23 @@ attacks
 attercrop
 attracted
 autocratical
+autoobuganchu
 avoid
 avoided
 avoids
 aware
 away
 ax
+bacchiguu
 back
 backwinded
 bad
 bag
+baibii
+baibusu
 baito
 baka
+bakakkoii
 bakuhatsu
 ball
 ban
@@ -215,6 +223,7 @@ blowzy
 blue
 blur
 boa
+bocchimeshi
 bodiikon
 boke
 boketto
@@ -248,6 +257,7 @@ brehonia
 brick
 bright
 brown
+buchigireru
 buds
 buhibuhi
 buhiru
@@ -293,6 +303,7 @@ chage
 chairo
 chakkari
 chakku
+chakkyo
 challenging
 chances
 change
@@ -412,8 +423,12 @@ cutting
 dabodabo
 daft
 dai
+daijobui
 dakara
+dakaranaa
+damemoto
 dandan
+dangan
 dango
 dantai
 daphnias
@@ -424,6 +439,7 @@ daring
 dark
 darkness
 dasai
+dasakawaii
 dasee
 dattara
 datte
@@ -442,6 +458,7 @@ deeply
 defeat
 definitely
 defo
+dekoru
 delay
 dell
 demo
@@ -463,8 +480,8 @@ development
 devils
 devious
 did
-didnt
 didn’t
+didnt
 differ
 difference
 different
@@ -509,6 +526,8 @@ doredore
 dormouse
 dorodoro
 dose
+dotakyan
+dotsubo
 doudemoii
 douka
 doushita
@@ -532,6 +551,7 @@ drops
 drunk
 duden
 dug
+dukushi
 dull
 during
 duty
@@ -574,6 +594,7 @@ enrapted
 ensue
 entire
 entirely
+enujii
 epistapedial
 equal
 erai
@@ -616,12 +637,14 @@ ext
 extraordinary
 extremely
 eyes
+fabo
 faboru
 fact
 faibaa
 fail
 failure
 faito
+faiyaa
 fall
 familiar
 family
@@ -727,6 +750,7 @@ ganbatta
 ganbatte
 ganoidal
 garagara
+garakee
 garasu
 garbage
 gasconade
@@ -735,6 +759,10 @@ ge
 gegege
 geiko
 geisha
+gekidasa
+gekikawa
+gekioko
+gekiyaba
 gelations
 gentlemen
 geologised
@@ -798,12 +826,14 @@ guess
 guest
 guguru
 gugutte
+guigui
 gunboats
 gurasu
 gurutachi
 guttari
 guttus
 guzuguzu
+gyaaa
 gyogiwaru
 ha
 had
@@ -814,6 +844,7 @@ hair
 hakone
 haku
 half
+hamatta
 hamono
 hanako
 hanashiaru
@@ -860,6 +891,7 @@ hearing
 heart
 heaven
 heavy
+hebirote
 hebohebo
 hed
 heeki
@@ -873,6 +905,7 @@ here
 herfar
 hero
 herself
+hetare
 hido
 hidoi
 hidosugiru
@@ -925,6 +958,7 @@ ices
 ichaicha
 ichiban
 ichiichi
+ichimirimo
 ichioshi
 ichiou
 id
@@ -970,6 +1004,7 @@ indescribable
 indignantly
 indignation
 individual
+inferunoo
 infinite
 infinitely
 initial
@@ -1002,6 +1037,8 @@ italic
 itch
 its
 itself
+itsumen
+ittera
 ive
 iyada
 iyaiya
@@ -1009,12 +1046,14 @@ izu
 izumi
 jack
 jackets
+jane
 japan
 jay
 jeopardize
 jeopardy
 jet
 jewels
+jidori
 jigen
 jigs
 jikkuri
@@ -1028,6 +1067,7 @@ jiro
 jisho
 jiten
 jitojito
+jiwajiwa
 jizo
 joaquin
 job
@@ -1073,11 +1113,14 @@ kakou
 kamakura
 kame
 kamekame
+kameresu
+kamigakatteru
 kaminoke
 kamonkamon
 kanazuchi
 kankan
 kankei
+kankopii
 kanou
 kanren
 kao
@@ -1085,6 +1128,7 @@ kaobon
 kappu
 karasu
 karate
+karipaku
 kasa
 kata
 katai
@@ -1092,6 +1136,7 @@ katazukeru
 katsu
 kattakata
 kawa
+kawatan
 keana
 keel
 keiba
@@ -1103,6 +1148,7 @@ ketsuatsu
 kharouba
 kicked
 kid
+kidokusuruu
 kigen
 kigennaname
 kiiro
@@ -1141,6 +1187,7 @@ koran
 korya
 koshi
 kosokoso
+kosoren
 kotatsu
 kotei
 kouji
@@ -1151,11 +1198,13 @@ kronen
 ksk
 kubi
 kuchipaku
+kuikomu
 kurashi
 kurasuta
 kuregure
 kurejitto
 kureyo
+kuribocchi
 kuripaa
 kuro
 kuroiro
@@ -1250,6 +1299,8 @@ luck
 luxury
 maa
 maamaa
+mabudachi
+mabui
 machina
 machine
 mad
@@ -1260,6 +1311,7 @@ magazine
 magu
 maguro
 majika
+majimuri
 majo
 make
 makes
@@ -1279,14 +1331,17 @@ marks
 marl
 marshes
 maru
+mashumarojoshi
 massugu
 masterbuilder
 mata
 matadero
 matsuge
 mattari
+mattarisuru
 matte
 matters
+maturissho
 mawatte
 may
 maybe
@@ -1310,6 +1365,7 @@ menyu
 mephitism
 mere
 meridian
+meshitero
 mesu
 met
 method
@@ -1335,6 +1391,7 @@ mochi
 mochimochi
 mochitsuki
 mock
+mofuru
 mogomogo
 moil
 moji
@@ -1355,6 +1412,7 @@ moose
 more
 morning
 mornings
+moro
 moshikashite
 moshikasuruto
 most
@@ -1370,6 +1428,7 @@ mtv
 much
 muff
 mug
+mukachaka
 mukamuka
 mune
 munmun
@@ -1380,7 +1439,11 @@ mushroom
 music
 must
 muyo
+muzu
+muzui
 my
+myakuari
+myakunashi
 myself
 myth
 nabepaa
@@ -1410,6 +1473,7 @@ nebaneba
 necessary
 neck
 neechan
+neenee
 neglect
 neko
 nekurasu
@@ -1429,6 +1493,7 @@ nikoniko
 nimono
 nippon
 nit
+nitto
 nix
 niyaniya
 no
@@ -1438,6 +1503,7 @@ noise
 nokogiri
 nokori
 nonsense
+nooben
 noone
 noosaido
 nor
@@ -1518,9 +1584,12 @@ osaka
 osakini
 osara
 osaraarai
+osenchi
 oshaberi
 oshimen
 osoba
+osoresu
+osoro
 ossu
 osu
 otaku
@@ -1561,6 +1630,7 @@ pakutto
 palm
 pan
 pane
+panikkuru
 panpan
 pantsu
 papa
@@ -1602,6 +1672,7 @@ pinpin
 pinpon
 pitifully
 pityful
+pk
 place
 plaid
 plants
@@ -1642,6 +1713,7 @@ puddly
 pulgada
 pulses
 puma
+punpunmaru
 pup
 puramoderu
 purikura
@@ -1669,6 +1741,7 @@ quit
 quite
 quiver
 quiz
+raamen
 raburabu
 rah
 rain
@@ -1729,6 +1802,7 @@ rikishi
 rikku
 rime
 rinrin
+ripisuru
 rishi
 risked
 river
@@ -1750,6 +1824,7 @@ rude
 rung
 runrun
 rush
+ryo
 ryokai
 ryoushuusho
 saabisu
@@ -1758,6 +1833,7 @@ saburo
 sac
 sad
 safe
+sagepoyo
 sager
 sai
 said
@@ -1787,10 +1863,10 @@ satadenai
 saturday
 saw
 say
+say—thats
 saying
 sayo
 says
-say—thats
 scared
 science
 sea
@@ -1819,6 +1895,7 @@ sense
 sentences
 separate
 separated
+sereka
 serenity
 seruka
 service
@@ -1835,6 +1912,7 @@ shall
 shameru
 shamette
 shaped
+shareotsu
 shashinshuu
 shatsu
 she
@@ -1908,6 +1986,7 @@ so
 soba
 soda
 sofuto
+sokuresu
 sold
 solitude
 some
@@ -1918,6 +1997,7 @@ song
 sonna
 soon
 soosu
+sorenaa
 sort
 souhara
 souji
@@ -2097,6 +2177,7 @@ top
 toppa
 tops
 torabaiyyu
+torima
 toru
 totoro
 totsuka
@@ -2141,6 +2222,7 @@ udemakura
 ue
 ueetaa
 ugai
+ukerenai
 uketa
 uketoru
 umauma
@@ -2205,11 +2287,13 @@ wagahai
 wait
 waits
 waiyaresu
+wakannai
 wakare
 wakareru
 wakareta
 wakaru
 wakeari
+wakewakame
 wakotsu
 wakuwaku
 walk
@@ -2217,6 +2301,7 @@ walked
 walls
 waltz
 wankoin
+wanpi
 want
 wantan
 wanted
@@ -2298,13 +2383,18 @@ writingdesks
 wrong
 yaba
 yabai
+yabatan
 yafuoku
+yagarase
 yamph
+yarase
 yareyare
 yasui
 yattukeru
+yavai
 yawarakai
 yay
+ydk
 year
 years
 yes
