@@ -6,4 +6,4 @@ install:
 uninstall:
 	# unlink
 	rm /usr/local/bin/genpass
-	rm /usr/share/dict/genpass-dict-jp
+	rm /usr/share/dict/genpass-dict-jp.txt
