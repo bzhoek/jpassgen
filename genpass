@@ -12,14 +12,15 @@
 #			personal and commercial purposes as long as original
 #			copyright is retained. MIT-LCENSE, see LICENSE file.
 #
-VERSION=0.0.1
+# Updated and edited for using Japanese romaji by Rick Cogley, 2015 Sept.
+VERSION=0.1.0
 
 # Word count
 NUM_WORDS=`cat /usr/share/dict/genpass-dict-jp | wc -l`;
 
 usage() {
 cat << EOF
-Usage: genpass [OPTIONS] [WORD LENGTH (6)]
+Usage: genpass [OPTIONS] [WORD LENGTH (9)]
 
 Options:
     -h, --help      Help as expected
