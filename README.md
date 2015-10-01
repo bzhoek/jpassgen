@@ -1,6 +1,6 @@
 genpass
 ====
-An OSX utility (SHELL script) for generating passwords out of real words containing within a special dictionary file with English and Japanese words in "romaji". If you use the makefile to install, the dictionary file is linked in `/usr/share/dict/`, where other dictionary files are located on Mac.
+An OSX utility (SHELL script) for generating passwords out of real words containing within a special dictionary file with English and Japanese words in "romaji". If you use the makefile to install, the script and dictionary file are linked in `/usr/local/bin/`, which should be in your path.
 
 
 Usage
@@ -31,7 +31,3 @@ Included is a very simple `Makefile` that provides two methods:
     $ make uninstall
 
 If it does not work you can run the commands in it manually. They just make static links.
-
-Bugs, comments, or questions
------
-Should a bug arise or you are itching for some random answers please [submit an issue](https://github.com/RickCogley/jpassgen/issues) here on github.

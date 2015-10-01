@@ -16,7 +16,7 @@
 VERSION=0.1.0
 
 # Word count
-NUM_WORDS=`cat /usr/share/dict/genpass-dict-jp | wc -l`;
+NUM_WORDS=`cat /usr/local/bin/genpass-dict-jp | wc -l`;
 
 usage() {
 cat << EOF
@@ -78,12 +78,12 @@ WORD_LENGTH=$1
 # fetch a random word from local dictionary that is less than $1 (default 6) characters in length
 # convert the word to Camel Case for added entropy
 random_word(){
-	WORD=$(head -n`jot -r 1 1 $NUM_WORDS` /usr/share/dict/genpass-dict-jp | awk -v wordlength=$WORD_LENGTH 'length < wordlength' | tail -n1);
+	WORD=$(head -n`jot -r 1 1 $NUM_WORDS` /usr/local/bin/genpass-dict-jp | awk -v wordlength=$WORD_LENGTH 'length < wordlength' | tail -n1);
 	echo $(tr '[:lower:]' '[:upper:]' <<< ${WORD:0:1})${WORD:1}
 }
 
 random_word_upper(){
-	WORD=$(head -n`jot -r 1 1 $NUM_WORDS` /usr/share/dict/genpass-dict-jp | awk -v wordlength=$WORD_LENGTH 'length < wordlength' | tail -n1);
+	WORD=$(head -n`jot -r 1 1 $NUM_WORDS` /usr/local/bin/genpass-dict-jp | awk -v wordlength=$WORD_LENGTH 'length < wordlength' | tail -n1);
 	echo $(tr [a-z] [A-Z] <<< ${WORD})
 }
 

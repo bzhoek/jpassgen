@@ -1,9 +1,9 @@
 install:
 	# link
-	ln -s $(CURDIR)/genpass /usr/local/bin/genpass
-	sudo ln -s $(CURDIR)/genpass-dict-jp.txt /usr/share/dict/genpass-dict-jp
+	ln -s $(PWD)/genpass /usr/local/bin/genpass
+	ln -s $(PWD)/genpass-dict-jp.txt /usr/local/bin/genpass-dict-jp
 
 uninstall:
 	# unlink
 	rm /usr/local/bin/genpass
-	rm /usr/share/dict/genpass-dict-jp.txt
+	rm /usr/local/bin/genpass-dict-jp
