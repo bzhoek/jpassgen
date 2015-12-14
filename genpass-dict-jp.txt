@@ -46,6 +46,7 @@ adana
 adauchi
 added
 adjusting
+adohen
 advantage
 advised
 aen
@@ -177,6 +178,7 @@ always
 am
 ama
 amaashi
+amachan
 amadare
 amadera
 amado
@@ -405,6 +407,7 @@ atsuatsu
 atsuen
 atsugami
 atsugi
+atsui
 atsumi
 atsureki
 attacks
@@ -445,6 +448,7 @@ baibai
 baibii
 baibusu
 baien
+baigaeshi
 baika
 baikai
 baikin
@@ -463,6 +467,7 @@ baken
 bakuchi
 bakuchiku
 bakudan
+bakudanteikiatsu
 bakufu
 bakuga
 bakugai
@@ -473,6 +478,8 @@ bakumatsu
 bakuon
 bakuro
 bakushin
+bakusho
+bakusui
 bakuyaku
 ball
 bamen
@@ -586,6 +593,7 @@ big
 bigaku
 bigi
 bihin
+biirubanare
 bijin
 bijogaa
 bika
@@ -1080,6 +1088,7 @@ daketsu
 dakuon
 dakuten
 damemoto
+dameyodamedame
 damin
 dan
 danatsu
@@ -1185,6 +1194,7 @@ dekidaka
 dekigokoro
 dekigoto
 dekimono
+dekin
 dekoru
 delay
 dell
@@ -1236,6 +1246,7 @@ detour
 development
 devils
 devious
+dicek
 did
 didn’t
 didnt
@@ -1276,6 +1287,7 @@ dogimo
 dogs
 doing
 doitta
+dojonaikaku
 dokan
 dokashiteiru
 doke
@@ -1310,6 +1322,7 @@ dome
 domed
 don
 donata
+dondake
 done
 donguri
 donka
@@ -1524,6 +1537,7 @@ eridori
 eriguri
 erikubi
 erimaki
+erokakkoii
 esa
 esc
 eshi
@@ -1676,6 +1690,7 @@ fuhai
 fuhatsu
 fuhei
 fuhen
+fuhyouhigai
 fuigo
 fuiuchi
 fuka
@@ -1730,6 +1745,7 @@ fukushima
 fukushin
 fukusui
 fukuyaku
+fukuyamarosu
 full
 fumen
 fumiba
@@ -1780,6 +1796,7 @@ funsoku
 funsui
 fur
 furafura
+furage
 furan
 furanki
 furazan
@@ -1796,6 +1813,7 @@ furitsuke
 furniturerattling
 furo
 furoku
+furorida
 furoshiki
 furu
 furugao
@@ -1976,6 +1994,8 @@ gedan
 gedatsu
 gedoku
 gegege
+gegegeno
+gegeru
 gei
 geidan
 geigeki
@@ -2140,6 +2160,7 @@ giten
 give
 given
 giwaku
+gizakawayusu
 gizen
 glad
 gleams
@@ -2284,6 +2305,7 @@ guttari
 guttus
 guzuguzu
 gyaaa
+gyakupaka
 gyogiwaru
 ha
 haaku
@@ -2518,6 +2540,7 @@ hanhan
 hani
 haniwa
 hanji
+hankachioji
 hankagai
 hankai
 hankan
@@ -3187,9 +3210,11 @@ hungrier
 hurt
 huskiness
 hustles
+hutsugonashinjitsu
 hyoukinzoku
 hyperprism
 i
+iaido
 ian
 iatsu
 ibara
@@ -3335,6 +3360,7 @@ ikon
 ikotsu
 iku
 ikuei
+ikumen
 ikun
 ikusa
 ikusaki
@@ -3343,6 +3369,7 @@ ill
 illustrated
 im
 ima
+imadesho
 imadoki
 image
 imagine
@@ -3364,6 +3391,7 @@ impress
 imu
 in
 ina
+inabauer
 inabikari
 inada
 inage
@@ -3434,9 +3462,11 @@ inzei
 io
 iori
 iowans
+ipssaibo
 ipsum
 irai
 iraka
+irakora
 iraq
 ireba
 irei
@@ -3485,6 +3515,7 @@ iso
 isogiashi
 isomatsu
 isoria
+isoukai
 isthe
 isu
 it
@@ -3536,6 +3567,7 @@ iyada
 iyaiya
 iyaki
 iyaku
+iyashikei
 iyoku
 izakaya
 izakoza
@@ -3551,6 +3583,9 @@ jackets
 jane
 japan
 jay
+jc
+jd
+jejeje
 jeopardize
 jeopardy
 jet
@@ -3571,6 +3606,7 @@ jiten
 jitojito
 jiwajiwa
 jizo
+jk
 joaquin
 job
 jocks
@@ -3848,6 +3884,7 @@ kakusa
 kakusage
 kakusaku
 kakusan
+kakusashakai
 kakusei
 kakuseiki
 kakushi
@@ -4042,6 +4079,7 @@ kareki
 kareshi
 kari
 karichin
+karigaaru
 kariire
 karimono
 karinui
@@ -4407,6 +4445,7 @@ kikaku
 kikan
 kikanshi
 kiken
+kikendoraggu
 kiketsu
 kiki
 kikime
@@ -4540,6 +4579,7 @@ kitaguni
 kitai
 kitakaze
 kitaku
+kitakunanmin
 kitan
 kitei
 kiteki
@@ -4563,6 +4603,7 @@ kizai
 kizetsu
 kizoku
 kizokuin
+kizuna
 klesha
 know
 knows
@@ -4714,6 +4755,7 @@ konchi
 kondan
 kondate
 kondo
+konekogoroshi
 kongan
 kongen
 kongetsu
@@ -4966,6 +5008,7 @@ kuru
 kurubushi
 kurukuru
 kuruma
+kurumabanare
 kurumadai
 kurumahen
 kurumaza
@@ -5224,6 +5267,7 @@ mangaku
 mangan
 mangetsu
 maniakku
+manifuesuto
 manin
 manji
 mankai
@@ -5243,6 +5287,8 @@ many
 manzai
 manzoku
 map
+mappa
+mappadaka
 march
 mari
 marimo
@@ -5280,6 +5326,7 @@ mata
 matadero
 matagashi
 matagiki
+matahara
 matasaki
 mato
 matsu
@@ -5324,6 +5371,7 @@ medaka
 medama
 medical
 medo
+megadoru
 megami
 megane
 megashira
@@ -5420,6 +5468,7 @@ meshita
 meshitero
 mesu
 met
+metabo
 method
 metsu
 metsuki
@@ -5728,6 +5777,7 @@ much
 muchi
 muchiuchi
 mudan
+muenshakai
 muff
 mug
 muga
@@ -5995,6 +6045,7 @@ natsubate
 natsugare
 natsuin
 natsumono
+nau
 nawa
 nawabari
 nawashiro
@@ -6059,6 +6110,7 @@ nengen
 nengetsu
 nengu
 nenkai
+nenkaku
 nenkan
 nenki
 nenkin
@@ -6105,6 +6157,7 @@ nichigen
 nichirin
 nichiya
 nidai
+nidomi
 nieyu
 nifuda
 nigaoe
@@ -6253,6 +6306,7 @@ nothing
 notice
 noticed
 notoieru
+notore
 nounenrei
 now
 noyaki
@@ -6509,8 +6563,10 @@ onto
 onyanko
 onyomi
 onzon
+oorusuru
 opal
 opened
+oppappii
 opus
 or
 ora
@@ -6542,6 +6598,7 @@ osanago
 osara
 osaraarai
 osarai
+osare
 osechi
 osen
 osenchi
@@ -6555,8 +6612,10 @@ oshiego
 oshiire
 oshimai
 oshimen
+oshindoromu
 oshindoroomu
 oshinobi
+oshirikajiri
 oshiuri
 oshokutomousu
 osoba
@@ -6615,6 +6674,7 @@ owa
 owabi
 owakon
 owarine
+owatteru
 owing
 own
 ox
@@ -6649,6 +6709,7 @@ palm
 pan
 pane
 panikkuru
+panikuru
 panpan
 pantsu
 papa
@@ -6737,6 +6798,7 @@ puma
 punpunmaru
 pup
 puramoderu
+purichiipu
 purikura
 puripuri
 pursue
@@ -6747,6 +6809,7 @@ put
 puttsun
 puyopuyo
 pyjamas
+qbk
 quack
 quacking
 quart
@@ -6765,6 +6828,7 @@ quite
 quiver
 quiz
 raamen
+rabuchunyu
 raburabu
 rachi
 raden
@@ -6827,6 +6891,7 @@ ranso
 ranun
 ranyo
 raretsu
+raritta
 rasen
 ratai
 rather
@@ -6871,6 +6936,7 @@ reizen
 rejects
 reki
 rekidai
+rekijo
 rekinin
 rekisen
 rekishi
@@ -6883,6 +6949,7 @@ remembered
 reminding
 ren
 renai
+renainiito
 renda
 renewed
 renga
@@ -6927,6 +6994,7 @@ riage
 riajuu
 ribarai
 ribetsu
+ricchimo
 rich
 richi
 ridatsu
@@ -7093,6 +7161,7 @@ ruzai
 ryo
 ryokai
 ryoushuusho
+ryukogo
 saabisu
 saba
 sabaku
@@ -7280,6 +7349,7 @@ sanken
 sanketsu
 sankyuusetto
 sannan
+sanoru
 sanran
 sanretsu
 sanrin
@@ -7994,6 +8064,7 @@ shoyugao
 shrinking
 shudder
 shujin
+shukatsu
 shukudai
 shussebarai
 shut
@@ -8111,6 +8182,7 @@ sonzaishi
 sonzoku
 soon
 soosu
+soosuwa
 sora
 soragoto
 sorairo
@@ -8368,6 +8440,7 @@ tagon
 tagui
 tahata
 tahatsu
+tahi
 tai
 taian
 taiban
@@ -8563,9 +8636,12 @@ tantan
 tantei
 tanuki
 tanzaku
+taorumyuujikku
+tapiru
 tara
 tarai
 tarako
+tarakotarako
 tare
 taremaku
 taretare
@@ -9077,6 +9153,7 @@ tsuiku
 tsuinin
 tsuioku
 tsuiraku
+tsuiru
 tsuiseki
 tsuishi
 tsuishin
@@ -9430,6 +9507,7 @@ wagi
 wagiri
 wago
 wairo
+wairudodaro
 wait
 waits
 waiyaresu
@@ -9475,6 +9553,7 @@ walls
 waltz
 wana
 wanage
+wanchanaru
 wanfuingaa
 wankoin
 wanpi
@@ -9779,6 +9858,7 @@ yoin
 yoiyami
 yoka
 yokai
+yokaiwatch
 yokan
 yokaze
 yoken
