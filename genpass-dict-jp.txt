@@ -235,6 +235,7 @@ anger
 angrily
 ani
 aniki
+animenome
 aniyome
 anka
 anken
@@ -318,6 +319,7 @@ arishihi
 arm
 armchair
 armourlike
+aro
 around
 arthrodynic
 artist
@@ -713,6 +715,7 @@ buhibuhi
 buhin
 buhiru
 bui
+buikutoriinahimeji
 buin
 buka
 bukai
@@ -842,6 +845,7 @@ che
 cheek
 chest
 chian
+chibengakuen
 chibi
 chibimaruko
 chibusa
@@ -1242,14 +1246,15 @@ desirable
 desire
 desires
 desk
+detachaajikaado
 detour
 development
 devils
 devious
 dicek
 did
-didn’t
 didnt
+didn’t
 differ
 difference
 different
@@ -1393,6 +1398,7 @@ easy
 eat
 eating
 ebi
+ebipurikatsu
 ebisen
 eboshi
 eda
@@ -1708,6 +1714,7 @@ fuken
 fukeru
 fuketa
 fuki
+fukigennakako
 fukin
 fukoku
 fuku
@@ -1921,6 +1928,7 @@ gakubu
 gakubuchi
 gakudan
 gakuen
+gakuenhansamu
 gakufu
 gakugei
 gakuhi
@@ -2034,6 +2042,7 @@ gekitotsu
 gekitsui
 gekiyaba
 gekiyaku
+gekkouga
 gelations
 gen
 genan
@@ -3577,6 +3586,7 @@ izoku
 izon
 izu
 izumi
+izutoreiru
 jaarimasenka
 jack
 jackets
@@ -5832,6 +5842,7 @@ muri
 murioshi
 murishinai
 musan
+musashi
 musei
 musen
 mushi
@@ -6171,6 +6182,7 @@ nigemichi
 nigenron
 niguruma
 nihon
+nihonium
 niichan
 niisan
 nijigen
@@ -6592,6 +6604,7 @@ osagari
 osage
 osagi
 osaka
+osakatouin
 osakini
 osan
 osanago
@@ -6797,6 +6810,7 @@ pulses
 puma
 punpunmaru
 pup
+puraimurajio
 puramoderu
 purichiipu
 purikura
@@ -7100,6 +7114,7 @@ roguery
 roka
 rokata
 roken
+rokettomobairu
 roku
 rokuboku
 rokuga
@@ -7130,6 +7145,7 @@ roses
 roshi
 roshin
 rosokutai
+rosonsuriefu
 rotei
 roten
 round
@@ -7425,7 +7441,6 @@ sawagani
 sawan
 sawara
 say
-say—thats
 saya
 saying
 sayo
@@ -7433,6 +7448,7 @@ sayoku
 sayori
 says
 sayu
+say—thats
 sazae
 sazaesan
 sazanami
@@ -8279,6 +8295,7 @@ sugina
 sugoidesune
 sugomori
 sugoroku
+suguden
 suhada
 sui
 suiatsu
@@ -8500,6 +8517,7 @@ taisa
 taisaku
 taisan
 taisei
+taiseigo
 taiseki
 taisen
 taisetsu
@@ -9353,6 +9371,7 @@ unei
 unga
 uni
 uniform
+uniqlou
 universal
 universe
 unkai
