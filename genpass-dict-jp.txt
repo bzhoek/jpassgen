@@ -145,6 +145,7 @@ aku
 akubi
 akubun
 akudama
+akueriasu
 akuhei
 akuheki
 akui
@@ -867,6 +868,7 @@ chihei
 chiho
 chii
 chiiki
+chiikubangu
 chiirui
 chiito
 chika
@@ -2425,6 +2427,7 @@ haizai
 haizara
 haizen
 haizetsu
+haizettokyandi
 haizoku
 haka
 hakaba
@@ -4603,6 +4606,7 @@ kitsumon
 kitsune
 kitsuon
 kitsutsuki
+kitte
 kiun
 kiwaku
 kiwami
@@ -8345,6 +8349,7 @@ suiteki
 suiun
 suiyoku
 suizoku
+suizokukangaaru
 sukedachi
 suki
 sukima
@@ -9337,6 +9342,7 @@ ukime
 ukimi
 ukiyo
 uma
+umamibaagaa
 umanori
 umauma
 ume
