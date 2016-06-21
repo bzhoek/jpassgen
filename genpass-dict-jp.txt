@@ -522,6 +522,7 @@ baz
 be
 beam
 bears
+bebiidorii
 because
 bechabecha
 become
@@ -4136,6 +4137,7 @@ kasu
 kasugai
 kasui
 kasumi
+kasuterakeekidemaitarooru
 kata
 kataashi
 katabutsu
@@ -5742,6 +5744,7 @@ monowarai
 monowasure
 monshi
 monshin
+montaaju
 montei
 month
 monto
@@ -6637,6 +6640,7 @@ oshiuri
 oshokutomousu
 osoba
 osomaki
+osomatsuekisupo
 osonae
 osoresu
 osoro
@@ -9274,6 +9278,7 @@ tsuyuiri
 ttaku
 tteba
 tteka
+tuiho
 tukra
 turf
 turn
