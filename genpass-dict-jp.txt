@@ -1176,6 +1176,7 @@ deban
 debana
 debt
 debudebu
+debusen
 decapitator
 decarbonylating
 decided
@@ -2896,6 +2897,7 @@ hikage
 hikaku
 hikan
 hikari
+hikaritokagenohibi
 hikeme
 hikeshi
 hiketsu
@@ -7335,6 +7337,7 @@ sakuya
 salesman
 salesmen
 sama
+samakuro
 samasama
 same
 samidare
@@ -7353,6 +7356,7 @@ sanchi
 sanctuary
 sandai
 sandan
+sandeeueburi
 sando
 sandouicchi
 sanga
@@ -8072,6 +8076,7 @@ shiza
 shizai
 shizen
 shizoku
+shoberunaito
 shoganai
 shokinkasegi
 shokku
