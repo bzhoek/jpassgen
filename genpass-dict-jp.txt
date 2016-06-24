@@ -1303,6 +1303,7 @@ doke
 doken
 doki
 dokidoki
+dokkyodai
 doku
 dokubun
 dokubutsu
@@ -1460,6 +1461,7 @@ ekimu
 ekiri
 ekitai
 ekubo
+ekyutotachikawaosoto
 elbows
 else
 ema
@@ -3597,6 +3599,7 @@ jaarimasenka
 jack
 jackets
 jane
+japaaaaan
 japan
 jay
 jc
@@ -6396,6 +6399,7 @@ ochibo
 ochido
 ochime
 oclock
+odaibaminnanoyumetairiku
 odaku
 odei
 odekake
