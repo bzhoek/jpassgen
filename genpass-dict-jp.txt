@@ -1,5 +1,6 @@
 24jikantatakaemasuka
 aakuhiruzu
+aateisuteikkusuimingu
 abarabone
 abaraya
 abarthrosis
@@ -4319,6 +4320,7 @@ kemushi
 ken
 kenami
 kenan
+kenburijjiasuka
 kenchi
 kenchiku
 kendama
@@ -4425,6 +4427,7 @@ kidachi
 kidai
 kidate
 kido
+kidokororyuma
 kidokusuruu
 kie
 kien
@@ -6589,6 +6592,7 @@ onyanko
 onyomi
 onzon
 oorusuru
+oosakarabittsu
 opal
 opened
 oppappii
@@ -7163,6 +7167,7 @@ rosonsuriefu
 rotei
 roten
 round
+rubankappu
 rude
 rufu
 rui
@@ -9616,6 +9621,7 @@ wasen
 washa
 washi
 washiki
+washiruromachenko
 washitsu
 wasnt
 wasshoi
