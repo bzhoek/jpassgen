@@ -1821,6 +1821,7 @@ furigoma
 furikae
 furiko
 furikomi
+furippaazu
 furisode
 furitsu
 furitsuke
@@ -3987,6 +3988,7 @@ kaneme
 kanemochi
 kanen
 kanetsu
+kanetsugatatabako
 kangai
 kangaku
 kangei
@@ -4505,6 +4507,7 @@ kind
 kindai
 kindaka
 kindan
+kindoruanrimiteddo
 kine
 kinen
 kingaku
@@ -7127,6 +7130,7 @@ roba
 roban
 robata
 rober
+robottokonrochirichiri
 roei
 roguery
 roka
@@ -10127,6 +10131,7 @@ zakuro
 zakutsu
 zama
 zamamiro
+zamonsutaazuraidaa
 zamurai
 zan
 zandaka
