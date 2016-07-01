@@ -1222,6 +1222,7 @@ dengeki
 dengen
 dengon
 deni
+denishujeraatosando
 denka
 denki
 dennetsu
@@ -1811,6 +1812,7 @@ funsui
 fur
 furafura
 furage
+furaiingusamaamajikku
 furan
 furanki
 furazan
@@ -3080,6 +3082,7 @@ hiyarito
 hiyatoi
 hiyodori
 hiyoke
+hiyokko
 hiyoko
 hiyori
 hiyorimi
@@ -6784,6 +6787,7 @@ picked
 picture
 pig
 pine
+pinofuondyukafe
 pinpin
 pinpon
 pitifully
@@ -10011,6 +10015,7 @@ yotsugi
 yotsukado
 yotsuyu
 you
+youkaiuocchizararii
 your
 yours
 yourself
