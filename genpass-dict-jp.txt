@@ -6837,6 +6837,7 @@ punpunmaru
 pup
 puraimurajio
 puramoderu
+purenatarian
 purichiipu
 purikura
 puripuri
@@ -6913,6 +6914,7 @@ rakuseki
 rakusen
 rakutan
 rakuten
+rakutenfm
 rakuyaki
 ran
 randa
@@ -7172,6 +7174,7 @@ roshi
 roshin
 rosokutai
 rosonsuriefu
+rosutobakeeshon
 rotei
 roten
 round
