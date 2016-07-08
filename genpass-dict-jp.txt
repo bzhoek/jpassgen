@@ -419,6 +419,7 @@ attercrop
 attracted
 autocratical
 autoobuganchu
+autoobushadourando
 avoid
 avoided
 avoids
@@ -3535,6 +3536,7 @@ ishiwata
 isnt
 iso
 isogiashi
+isokun
 isomatsu
 isoria
 isoukai
@@ -6019,6 +6021,7 @@ nanahikari
 nanairo
 nanakusa
 naname
+nananabiichipaaku
 nandai
 nandakke
 nando
@@ -8382,6 +8385,7 @@ suizokukangaaru
 sukedachi
 suki
 sukima
+sukinahitogairukoto
 sukiya
 sukiyaki
 sukizoparano
@@ -8412,6 +8416,7 @@ sunomono
 sunshi
 sunzen
 supagettii
+supagettiimariaano
 supesharugesuto
 supplies
 support
