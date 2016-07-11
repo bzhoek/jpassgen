@@ -1176,6 +1176,7 @@ deba
 debag
 deban
 debana
+deborakorukaa
 debt
 debudebu
 debusen
@@ -2983,6 +2984,7 @@ hirai
 hirakido
 hiramaku
 hirame
+hiraochika
 hiraoyogi
 hirate
 hiraya
@@ -10006,6 +10008,7 @@ yosen
 yosete
 yoshi
 yoshiashi
+yoshibarumi
 yoshimi
 yoshin
 yoso
