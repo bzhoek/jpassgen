@@ -208,6 +208,7 @@ ambushed
 ame
 amefurashi
 ameiro
+amesuri
 ami
 amida
 amidana
@@ -3628,6 +3629,7 @@ jimukyoku
 jimusho
 jinx
 jippaa
+jire
 jiro
 jisho
 jiten
@@ -3663,6 +3665,7 @@ jury
 just
 jute
 juuden
+kaabukyappu
 kaaki
 kaakiiro
 kaasan
@@ -3715,6 +3718,7 @@ kafka
 kafukubu
 kafun
 kafusoku
+kafutan
 kagai
 kagaku
 kagami
@@ -5034,6 +5038,7 @@ kurokoge
 kuromaku
 kuromame
 kuromatsu
+kuroshe
 kuroshio
 kuroshiro
 kurotsuchi
@@ -8384,6 +8389,7 @@ suiun
 suiyoku
 suizoku
 suizokukangaaru
+sukaacho
 sukedachi
 suki
 sukima
@@ -8925,6 +8931,7 @@ teori
 tera
 terakoya
 teriyaki
+teronchi
 tesage
 tesaguri
 tesaki
