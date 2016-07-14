@@ -437,6 +437,7 @@ azarashi
 aze
 azekura
 azemichi
+baabekyuumosubaagaa
 baai
 baasan
 baatari
@@ -5587,6 +5588,7 @@ mimoto
 min
 minage
 minami
+minamiyamarin
 minamoto
 minarai
 minari
@@ -7588,6 +7590,7 @@ seisai
 seisaku
 seisan
 seisei
+seiseisuruhodoaishiteiru
 seiseki
 seisen
 seishi
@@ -8930,6 +8933,7 @@ teoke
 teori
 tera
 terakoya
+teriizamei
 teriyaki
 teronchi
 tesage
@@ -9118,6 +9122,7 @@ toredaka
 tori
 toride
 torie
+torigaaru
 torigoya
 torihada
 torihiki
