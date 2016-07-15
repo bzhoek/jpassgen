@@ -5769,6 +5769,7 @@ monowarai
 monowasure
 monshi
 monshin
+monsutaahantaa
 montaaju
 montei
 month
@@ -8263,6 +8264,7 @@ sosen
 soshi
 soshiki
 soshina
+soshitedaremoinakunatta
 soshitsu
 sosugao
 sosui
@@ -8401,6 +8403,7 @@ sukiya
 sukiyaki
 sukizoparano
 sukuinushi
+sumabon
 sumahen
 sumaho
 sumai
@@ -8921,6 +8924,7 @@ tenshi
 tenshin
 tentai
 tenteki
+tentekomai
 tentetsuki
 tenugui
 tenukari
