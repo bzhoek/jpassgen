@@ -618,6 +618,7 @@ birds
 birei
 biri
 bisei
+bishabisha
 bishin
 bishonen
 bit
@@ -8929,6 +8930,7 @@ tentetsuki
 tenugui
 tenukari
 tenuki
+tenukiwasabiifu
 tenyaku
 tenzai
 teochi
@@ -9120,6 +9122,7 @@ tora
 torabaiyyu
 torai
 torakichi
+toranoanadenshishoseki
 toranoko
 toranomaki
 toredaka
