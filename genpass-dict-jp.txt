@@ -194,6 +194,7 @@ amagutsu
 amai
 amakuchi
 amamori
+amanoakiraten
 amanogawa
 amaoto
 amari
@@ -1351,6 +1352,7 @@ donten
 donzoko
 doragenai
 doragoe
+doragonpurojekkuto
 doraibaa
 doraisensou
 doredore
@@ -5579,6 +5581,7 @@ mimai
 miman
 mimei
 mimi
+mimikkyu
 mimimoto
 miminari
 mimitabu
@@ -6303,6 +6306,7 @@ nodo
 nodogoshi
 nodomoto
 nogai
+nogeemunoraifu
 nogi
 nogihen
 nohara
@@ -7194,6 +7198,7 @@ roten
 round
 rubankappu
 rude
+rudorufutoippaiattena
 rufu
 rui
 ruibetsu
