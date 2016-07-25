@@ -612,6 +612,7 @@ bin
 binan
 binbin
 binetsu
+binishiusu
 binsen
 bio
 bion
@@ -2251,6 +2252,7 @@ gongen
 gongon
 gonin
 good
+goodonriido
 goraku
 goran
 gorin
@@ -3119,6 +3121,7 @@ hokan
 hoken
 hoketsu
 hokin
+hokkaikoutougakkou
 hokke
 hoko
 hokora
@@ -7384,6 +7387,7 @@ samon
 samples
 samsa
 samu
+samuaradaisu
 samuke
 samurai
 samuzora
