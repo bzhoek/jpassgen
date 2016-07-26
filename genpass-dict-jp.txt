@@ -814,6 +814,7 @@ cambridge
 came
 campiness
 can
+cana
 candle
 cane
 caned
@@ -1351,6 +1352,7 @@ dono
 dont
 donten
 donzoko
+doonattsupoppu
 doragenai
 doragoe
 doragonpurojekkuto
@@ -2324,6 +2326,7 @@ guntai
 gunte
 gunzei
 gunzoku
+guransutamarunouchi
 gurasu
 gurutachi
 gusaku
@@ -6825,6 +6828,7 @@ plenty
 plot
 pochiru
 pointing
+pokevision
 polloi
 pomonic
 poniteeru
