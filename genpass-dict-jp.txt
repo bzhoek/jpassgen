@@ -2267,6 +2267,7 @@ gorotsuki
 goryoushin
 gosa
 gosai
+gosaigyonoonna
 gosan
 gosei
 gosen
@@ -3484,6 +3485,7 @@ insotsu
 instance
 instead
 insurance
+insutaguramusutorii
 intai
 intentions
 into
@@ -6013,6 +6015,7 @@ namae
 namagashi
 namagomi
 namahage
+namahamutoyaikudon
 namakemono
 namaki
 namako
@@ -8853,6 +8856,7 @@ teirei
 teiren
 teiri
 teiritsu
+teiruzuobuberuseria
 teisai
 teisatsu
 teisei
@@ -9507,6 +9511,7 @@ urusagata
 urusai
 urushi
 usagi
+usamaru
 usankusai
 used
 uses
