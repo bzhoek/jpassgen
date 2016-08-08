@@ -1,5 +1,6 @@
 24jikantatakaemasuka
 aakuhiruzu
+aane
 aateisuteikkusuimingu
 abarabone
 abaraya
@@ -272,6 +273,7 @@ anyaku
 anyone
 anything
 anzan
+anzenshinwa
 ao
 aoarashi
 aoba
@@ -608,6 +610,7 @@ bijogaa
 bika
 bikan
 bimei
+bimyo
 bin
 binan
 binbin
@@ -785,6 +788,7 @@ busaiku
 bushi
 bushitsu
 business
+busu
 but
 buta
 butai
@@ -808,6 +812,7 @@ buzei
 buzoku
 buzz
 by
+byoude
 cable
 cajole
 cambridge
@@ -964,6 +969,7 @@ choshiii
 choshinotteiru
 choshoku
 chottomatte
+chou
 chounaikai
 chumps
 chutney
@@ -1375,6 +1381,7 @@ dote
 dotera
 dotsubo
 doudemoii
+doujousurunarakanekure
 douka
 doushita
 doushitano
@@ -1898,6 +1905,7 @@ fuzai
 fuzei
 fuzen
 fuzoku
+gachi
 gadai
 gadan
 gagaku
@@ -1981,6 +1989,7 @@ game
 gamen
 gan
 ganbare
+ganbaroukoube
 ganbatta
 ganbatte
 ganchiku
@@ -2085,6 +2094,7 @@ genkai
 genkaku
 genkan
 genkei
+genkiderusu
 genkiderusugaii
 genkin
 genkoku
@@ -3280,6 +3290,7 @@ ichigun
 ichii
 ichiichi
 ichiin
+ichikita
 ichiku
 ichimatsu
 ichimei
@@ -3358,6 +3369,7 @@ ikaku
 ikan
 ikanai
 ikaneba
+ikareteru
 ikari
 ikasama
 ikaten
@@ -3631,6 +3643,7 @@ jeopardize
 jeopardy
 jet
 jewels
+jibunwohometai
 jidori
 jigen
 jigs
@@ -3976,6 +3989,7 @@ kamishimo
 kamisori
 kamisuki
 kamite
+kamitteru
 kamiwaza
 kamiza
 kamo
@@ -5266,6 +5280,7 @@ maitake
 maitoshi
 maitsuki
 maiyo
+majide
 majika
 majimuri
 majo
@@ -5416,6 +5431,7 @@ mebana
 mebari
 meberi
 meboshi
+meccha
 mecha
 mechakucha
 medaka
@@ -5520,6 +5536,7 @@ meshitero
 mesu
 met
 metabo
+metcha
 method
 metsu
 metsuki
@@ -6511,6 +6528,7 @@ okinawa
 okite
 okizari
 okkanai
+oko
 okonomi
 okoshi
 okowa
@@ -7452,6 +7470,7 @@ sanzoku
 sao
 saobakari
 saotome
+sapootaa
 sara
 saraarai
 sarachi
@@ -7801,6 +7820,7 @@ shameru
 shamette
 shaped
 shareotsu
+sharetteiru
 shashinshuu
 shatsu
 she
@@ -7868,6 +7888,7 @@ shikata
 shikatanai
 shikei
 shiken
+shiketeru
 shiketsu
 shiki
 shikibetsu
@@ -8270,6 +8291,7 @@ soramame
 soramimi
 sorani
 sorei
+sorena
 sorenaa
 sorenari
 sori
@@ -9396,10 +9418,12 @@ ugen
 uguisu
 uha
 uhen
+uiru
 uka
 ukai
 ukeoi
 ukerenai
+ukeru
 uketa
 uketori
 uketoru
@@ -9570,6 +9594,7 @@ uwasuberi
 uwayaku
 uyo
 uyoku
+uza
 valley
 vanished
 vapour
@@ -9700,6 +9725,7 @@ way
 waza
 wazakurabe
 wazawai
+wazu
 we
 weakness
 weather
@@ -10305,5 +10331,6 @@ zokusei
 zokusetsu
 zokushin
 zokuzoku
+zuru
 zuruzuru
 zuttomo
