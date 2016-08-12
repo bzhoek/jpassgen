@@ -3652,6 +3652,7 @@ jiku
 jim
 jimukyoku
 jimusho
+jintaka
 jinx
 jippaa
 jire
@@ -5439,6 +5440,7 @@ medama
 medical
 medo
 megadoru
+megamakkuguriddoru
 megami
 megane
 megashira
@@ -5995,6 +5997,7 @@ nairiku
 naisei
 naisen
 naitei
+naitopuuru
 naiya
 naizai
 naka
@@ -6354,6 +6357,7 @@ nomimono
 nomishiro
 nomisugi
 nomiya
+nonmamahakusho
 nonsense
 nooben
 noone
@@ -7815,6 +7819,7 @@ sewanin
 sexcharged
 sezoku
 shabbot
+shadoubaasu
 shall
 shameru
 shamette
