@@ -1149,6 +1149,7 @@ daphnias
 daradara
 daraku
 dare
+darekanomokkin
 dares
 daretoku
 daring
@@ -4941,6 +4942,7 @@ kubetsu
 kubi
 kubiki
 kubikiri
+kubikirisaikuru
 kubitsuri
 kubiwa
 kubochi
@@ -5838,6 +5840,7 @@ motonari
 motone
 motosen
 moufu
+moumokunoyoshinorisensei
 mountain
 mountains
 mouth
@@ -6750,6 +6753,7 @@ otsuri
 ottotto
 oubaka
 ought
+oumagatoki
 our
 ourselves
 out
