@@ -1839,6 +1839,7 @@ furekomi
 furidashi
 furigana
 furigoma
+furiika
 furikae
 furiko
 furikomi
@@ -2724,6 +2725,7 @@ hatsuyume
 hatter
 have
 having
+hawapuronohi
 hawatari
 hayabamai
 hayabike
@@ -4844,6 +4846,7 @@ konogoro
 konomae
 konosai
 konosaki
+konosekainokatasumini
 konoyaro
 konoyo
 konpyuutaa
@@ -5336,6 +5339,7 @@ manga
 mangaku
 mangan
 mangetsu
+mangetuchiizutukimi
 manhoorukaado
 maniakku
 manifuesuto
@@ -6296,6 +6300,7 @@ nintai
 nintei
 ninushi
 nippon
+nipponishinnokai
 nira
 nirin
 nise
