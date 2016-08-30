@@ -1551,6 +1551,7 @@ ensui
 entai
 entaku
 enten
+enterouirusu
 entire
 entirely
 entotsu
@@ -2291,6 +2292,7 @@ gossypine
 got
 gote
 goten
+gotouchikaraagekun
 goukai
 goukon
 govern
@@ -5268,6 +5270,7 @@ maguchi
 magure
 maguro
 magusa
+mahanakoon
 mahi
 mai
 maiasa
@@ -9958,6 +9961,7 @@ yasui
 yasumono
 yasune
 yatai
+yatatebunko
 yatoinushi
 yatsu
 yatsude
