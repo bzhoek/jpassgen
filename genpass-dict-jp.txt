@@ -1432,6 +1432,7 @@ edamame
 edauchi
 edomae
 eeto
+eeyuusutaa
 effort
 efude
 egao
@@ -6902,6 +6903,7 @@ punpunmaru
 pup
 puraimurajio
 puramoderu
+puremiamufuraidee
 purenatarian
 purichiipu
 purikura
@@ -6942,6 +6944,7 @@ ragan
 rah
 rai
 raien
+raifusuteeji
 raigetsu
 raihin
 raika
@@ -8541,6 +8544,7 @@ tabibito
 tabidori
 tabisaki
 table
+tacchibyou
 tachi
 tachiai
 tachiba
