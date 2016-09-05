@@ -227,6 +227,7 @@ anaba
 anago
 anaguma
 anagura
+anairara
 anan
 anata
 anaume
@@ -1182,6 +1183,8 @@ dattara
 datte
 daunroudo
 day
+dazn
+dazoon
 dead
 dear
 deashi
@@ -3940,6 +3943,7 @@ kakunin
 kakunuki
 kakuran
 kakurega
+kakuregiku
 kakuremino
 kakurezato
 kakuri
@@ -5059,6 +5063,7 @@ kurenai
 kurenaizoku
 kureyo
 kuri
+kuriaawasupuree
 kuribocchi
 kurige
 kurigoto
@@ -5373,6 +5378,7 @@ mari
 marimo
 marks
 marl
+maroniegeetoginza
 marshes
 maru
 maruarai
@@ -7095,6 +7101,7 @@ resting
 resultant
 resulting
 resutoran
+retaashiiringu
 rethoric
 retsu
 return
@@ -10075,6 +10082,7 @@ yonaga
 yonaka
 yonaki
 yonaoshi
+yonekkusuoopun
 yonen
 yonetsu
 yonige
