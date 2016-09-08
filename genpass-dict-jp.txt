@@ -1,4 +1,5 @@
 24jikantatakaemasuka
+KIFF
 aakuhiruzu
 aane
 aateisuteikkusuimingu
@@ -1293,6 +1294,7 @@ dislike
 dislikes
 dissonance
 distinguish
+disugureisuto
 disuniting
 disuru
 divided
@@ -5142,6 +5144,7 @@ kyabakura
 kyanto
 kyokucho
 kyoto
+kyotokokusaieigasai
 kyuudo
 kyuukyoku
 kyuushuu
@@ -8805,6 +8808,7 @@ tataki
 tatakidai
 tatami
 tatara
+tatarasamurai
 tate
 tateana
 tatebue
@@ -9245,6 +9249,7 @@ totsuka
 totta
 touched
 toufu
+toukyoutararebamusume
 towards
 tozama
 tozan
