@@ -248,6 +248,7 @@ anka
 anken
 anki
 anko
+ankokujoshi
 anmoku
 annai
 anne
@@ -761,6 +762,7 @@ bunkei
 bunken
 bunki
 bunko
+bunkoekkusu
 bunraku
 bunrei
 bunretsu
@@ -1417,6 +1419,7 @@ during
 duty
 dwell
 dyads
+eapodzu
 early
 earn
 ears
@@ -7586,6 +7589,7 @@ seemed
 seen
 seetaa
 segare
+segodon
 sei
 seian
 seiatsu
@@ -8534,6 +8538,7 @@ suteishi
 sutema
 sutemi
 sutene
+suupaaoumugi
 suyaki
 swear
 sweat
