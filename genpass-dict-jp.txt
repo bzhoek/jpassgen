@@ -237,6 +237,7 @@ and
 anda
 ando
 andon
+andoroidopei
 ane
 anger
 angrily
@@ -607,6 +608,7 @@ big
 bigaku
 bigi
 bihin
+biimuzusukuuru
 biirubanare
 bijin
 bijogaa
@@ -3331,6 +3333,7 @@ id
 idai
 idaten
 idea
+ideko
 iden
 idenshi
 idetachi
@@ -5231,6 +5234,7 @@ maboroshi
 mabudachi
 mabui
 mabuta
+maccharippukuriimu
 machi
 machibari
 machibuse
@@ -5431,6 +5435,7 @@ matsumushi
 matsuri
 matsuro
 matsutake
+matsutakegyuudon
 matsuyani
 mattari
 mattarisuru
@@ -6543,6 +6548,7 @@ okame
 okami
 okan
 okara
+okashinokuruma
 okata
 okawari
 okayu
@@ -6612,6 +6618,7 @@ omotegaki
 omotemon
 omotemuki
 omotenashi
+omotenashisuteeshon
 omotezata
 omowaku
 omoya
@@ -8538,6 +8545,7 @@ suteishi
 sutema
 sutemi
 sutene
+suupaadejira
 suupaaoumugi
 suyaki
 swear
