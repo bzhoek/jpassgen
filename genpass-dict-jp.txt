@@ -244,6 +244,7 @@ angrily
 ani
 aniki
 animenome
+animetsuurizumukyoukai
 aniyome
 anka
 anken
@@ -3022,6 +3023,7 @@ hirai
 hirakido
 hiramaku
 hirame
+hiranoshou
 hiraochika
 hiraoyogi
 hirate
@@ -3042,6 +3044,7 @@ hirugohan
 hiruhinaka
 hirui
 hiruma
+hirunakanoryuusei
 hirune
 his
 hisai
@@ -5308,6 +5311,7 @@ maitsuki
 maiyo
 majide
 majika
+majikyunrunesansu
 majimuri
 majo
 make
@@ -6775,6 +6779,7 @@ otosata
 otoshidama
 ototoi
 ototoshi
+otousantoitousan
 otsu
 otsuge
 otsuri
