@@ -890,6 +890,7 @@ chiho
 chii
 chiiki
 chiikubangu
+chiipukashio
 chiirui
 chiito
 chika
@@ -1495,6 +1496,7 @@ ekimu
 ekiri
 ekitai
 ekubo
+ekusuperia
 ekyutotachikawaosoto
 elbows
 else
@@ -8225,6 +8227,7 @@ shukudai
 shussebarai
 shut
 shuukaren
+shuukyuumikkasei
 sick
 sift
 sight
@@ -9476,6 +9479,7 @@ uekomi
 ugai
 ugan
 ugen
+ugokikatakaikaku
 uguisu
 uha
 uhen
@@ -10036,6 +10040,7 @@ yodatsu
 yodo
 yofukashi
 yofuke
+yogabukku
 yogen
 yogi
 yogiri
