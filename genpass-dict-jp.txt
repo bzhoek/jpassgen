@@ -542,6 +542,7 @@ bed
 bedding
 bedirt
 bedrivelled
+beekonpotetopai
 been
 before
 began
@@ -3685,6 +3686,7 @@ jire
 jiro
 jisho
 jiten
+jitenshashearingu
 jitojito
 jiwajiwa
 jizo
@@ -6881,6 +6883,7 @@ pick
 picked
 picture
 pig
+pikotarou
 pine
 pinofuondyukafe
 pinpin
@@ -8908,6 +8911,7 @@ tehon
 tei
 teian
 teiatsu
+teibaana
 teiban
 teiboku
 teibu
@@ -9510,6 +9514,7 @@ umauma
 ume
 umeboshi
 umekigoe
+umekitagaaden
 umekusa
 umi
 umibe
@@ -9643,6 +9648,7 @@ utsubuse
 utsute
 utsutsu
 utsuwa
+uubaaiitsu
 uwaago
 uwabaki
 uwabe
