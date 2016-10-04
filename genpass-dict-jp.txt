@@ -908,6 +908,7 @@ chikatetsu
 chikei
 chiken
 chiki
+chikinsando
 chikoku
 chiku
 chikubi
@@ -4667,6 +4668,7 @@ kisoku
 kison
 kists
 kisu
+kisumaireeji
 kit
 kita
 kitaguchi
@@ -7034,6 +7036,7 @@ ranshin
 ranso
 ranun
 ranyo
+rarapouto
 raretsu
 raritta
 rasen
@@ -7475,6 +7478,7 @@ samuke
 samurai
 samuzora
 san
+sanadahimo
 sanae
 sanagi
 sanaka
@@ -9605,6 +9609,7 @@ urusagata
 urusai
 urushi
 usagi
+usagishinboruten
 usamaru
 usankusai
 used
@@ -9691,6 +9696,7 @@ w
 wadachi
 wadai
 wafting
+wafuuoroshi
 wagahai
 wagaku
 wagakuni
