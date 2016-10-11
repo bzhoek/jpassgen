@@ -1218,6 +1218,7 @@ defune
 degake
 degarashi
 deguchi
+deiffarensu
 deigan
 deiri
 deisui
@@ -2362,6 +2363,7 @@ gunzei
 gunzoku
 guransutamarunouchi
 gurasu
+guriinberiizukoohii
 gurutachi
 gusaku
 gushin
@@ -6867,6 +6869,7 @@ patapata
 pawahara
 pay
 peacefully
+pekingushinkuukou
 penpen
 people
 per
@@ -7888,6 +7891,7 @@ sharetteiru
 shashinshuu
 shatsu
 she
+shefu
 shiai
 shian
 shiatsu
