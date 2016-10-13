@@ -4021,6 +4021,7 @@ kamisei
 kamishimo
 kamisori
 kamisuki
+kamitaiou
 kamite
 kamitteru
 kamiwaza
@@ -8106,6 +8107,7 @@ shiome
 shion
 shiorido
 shiosai
+shiotaiou
 shiraga
 shiraha
 shiraho
