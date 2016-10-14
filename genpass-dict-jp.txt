@@ -787,6 +787,7 @@ bunyo
 buraja
 buraku
 buranketto
+burasode
 buri
 buruhairu
 burui
@@ -2364,6 +2365,7 @@ gunzoku
 guransutamarunouchi
 gurasu
 guriinberiizukoohii
+guriinbooizu
 gurutachi
 gusaku
 gushin
@@ -2693,6 +2695,7 @@ hashika
 hashike
 hashikure
 hashira
+hashireoumatsusan
 hasn’t
 hason
 hasshin
@@ -4750,6 +4753,7 @@ kohaze
 koi
 koibito
 koibumi
+koidansu
 koigokoro
 koinobori
 koitsu
@@ -8532,6 +8536,7 @@ sunabokori
 sunadokei
 sunahama
 sunakemuri
+sunanotou
 sunayama
 sundan
 sune
