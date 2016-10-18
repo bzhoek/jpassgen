@@ -3677,6 +3677,7 @@ jeopardize
 jeopardy
 jet
 jewels
+jibanyanman
 jibunwohometai
 jidori
 jigen
@@ -4767,6 +4768,7 @@ kokeshi
 koki
 kokibi
 kokku
+kokkukeibunobansankai
 koko
 kokochi
 kokoku
@@ -6357,6 +6359,7 @@ nishibi
 nishiki
 nishikie
 nishin
+nisshoku
 nisui
 nit
 nitaki
@@ -6703,6 +6706,7 @@ onto
 onyanko
 onyomi
 onzon
+ooedobiirumatsuri
 oorusuru
 oosakarabittsu
 opal
