@@ -2993,6 +2993,7 @@ himegimi
 himei
 himen
 himeyuri
+himitsunokokotama
 himo
 himochi
 himoku
@@ -3496,6 +3497,7 @@ ine
 inei
 inekari
 inekoki
+inferuno
 inferunoo
 infinite
 infinitely
@@ -5357,6 +5359,7 @@ makugire
 makura
 makuragi
 makuramoto
+makurosuderutasukuranburu
 makushita
 malt
 mama
