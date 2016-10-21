@@ -2675,6 +2675,7 @@ harigane
 hariko
 harite
 haritsuke
+harouinmajopoteto
 haru
 harugasumi
 haruka
@@ -4203,6 +4204,7 @@ kasaku
 kasan
 kasatate
 kasei
+kaseifunomitazono
 kaseigan
 kaseki
 kasen
@@ -5692,6 +5694,7 @@ mingei
 mingu
 mini
 minicabs
+minionhachamecharaido
 minka
 minkan
 mino
@@ -6348,6 +6351,7 @@ ninshiki
 ninshin
 nintai
 nintei
+nintendosuicchi
 ninushi
 nippon
 nipponishinnokai
@@ -9808,6 +9812,7 @@ watagashi
 watage
 watagumo
 wataire
+watanabemorinari
 wataridori
 watashi
 watashiba
