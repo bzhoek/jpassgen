@@ -1192,6 +1192,7 @@ datsurin
 datsuzei
 dattara
 datte
+daunraito
 daunroudo
 day
 dazn
@@ -1502,6 +1503,8 @@ ekiri
 ekitai
 ekubo
 ekusuperia
+ekusuperiaiyaa
+ekutora
 ekyutotachikawaosoto
 elbows
 else
@@ -3773,6 +3776,7 @@ kadoguchi
 kadomatsu
 kaedama
 kaede
+kaehoudai
 kaen
 kaerichi
 kaerigiwa
@@ -4735,6 +4739,7 @@ kochira
 kodachi
 kodai
 kodakara
+kodakku
 kodama
 kodashi
 kodomo
@@ -5417,6 +5422,7 @@ mappadaka
 march
 mari
 marimo
+mariopikachu
 marks
 marl
 maroniegeetoginza
@@ -6108,6 +6114,7 @@ namapo
 namari
 namatamago
 namazakana
+namazehyutte
 name
 named
 nameko
@@ -6731,6 +6738,7 @@ oreoresagi
 oresama
 oretachi
 ori
+oribaahaato
 origami
 origin
 orihime
@@ -7216,6 +7224,7 @@ ringetsu
 ringi
 ringo
 ringoku
+ringuchurosu
 rinin
 rinka
 rinkai
@@ -9307,6 +9316,7 @@ totsu
 totsugeki
 totsuka
 totta
+totto
 touched
 toufu
 toukyoutararebamusume
@@ -9357,6 +9367,7 @@ tsugime
 tsugumi
 tsui
 tsuibi
+tsuicchipuraimu
 tsuigeki
 tsuigo
 tsuihi
