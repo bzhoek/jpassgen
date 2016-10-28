@@ -1,5 +1,4 @@
 24jikantatakaemasuka
-KIFF
 aakuhiruzu
 aane
 aateisuteikkusuimingu
@@ -896,6 +895,7 @@ chiikubangu
 chiipukashio
 chiirui
 chiito
+chiizukatsubaagaa
 chika
 chikaba
 chikagoro
@@ -2206,6 +2206,7 @@ ginka
 ginnan
 gins
 ginsekai
+ginzashikkusu
 gion
 giragira
 girei
@@ -6588,6 +6589,7 @@ okamai
 okame
 okami
 okan
+okapero
 okara
 okashinokuruma
 okata
@@ -6914,6 +6916,7 @@ pick
 picked
 picture
 pig
+piipiieepiikafue
 pikotarou
 pine
 pinofuondyukafe
@@ -7049,6 +7052,7 @@ rakusen
 rakutan
 rakuten
 rakutenfm
+rakutenpei
 rakuyaki
 ran
 randa
