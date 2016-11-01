@@ -969,6 +969,7 @@ chiwawa
 chiyo
 chiyogami
 chiyu
+chizza
 chloritization
 choberiba
 choberigu
@@ -1845,6 +1846,7 @@ funki
 funnu
 funny
 funori
+funouhan
 funrei
 funsai
 funsen
@@ -4505,6 +4507,7 @@ kibiki
 kibo
 kibori
 kiboukyouiwatekokutai
+kibounojuku
 kibun
 kibutsu
 kichi
@@ -4580,6 +4583,7 @@ kimei
 kimete
 kimi
 kimidori
+kiminisasageruenburemu
 kimitsu
 kimo
 kimochi
