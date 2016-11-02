@@ -335,6 +335,7 @@ arthrodynic
 artist
 aruaru
 arubaito
+arutashiataa
 as
 asa
 asaban
@@ -346,6 +347,7 @@ asagiri
 asagohan
 asahi
 asaichi
+asakariho
 asameshi
 asamidori
 asamoya
@@ -670,6 +672,7 @@ boku
 bokuchiku
 bokuga
 bokumetsu
+bokunoojisan
 bokushi
 bold
 bon
@@ -2369,6 +2372,7 @@ guntai
 gunte
 gunzei
 gunzoku
+gurankuresutosenki
 guransutamarunouchi
 gurasu
 guriinberiizukoohii
@@ -7258,6 +7262,7 @@ ririku
 riritsu
 riro
 riron
+rirurirufeariru
 risage
 risai
 risan
