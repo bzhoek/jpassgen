@@ -1228,6 +1228,7 @@ deguchi
 deiffarensu
 deigan
 deiri
+deiriiboonasu
 deisui
 deka
 dekasegi
@@ -1315,6 +1316,7 @@ disuniting
 disuru
 divided
 djs
+dmmokan
 do
 doai
 dobin
@@ -4979,6 +4981,7 @@ kotsuban
 kotsutsubo
 kouji
 kouri
+kourinowadachi
 kousei
 kousoku
 kowairo
@@ -7549,6 +7552,7 @@ sankan
 sankei
 sanken
 sanketsu
+sankuzeeru
 sankyuusetto
 sannan
 sanoru
@@ -8579,6 +8583,7 @@ sune
 sungeki
 sunoko
 sunomono
+sunoopiikannattsulatte
 sunshi
 sunzen
 supagettii
