@@ -125,6 +125,7 @@ akari
 akasabi
 akashi
 akashio
+akashiyakouhaku
 akatsuchi
 akatsuki
 akebono
@@ -2389,6 +2390,7 @@ guzuguzu
 gyaaa
 gyakupaka
 gyogiwaru
+gyouzabaggu
 ha
 haaku
 haba
@@ -3682,6 +3684,7 @@ jaarimasenka
 jack
 jackets
 jane
+janpufesuta
 japaaaaan
 japan
 jay
@@ -5062,6 +5065,7 @@ kuma
 kumabachi
 kumade
 kumadori
+kumaerui
 kumazasa
 kumen
 kumi
@@ -8091,6 +8095,7 @@ shini
 shinimasen
 shinise
 shinjinrui
+shinjoukun
 shinka
 shinkabu
 shinkai
