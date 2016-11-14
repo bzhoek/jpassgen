@@ -4743,6 +4743,7 @@ kobata
 kobetsu
 kobiki
 kobito
+kobopaakumiyagi
 kobu
 kobun
 kobune
@@ -5051,6 +5052,7 @@ kugi
 kugurido
 kuhai
 kui
+kuiinzurinngu
 kuike
 kuiki
 kuikomu
