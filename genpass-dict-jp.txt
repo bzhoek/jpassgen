@@ -4,6 +4,7 @@ aane
 aateisuteikkusuimingu
 abarabone
 abaraya
+abaroonopurinsesuerena
 abarthrosis
 abauto
 abayo
@@ -792,6 +793,7 @@ buraja
 buraku
 buranketto
 burasode
+bureauicchi
 buri
 buruhairu
 burui
@@ -7193,6 +7195,7 @@ riage
 riajuu
 ribarai
 ribetsu
+ribonnofurokuten
 ricchimo
 rich
 richi
@@ -9303,6 +9306,7 @@ torigoya
 torihada
 torihiki
 torii
+torikagonomariaaju
 toriko
 torikuchi
 torikumi
