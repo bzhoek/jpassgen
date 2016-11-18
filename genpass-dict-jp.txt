@@ -222,6 +222,7 @@ amimono
 amimoto
 aminome
 among
+amoore
 ampul
 an
 ana
@@ -337,6 +338,7 @@ arthrodynic
 artist
 aruaru
 arubaito
+arukisumaho
 arutashiataa
 as
 asa
@@ -393,6 +395,7 @@ aspire
 asshiikun
 assistant
 asu
+asuriitofaasuto
 at
 atai
 atama
@@ -400,6 +403,7 @@ atamagoshi
 atamakin
 atamauchi
 atami
+atarashiihandan
 atari
 atatatai
 atchiitte
@@ -619,6 +623,7 @@ bijin
 bijogaa
 bika
 bikan
+bikkuripon
 bimei
 bimyo
 bin
@@ -785,6 +790,7 @@ bunsetsu
 bunshi
 bunshin
 bunshitsu
+bunshunhou
 buntai
 buntan
 bunya
@@ -1411,6 +1417,7 @@ dotsubo
 doudemoii
 doujousurunarakanekure
 douka
+dounattsupoppu
 doushita
 doushitano
 dowasure
@@ -1618,6 +1625,7 @@ etoku
 etsu
 etsunen
 etsuran
+euridatsu
 europe
 european
 evangeliser
@@ -2172,6 +2180,7 @@ geri
 gesen
 geshi
 gesoku
+gesufurin
 gesui
 get
 geta
@@ -3177,6 +3186,7 @@ hogoshi
 hohaba
 hohei
 hoiku
+hoikuenochita
 hoitsu
 hoka
 hokage
@@ -3702,6 +3712,7 @@ jibunwohometai
 jidori
 jigen
 jigs
+jikafiibaa
 jikkuri
 jiku
 jim
@@ -3950,6 +3961,7 @@ kakeochi
 kakera
 kakeru
 kaketsu
+kaketukekeigo
 kakezan
 kaki
 kakimono
@@ -4595,6 +4607,7 @@ kimete
 kimi
 kimidori
 kiminisasageruenburemu
+kiminonawa
 kimitsu
 kimo
 kimochi
@@ -5070,6 +5083,7 @@ kumabachi
 kumade
 kumadori
 kumaerui
+kumamon
 kumazasa
 kumen
 kumi
@@ -5352,6 +5366,7 @@ maigo
 maihime
 maikai
 maiko
+mainasukinri
 mainichi
 mainichishuzo
 maisetsu
@@ -5898,6 +5913,7 @@ mood
 moose
 more
 mori
+morido
 morisoba
 moritsuchi
 morning
@@ -6804,6 +6820,7 @@ oshokutomousu
 osoba
 osomaki
 osomatsuekisupo
+osomatsusan
 osonae
 osoresu
 osoro
@@ -6893,6 +6910,7 @@ pakuri
 pakutto
 palm
 pan
+panamabunsho
 pane
 panikkuru
 panikuru
@@ -6967,6 +6985,7 @@ possession
 possible
 pounyoponyo
 power
+ppap
 praising
 predominant
 presence
@@ -7107,6 +7126,7 @@ recently
 recommendation
 red
 refuse
+regashii
 regelialia
 regular
 rei
@@ -7176,6 +7196,7 @@ renya
 renza
 renzan
 renzoku
+renzuresukamera
 repeat
 replied
 report
@@ -7455,6 +7476,7 @@ saitaku
 saitee
 saitei
 saiten
+saitosandazo
 saiyaku
 saka
 sakaba
@@ -7686,6 +7708,7 @@ seibu
 seibun
 seibutsu
 seichi
+seichijunrei
 seidan
 seidenki
 seido
@@ -7878,6 +7901,7 @@ sente
 sentei
 senten
 sentences
+sentensusupringu
 sentetsu
 sento
 senyaku
@@ -8094,6 +8118,7 @@ shingetsu
 shingi
 shingin
 shingo
+shingojira
 shingu
 shingun
 shini
@@ -8323,6 +8348,7 @@ slightly
 slowly
 slue
 small
+smapkaisan
 so
 soan
 soba
@@ -8765,6 +8791,7 @@ takai
 takaibiki
 takaku
 takakukei
+takamatsupea
 takanami
 takane
 takanozomi
@@ -9269,6 +9296,7 @@ tomegane
 tomegu
 tomi
 tomin
+tominfaasuto
 tomo
 tomodachi
 tomodaore
@@ -9297,6 +9325,7 @@ torakichi
 toranoanadenshishoseki
 toranoko
 toranomaki
+toranpugensho
 toredaka
 tori
 toride
@@ -10377,6 +10406,7 @@ zany
 zaps
 zaragami
 zarame
+zaroyaruekisupresu
 zaru
 zarusoba
 zaseki
