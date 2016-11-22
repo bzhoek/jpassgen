@@ -3919,6 +3919,7 @@ kaisatsu
 kaisei
 kaiseki
 kaisen
+kaisenmentaichiizuman
 kaisetsu
 kaishi
 kaishin
@@ -5067,6 +5068,7 @@ kugi
 kugurido
 kuhai
 kui
+kuiddichi
 kuiinzurinngu
 kuike
 kuiki
@@ -6397,6 +6399,7 @@ nintai
 nintei
 nintendosuicchi
 ninushi
+nioiten
 nippon
 nipponishinnokai
 nira
@@ -6535,6 +6538,7 @@ nurimono
 nurumayu
 nurunuru
 nushi
+nuuhara
 nymph
 nymphs
 nyuuyoku
