@@ -796,6 +796,7 @@ buntan
 bunya
 bunyo
 buraja
+burakkufuraidee
 buraku
 buranketto
 burasode
@@ -5218,6 +5219,7 @@ kwsk
 ky
 kyabakura
 kyanto
+kyobashiedoguran
 kyokucho
 kyoto
 kyotokokusaieigasai
@@ -6915,6 +6917,7 @@ pakutto
 palm
 pan
 panamabunsho
+pandaekisupresu
 pane
 panikkuru
 panikuru
@@ -9289,6 +9292,7 @@ tokutei
 tokuten
 tokuyaku
 tokyo
+tokyojoshizukan
 told
 tomae
 tomarigi
