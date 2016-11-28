@@ -1380,6 +1380,7 @@ dokyun
 doma
 dome
 domed
+domenpurebutu
 don
 donata
 dondake
@@ -1471,6 +1472,7 @@ eeto
 eeyuusutaa
 effort
 efude
+efushiiimabari
 egao
 egara
 ego
@@ -10516,6 +10518,7 @@ zokusei
 zokusetsu
 zokushin
 zokuzoku
+zozomarinsutajiamu
 zuru
 zuruzuru
 zuttomo
