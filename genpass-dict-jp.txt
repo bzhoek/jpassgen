@@ -338,6 +338,7 @@ arthrodynic
 artist
 aruaru
 arubaito
+arukiki
 arukisumaho
 arutashiataa
 as
@@ -1727,6 +1728,7 @@ former
 forms
 forward
 forwards
+fotosukyan
 found
 four
 fowl
@@ -2204,6 +2206,7 @@ gida
 gidai
 gien
 gifu
+gigamon
 gigei
 gigi
 gigoku
@@ -7070,6 +7073,7 @@ raikan
 raiki
 raimei
 rain
+rainautofurii
 rainen
 raireki
 raisan
