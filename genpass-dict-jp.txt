@@ -778,6 +778,7 @@ bunken
 bunki
 bunko
 bunkoekkusu
+bunnoaito
 bunraku
 bunrei
 bunretsu
@@ -909,6 +910,7 @@ chiikubangu
 chiipukashio
 chiirui
 chiito
+chiizuchiizubaagaa
 chiizukatsubaagaa
 chika
 chikaba
@@ -2706,6 +2708,7 @@ harigane
 hariko
 harite
 haritsuke
+harootoreeningu
 harouinmajopoteto
 haru
 harugasumi
@@ -10354,6 +10357,7 @@ yunomi
 yuppa
 yurai
 yuri
+yurigokoro
 yurikago
 yurusanai
 yusai
