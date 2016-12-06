@@ -126,6 +126,7 @@ akari
 akasabi
 akashi
 akashio
+akashitamagoyaki
 akashiyakouhaku
 akatsuchi
 akatsuki
@@ -207,6 +208,7 @@ amazake
 amazarashi
 amazed
 amazingly
+amazondasshubotan
 amazoru
 ambushed
 ame
@@ -620,6 +622,7 @@ bigi
 bihin
 biimuzusukuuru
 biirubanare
+biitsu
 bijin
 bijogaa
 bika
@@ -1536,6 +1539,7 @@ emakimono
 embarrassed
 emi
 emmeleia
+emoi
 emonkake
 emono
 en
