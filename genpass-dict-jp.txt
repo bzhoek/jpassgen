@@ -1331,6 +1331,7 @@ disugureisuto
 disuniting
 disuru
 divided
+dizuniiaatoten
 djs
 dmmokan
 do
@@ -1804,6 +1805,7 @@ fukubukuro
 fukubun
 fukudai
 fukudoku
+fukuebisu
 fukueki
 fukugaku
 fukugan
@@ -3716,6 +3718,7 @@ jay
 jc
 jd
 jejeje
+jentirooni
 jeopardize
 jeopardy
 jet
@@ -7174,6 +7177,7 @@ reisui
 reiwa
 reizen
 rejects
+rejirobo
 reki
 rekidai
 rekijo
