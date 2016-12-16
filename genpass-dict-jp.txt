@@ -340,6 +340,7 @@ arthrodynic
 artist
 aruaru
 arubaito
+arukeyoomome
 arukiki
 arukisumaho
 arutashiataa
@@ -747,6 +748,7 @@ buhibuhi
 buhin
 buhiru
 bui
+buiaarupaaku
 buiburosu
 buikutoriinahimeji
 buin
@@ -1697,6 +1699,7 @@ fifty
 fight
 find
 finding
+fingaanappu
 fingan
 first
 fish
@@ -3581,6 +3584,7 @@ into
 intoku
 inton
 inu
+inuyashiki
 inuzori
 invited
 invoked
@@ -6594,6 +6598,7 @@ odeki
 odeko
 odemashi
 oden
+odentsuntsun
 odokemono
 odori
 odoriba
@@ -7880,6 +7885,7 @@ sengetsu
 sengiri
 sengo
 sengoku
+sengokuzariaru
 seni
 seniki
 senin
@@ -10264,6 +10270,7 @@ yoroku
 yoroshiku
 yoru
 yorube
+yoruwamijikashi
 yosamu
 yosan
 yose
