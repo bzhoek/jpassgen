@@ -805,6 +805,7 @@ bunya
 bunyo
 buraja
 burakkufuraidee
+burakkukuroobaa
 buraku
 buranketto
 burasode
@@ -4210,6 +4211,7 @@ kaoyaku
 kappu
 kara
 karaage
+karaagekunman
 karabito
 karaburi
 karada
@@ -5423,6 +5425,7 @@ maku
 makuai
 makuake
 makuaki
+makudonarudosousenkyo
 makugire
 makura
 makuragi
@@ -6565,6 +6568,7 @@ nurumayu
 nurunuru
 nushi
 nuuhara
+nyaera
 nymph
 nymphs
 nyuuyoku
