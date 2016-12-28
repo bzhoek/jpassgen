@@ -480,6 +480,7 @@ baika
 baikai
 baikin
 baimei
+bainkamera
 bairitsu
 baisen
 baishin
@@ -4724,6 +4725,7 @@ kisai
 kisaki
 kisama
 kisaragi
+kiseenjaa
 kisei
 kiseki
 kisen
@@ -6990,6 +6992,7 @@ pick
 picked
 picture
 pig
+piidiiefupen
 piipiieepiikafue
 pikotarou
 pine
@@ -10488,6 +10491,7 @@ zendama
 zendera
 zendo
 zenei
+zenfon
 zengaku
 zengen
 zengetsu
