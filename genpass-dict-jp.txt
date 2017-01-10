@@ -1338,6 +1338,7 @@ disuru
 divided
 dizuniiaatoten
 djs
+dmmakademii
 dmmokan
 do
 doai
@@ -1412,6 +1413,7 @@ doragonkuesuto
 doragonpurojekkuto
 doraibaa
 doraibingubarisuta
+doraibuheddo
 doraisensou
 doredore
 dorei
@@ -4895,6 +4897,7 @@ komainu
 komaku
 komakusa
 komamono
+komandante
 komarimono
 komawari
 kome
@@ -5556,6 +5559,7 @@ mayoke
 maythe
 mayu
 mayuge
+mayurika
 me
 mean
 means
@@ -7149,6 +7153,7 @@ ranso
 ranun
 ranyo
 rarapouto
+rararando:
 raretsu
 raritta
 rasen
@@ -9776,6 +9781,7 @@ usui
 usuiro
 usumidori
 usumono
+usunosenso
 usuusu
 uta
 utaawase
