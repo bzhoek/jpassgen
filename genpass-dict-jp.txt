@@ -1545,6 +1545,7 @@ else
 ema
 emaki
 emakimono
+emasutoon
 embarrassed
 emi
 emmeleia
@@ -4090,6 +4091,7 @@ kamitaiou
 kamite
 kamitteru
 kamiwaza
+kamiyamato
 kamiza
 kamo
 kamoi
@@ -4827,6 +4829,8 @@ koibumi
 koidansu
 koigokoro
 koinobori
+koisai
+koisurushirokuma
 koitsu
 koka
 kokage
@@ -6577,6 +6581,7 @@ nuuhara
 nyaera
 nymph
 nymphs
+nyuudannkannronnpa
 nyuuyoku
 o
 oba
@@ -7579,6 +7584,7 @@ sakuki
 sakumotsu
 sakunen
 sakura
+sakuramyuujikku
 sakuretsu
 sakusan
 sakusei
