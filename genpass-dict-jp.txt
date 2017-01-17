@@ -998,6 +998,7 @@ chloritization
 choberiba
 choberigu
 choice
+chokokuriimu
 chon
 choose
 chooses
@@ -5683,6 +5684,7 @@ metcha
 method
 metsu
 metsuki
+mettoraifudoomu
 meue
 meutsuri
 meyani
@@ -7359,6 +7361,7 @@ risu
 risui
 riten
 ritoku
+ritorubokko
 ritsu
 ritsuan
 ritsuki
@@ -8966,6 +8969,7 @@ tarako
 tarakotarako
 tare
 taremaku
+tarerebamusume
 taretare
 tariki
 taro
@@ -9434,6 +9438,7 @@ totto
 touched
 toufu
 toukyoutararebamusume
+toukyoutarereba
 towards
 tozama
 tozan
@@ -9916,6 +9921,7 @@ wanted
 wanton
 wants
 waon
+warabi
 warawara
 warii
 warini
