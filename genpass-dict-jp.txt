@@ -533,6 +533,7 @@ bansen
 bantan
 bante
 banyaku
+banzaishisutemu
 bara
 barairo
 bariki
@@ -1421,6 +1422,7 @@ dorei
 dormouse
 doro
 dorodoro
+dorokyun
 doron
 doronawa
 doronuma
@@ -5407,6 +5409,7 @@ maiko
 mainasukinri
 mainichi
 mainichishuzo
+mainintenndou
 maisetsu
 maishin
 maitake
@@ -5508,6 +5511,7 @@ marugakae
 marugao
 marugari
 marugata
+marugotopurinman
 maruhadaka
 maruki
 marukinmarubi
@@ -6287,6 +6291,7 @@ neagari
 neage
 nearer
 nease
+nebaayangubiichi
 nebaka
 nebaneba
 nebarike
@@ -6763,6 +6768,7 @@ onaka
 onara
 once
 onchi
+ondariku
 ondo
 ondoku
 ondori
@@ -7458,6 +7464,7 @@ saburo
 sac
 sad
 saeki
+saenaidansu
 safe
 sagaku
 sagan
@@ -7635,6 +7642,7 @@ sanitsu
 sanka
 sankai
 sankaku
+sankakuichigochokopai
 sankan
 sankei
 sanken
@@ -9605,6 +9613,7 @@ twenty
 twig
 two
 uba
+ubaiaifuyu
 ubuge
 ubugi
 ubugoe
