@@ -4965,6 +4965,7 @@ konosaki
 konosekainokatasumini
 konoyaro
 konoyo
+konpireeshonmedia
 konpyuutaa
 konran
 konrei
@@ -6907,6 +6908,7 @@ otokoyu
 otome
 otomo
 otona
+otonanofanta
 otori
 otosata
 otoshidama
@@ -9445,6 +9447,7 @@ totta
 totto
 touched
 toufu
+toukyousumikkogohan
 toukyoutararebamusume
 toukyoutarereba
 towards
@@ -10322,6 +10325,7 @@ yosete
 yoshi
 yoshiashi
 yoshibarumi
+yoshidanagi
 yoshimi
 yoshin
 yoso
