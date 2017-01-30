@@ -5057,6 +5057,7 @@ kozaiku
 kozakana
 kozatohen
 kozeni
+kozukatakou
 kronen
 ksk
 kubetsu
