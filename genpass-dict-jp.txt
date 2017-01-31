@@ -1919,6 +1919,7 @@ furitsuke
 furniturerattling
 furo
 furoku
+furomaajuman
 furorida
 furoshiki
 furu
@@ -7072,6 +7073,7 @@ puraimurajio
 puramoderu
 pureirisuto
 puremiamufuraidee
+puremiamumarusheoosaka
 purenatarian
 purichiipu
 purikura
@@ -7132,6 +7134,7 @@ raising
 raiten
 raiu
 raiun
+rajiokuraudo
 rakan
 rakkii
 rakuba
