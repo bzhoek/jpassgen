@@ -936,6 +936,7 @@ chikei
 chiken
 chiki
 chikinsando
+chikintaruta
 chikoku
 chiku
 chikubi
@@ -5531,6 +5532,7 @@ masatsu
 masayume
 mashumarojoshi
 massugu
+massurumonsutaa
 masterbuilder
 masu
 masui
@@ -7713,6 +7715,7 @@ sasuga
 sasuke
 sat
 sata
+satadeesuteeshon
 satadenai
 satei
 satetsu
