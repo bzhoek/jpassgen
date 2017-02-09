@@ -2561,6 +2561,7 @@ hakike
 hakimono
 hako
 hakobe
+hakobooi
 hakobune
 hakoiri
 hakone
@@ -4783,6 +4784,7 @@ kizai
 kizetsu
 kizoku
 kizokuin
+kizokutantei
 kizuna
 klesha
 know
@@ -5263,6 +5265,7 @@ kyobashiedoguran
 kyokucho
 kyoto
 kyotokokusaieigasai
+kyounokirakun
 kyuudo
 kyuukyoku
 kyuushuu
@@ -5520,6 +5523,7 @@ maruhadaka
 maruki
 marukinmarubi
 marumie
+marumofubiyori
 marunomi
 marusa
 maruta
@@ -6726,6 +6730,7 @@ okute
 okuyami
 okuyuki
 omae
+omaewamadagummawoshiranai
 omaiga
 omairi
 omake
