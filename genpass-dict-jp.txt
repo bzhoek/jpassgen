@@ -6707,6 +6707,7 @@ okite
 okizari
 okkanai
 oko
+okoemonika
 okonomi
 okoshi
 okowa
@@ -7187,6 +7188,7 @@ rasen
 ratai
 rather
 rationally
+ratobara
 raven
 ravens
 raving
