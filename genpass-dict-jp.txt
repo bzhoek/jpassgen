@@ -2654,6 +2654,7 @@ hands
 hane
 hanei
 hanen
+hanerokoikingu
 hanetsuki
 hanga
 hangaku
@@ -3731,6 +3732,7 @@ jane
 janpufesuta
 japaaaaan
 japan
+japaripedia
 jay
 jc
 jd
@@ -5865,6 +5867,7 @@ mizen
 mizeni
 mizo
 mizore
+moanatodensetsunoumi
 mobbing
 mochi
 mochiba
@@ -9583,6 +9586,7 @@ tsuraate
 tsuragamae
 tsurara
 tsureai
+tsurezurechirudoren
 tsuri
 tsuriage
 tsuribari
