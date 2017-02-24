@@ -236,6 +236,7 @@ anagura
 anairara
 anan
 anata
+anatanokotowasorehodo
 anaume
 anchi
 and
@@ -304,6 +305,7 @@ apothegmatical
 appare
 approach
 approaches
+appurupaaku
 appusuru
 apuri
 ara
@@ -1303,6 +1305,7 @@ dentetsu
 denwa
 depending
 derodero
+derutatawaa
 desakari
 desaki
 describe
@@ -1479,6 +1482,7 @@ easy
 eat
 eating
 ebi
+ebikareeman
 ebipurikatsu
 ebisen
 eboshi
@@ -2646,6 +2650,7 @@ hanazakari
 hanazono
 hanbaagaa
 hanbaagu
+hanbunaoi
 hand
 handa
 handan
