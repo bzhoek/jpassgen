@@ -413,6 +413,7 @@ atamauchi
 atami
 atarashiihandan
 atari
+atarimaepoemu
 atatatai
 atchiitte
 atchikaere
@@ -1143,6 +1144,7 @@ daisotsu
 daitai
 daitaibu
 daiyaku
+daiyonshinsotsu
 daiza
 daizai
 dakai
@@ -3971,6 +3973,7 @@ kaitai
 kaitaku
 kaite
 kaitei
+kaitekitsuukin
 kaiten
 kaitori
 kaiun
