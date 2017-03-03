@@ -3358,6 +3358,7 @@ hurt
 huskiness
 hustles
 hutsugonashinjitsu
+hyakumanennoonnatachi
 hyoukinzoku
 hyperprism
 i
@@ -7155,6 +7156,7 @@ raiten
 raiu
 raiun
 rajiokuraudo
+rajiopurinto
 rakan
 rakkii
 rakuba
@@ -8927,6 +8929,7 @@ takuhatsu
 takuhon
 takuitsu
 takumi
+takushiibin
 talc
 talents
 talk
@@ -9889,6 +9892,7 @@ vokalia
 vow
 vox
 w
+waadomyuuto
 wadachi
 wadai
 wafting
@@ -10398,6 +10402,7 @@ yubisaki
 yubiwa
 yubun
 yubune
+yuchuubutv
 yudan
 yuden
 yudetamago
