@@ -2236,6 +2236,7 @@ gida
 gidai
 gien
 gifu
+gigabeekonteritama
 gigamon
 gigei
 gigi
@@ -8538,6 +8539,7 @@ sorairo
 soramame
 soramimi
 sorani
+soratobutaiya
 sorei
 sorena
 sorenaa
@@ -8925,6 +8927,7 @@ takuan
 takuchi
 takuetsu
 takuhai
+takuhaibokkusu
 takuhatsu
 takuhon
 takuitsu
@@ -9746,6 +9749,8 @@ unei
 unga
 uni
 uniform
+unikoongandamu
+unikusu
 uniqlou
 universal
 universe
