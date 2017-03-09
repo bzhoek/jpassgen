@@ -4659,6 +4659,7 @@ kimi
 kimidori
 kiminisasageruenburemu
 kiminonawa
+kiminonawaten
 kimitsu
 kimo
 kimochi
@@ -4854,6 +4855,7 @@ koinobori
 koisai
 koisurushirokuma
 koitsu
+koiwaameagarinoyouni
 koka
 kokage
 kokatsu
@@ -5219,6 +5221,7 @@ kuroshe
 kuroshio
 kuroshiro
 kurotsuchi
+kurowaruurushiguma
 kuroyama
 kuru
 kurubushi
@@ -7149,6 +7152,7 @@ raimei
 rain
 rainautofurii
 rainen
+rainmukku
 raireki
 raisan
 raise
