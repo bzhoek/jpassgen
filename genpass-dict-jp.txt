@@ -3391,6 +3391,7 @@ ichigan
 ichigeki
 ichigen
 ichigo
+ichigomirufiiyupafe
 ichigun
 ichii
 ichiichi
@@ -3756,6 +3757,7 @@ jeopardy
 jet
 jewels
 jibanyanman
+jibunshoten
 jibunwohometai
 jidori
 jigen
@@ -8780,6 +8782,7 @@ taberu
 tabi
 tabibito
 tabidori
+tabinekoripooto
 tabisaki
 table
 tacchibyou
@@ -8915,6 +8918,7 @@ takekago
 takekurabe
 taken
 takenoko
+takenokofon
 takes
 taketori
 takeuma
