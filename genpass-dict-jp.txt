@@ -778,6 +778,7 @@ bundoki
 bungaku
 bungakubu
 bungei
+bungeigeinin
 bungen
 bungo
 bungu
@@ -6520,6 +6521,7 @@ nobanashi
 nobara
 nobe
 nobi
+nobiiruchiizubaagaa
 nobinobi
 nobori
 noborisen
@@ -7106,6 +7108,7 @@ pulses
 puma
 punpunmaru
 pup
+puraaju
 puraimurajio
 puramoderu
 pureirisuto
@@ -9772,6 +9775,7 @@ uni
 uniform
 unikoongandamu
 unikusu
+uniqlomuubu
 uniqlou
 universal
 universe
