@@ -1706,6 +1706,7 @@ fajii
 fall
 familiar
 family
+fandiina
 fantastic
 far
 farther
@@ -5294,6 +5295,7 @@ kyobashiedoguran
 kyokucho
 kyoto
 kyotokokusaieigasai
+kyototawaasando
 kyounokirakun
 kyuudo
 kyuukyoku
@@ -7075,6 +7077,7 @@ plot
 pochiru
 pointing
 pokevision
+pokkiisukuiizu
 polloi
 pomonic
 pondemaron
@@ -7214,6 +7217,7 @@ ranshin
 ranso
 ranun
 ranyo
+rapurasunomajo
 rarapouto
 rararando:
 raretsu
@@ -8774,6 +8778,7 @@ suteishi
 sutema
 sutemi
 sutene
+sutikkudomino
 suupaadejira
 suupaaoumugi
 suyaki
