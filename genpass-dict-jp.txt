@@ -288,6 +288,7 @@ any
 anyaku
 anyone
 anything
+anyuuta
 anzan
 anzenshinwa
 ao
@@ -1481,6 +1482,7 @@ during
 duty
 dwell
 dyads
+eahanami
 eapodzu
 early
 earn
@@ -4097,6 +4099,7 @@ kame
 kamei
 kamekame
 kamen
+kamenraidaa
 kameresu
 kami
 kamibukuro
@@ -5807,6 +5810,7 @@ mimono
 mimoto
 min
 minage
+minamari
 minami
 minamiyamarin
 minamoto
@@ -7085,6 +7089,7 @@ polloi
 pomonic
 pondemaron
 poniteeru
+poppii
 porukadotto
 position
 possession
@@ -8778,6 +8783,7 @@ susuharai
 susuki
 suteba
 sutebachi
+suteejiaraundotokyo
 suteishi
 sutema
 sutemi
