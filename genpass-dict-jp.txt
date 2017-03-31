@@ -502,6 +502,7 @@ baka
 bakakkoii
 bakemono
 baken
+baketsupoteto
 bakuchi
 bakuchiku
 bakudan
@@ -3813,6 +3814,7 @@ jumpy
 junbiokke
 junchuugata
 junk
+junkendou
 juri
 jury
 just
@@ -5752,6 +5754,7 @@ michinori
 michishio
 midashi
 midashigo
+midasu
 midokoro
 midoku
 midori
@@ -10268,6 +10271,7 @@ yashiro
 yasui
 yasumono
 yasune
+yasuraginosato
 yatai
 yatatebunko
 yatoinushi
