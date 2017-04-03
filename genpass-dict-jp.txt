@@ -2450,6 +2450,7 @@ guttus
 guzuguzu
 gyaaa
 gyakupaka
+gyarakushiibukku
 gyogiwaru
 gyouzabaggu
 ha
@@ -6851,6 +6852,7 @@ onnen
 onnetsu
 ono
 onore
+onpukensaku
 onsa
 onsei
 onsen
@@ -8732,6 +8734,8 @@ sukuinushi
 sumabon
 sumahen
 sumaho
+sumahoatm
+sumahoteikiken
 sumai
 suman
 sumi
