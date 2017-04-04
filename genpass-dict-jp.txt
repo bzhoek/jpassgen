@@ -2276,6 +2276,7 @@ ginnan
 gins
 ginsekai
 ginzashikkusu
+ginzasonypaaku
 gion
 giragira
 girei
@@ -4221,6 +4222,7 @@ kansatsu
 kansei
 kansen
 kansetsu
+kansetsujiman
 kanshi
 kanshiki
 kanshin
@@ -7452,6 +7454,7 @@ robottokonrochirichiri
 roei
 roguery
 roka
+rokabogyumen
 rokata
 roken
 rokettomobairu
@@ -9864,6 +9867,7 @@ usagi
 usagishinboruten
 usamaru
 usankusai
+usatama
 used
 uses
 usetsu
