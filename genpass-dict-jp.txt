@@ -12,6 +12,7 @@ abauto
 abayo
 abcess
 abekku
+abemabideo
 abeuta
 ability
 able
@@ -5210,6 +5211,7 @@ kuragari
 kurage
 kurai
 kuraidori
+kuraishisu
 kuraku
 kuramoto
 kurashi
@@ -7095,6 +7097,7 @@ pokkiisukuiizu
 polloi
 pomonic
 pondemaron
+pondepuremiamu
 poniteeru
 poppii
 porukadotto
@@ -7525,6 +7528,7 @@ ryo
 ryokai
 ryoushuusho
 ryukogo
+ryuukyuuasutiida
 saabisu
 saba
 sabaku
@@ -9692,6 +9696,7 @@ ttaku
 tteba
 tteka
 tuiho
+tuittaaraito
 tukra
 turf
 turn
