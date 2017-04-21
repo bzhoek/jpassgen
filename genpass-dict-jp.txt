@@ -1923,6 +1923,7 @@ furage
 furaggutuaa
 furaiingusamaamajikku
 furan
+furankenshutain
 furanki
 furazan
 furekomi
@@ -2455,6 +2456,7 @@ gyakupaka
 gyarakushiibukku
 gyogiwaru
 gyouzabaggu
+gyuutorotama
 ha
 haaku
 haba
@@ -3763,6 +3765,7 @@ japaripedia
 jay
 jc
 jd
+jeikosu
 jejeje
 jentirooni
 jeopardize
@@ -7131,6 +7134,7 @@ punpunmaru
 pup
 puraaju
 puraimurajio
+puraimutsuriiakaike
 puramoderu
 pureirisuto
 puremiamufuraidee
@@ -9294,6 +9298,7 @@ teoke
 teori
 tera
 terakoya
+terewaakudei
 teriizamei
 teriyaki
 teronchi
