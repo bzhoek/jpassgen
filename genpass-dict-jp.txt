@@ -216,6 +216,7 @@ amazarashi
 amazed
 amazingly
 amazondasshubotan
+amazonfuresshu
 amazoru
 ambushed
 ame
@@ -349,6 +350,7 @@ aro
 around
 arthrodynic
 artist
+aruain
 aruaru
 arubaito
 arukeyoomome
@@ -1601,6 +1603,7 @@ engi
 engimono
 english
 engo
+engorokante
 engumi
 engun
 enin
@@ -2655,6 +2658,7 @@ hanamochi
 hanamoku
 hanamuke
 hanamuko
+hananisomu
 hanao
 hanarabi
 hanarewaza
@@ -5021,6 +5025,7 @@ konsen
 konsetsu
 konshin
 konsui
+konta
 kontan
 kontei
 konton
@@ -5387,6 +5392,7 @@ low
 lower
 luck
 luxury
+m1guranpuri
 maa
 maai
 maamaa
@@ -5545,6 +5551,7 @@ manshitsu
 manten
 many
 manzai
+manzaishi
 manzoku
 map
 mappa
@@ -5887,6 +5894,7 @@ mitsu
 mitsuba
 mitsubachi
 mitsubai
+mitsuboshifuinrando
 mitsudan
 mitsudo
 mitsudomoe
@@ -6703,6 +6711,7 @@ ofukuro
 ofure
 ofuse
 ogawa
+ogensantoissho
 ogura
 oh
 oha
@@ -6995,6 +7004,7 @@ ow
 owa
 owabi
 owakon
+owarai
 owarine
 owatteru
 owing
@@ -7169,6 +7179,7 @@ quit
 quite
 quiver
 quiz
+r1guranpuri
 raamen
 rabuchunyu
 raburabu
@@ -7212,6 +7223,7 @@ rakudo
 rakuen
 rakugaki
 rakugo
+rakugoka
 rakuin
 rakurai
 rakusa
