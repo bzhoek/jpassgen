@@ -1321,6 +1321,7 @@ dentatsu
 dentetsu
 denwa
 depending
+derisshukitchin
 derodero
 derutatawaa
 desakari
@@ -2685,6 +2686,7 @@ hand
 handa
 handan
 handoku
+handosupinaa
 hands
 hane
 hanei
@@ -3635,6 +3637,7 @@ into
 intoku
 inton
 inu
+inuponpon
 inuyashiki
 inuzori
 invited
@@ -5497,6 +5500,7 @@ makimono
 making
 makizoe
 makku
+makkubaagaa
 maku
 makuai
 makuake
@@ -5506,6 +5510,7 @@ makugire
 makura
 makuragi
 makuramoto
+makuron
 makurosuderutasukuranburu
 makushita
 malt
@@ -9870,6 +9875,7 @@ uraniwa
 uraomote
 urasaku
 urate
+urateriyaki
 urauchi
 urayama
 urea
