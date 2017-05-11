@@ -632,6 +632,7 @@ betsuri
 betsuwaku
 better
 between
+bibarii
 bibun
 bichiku
 bidakuon
@@ -951,6 +952,7 @@ chikarazoe
 chikatetsu
 chikei
 chiken
+chiketore
 chiki
 chikinsando
 chikintaruta
@@ -1515,6 +1517,7 @@ eeto
 eeyuusutaa
 effort
 efude
+efushiieruesu
 efushiiimabari
 egao
 egara
@@ -9940,6 +9943,7 @@ utatane
 uten
 utsu
 utsubuse
+utsukushiihoshi
 utsute
 utsutsu
 utsuwa
@@ -10717,6 +10721,7 @@ zokusetsu
 zokushin
 zokuzoku
 zozomarinsutajiamu
+zundahoraizun
 zuru
 zuruzuru
 zuttomo
