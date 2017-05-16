@@ -706,6 +706,7 @@ bokuchiku
 bokuga
 bokumetsu
 bokunoojisan
+bokuranoyuuki
 bokushi
 bold
 bon
@@ -2382,6 +2383,7 @@ goran
 gorin
 goriyaku
 goro
+gorochiki
 gorogoro
 goroku
 goromaru
@@ -3741,6 +3743,7 @@ itsugoro
 itsumen
 itsuwa
 itsuzai
+ittaiichiro
 ittera
 ive
 iwa
@@ -7258,6 +7261,7 @@ rankaku
 rankan
 rankei
 ranritsu
+ransamuueaa
 ransei
 ransen
 ranshi
@@ -10247,6 +10251,7 @@ yamabiraki
 yamaboko
 yamabuki
 yamabushi
+yamadaudon
 yamadera
 yamadori
 yamagiwa
