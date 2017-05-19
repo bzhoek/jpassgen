@@ -393,6 +393,7 @@ ashibumi
 ashidai
 ashidome
 ashidori
+ashigaaru
 ashigata
 ashigatame
 ashika
@@ -529,6 +530,7 @@ bakuyaku
 ball
 bamen
 ban
+bananashokoraata
 banare
 banca
 banchi
@@ -640,6 +642,7 @@ bidakuon
 bidan
 big
 bigaku
+bigguaroha
 bigi
 bihin
 biimuzusukuuru
@@ -2463,6 +2466,7 @@ gushin
 gutai
 guttari
 guttus
+guuguruhoomu
 guzuguzu
 gyaaa
 gyakupaka
