@@ -17,6 +17,7 @@ abeuta
 ability
 able
 ably
+abokadosarada
 about
 above
 absorb
@@ -5669,6 +5670,7 @@ medical
 medo
 megadoru
 megamakkuguriddoru
+megamausu
 megami
 megane
 megashira
@@ -8266,6 +8268,7 @@ shimoda
 shimodoke
 shimohanki
 shimoki
+shimokitazawadaihaado
 shimon
 shimonoku
 shimote
@@ -10062,6 +10065,7 @@ wanage
 wanchanaru
 wandahoo
 wanfuingaa
+wanitokagegisu
 wankoin
 wanpi
 want
