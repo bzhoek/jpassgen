@@ -1,3 +1,4 @@
+22nenmaenokokuhaku
 24jikantatakaemasuka
 SMAPO
 aachankakkoii
@@ -3382,6 +3383,7 @@ hotsugan
 hour
 house
 housed
+housekinokuni
 how
 however
 hozei
@@ -7928,6 +7930,7 @@ seikan
 seikatsu
 seikei
 seiken
+seikendensetsu
 seiki
 seikin
 seikon
