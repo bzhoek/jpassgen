@@ -1573,6 +1573,7 @@ ekimei
 ekimu
 ekiri
 ekitai
+ekkusufuragu
 ekubo
 ekusuperia
 ekusuperiaiyaa
@@ -4762,6 +4763,7 @@ kinsetsu
 kinshi
 kinshin
 kinteki
+kintetsuharukasukoin
 kinu
 kinuito
 kinuke
@@ -5273,6 +5275,7 @@ kuromatsu
 kuroshe
 kuroshio
 kuroshiro
+kurosuroodo
 kurotsuchi
 kurowaruurushiguma
 kuroyama
@@ -6243,6 +6246,7 @@ naisei
 naisen
 naitei
 naitopuuru
+naitsuandomajikku
 naiya
 naizai
 naka
