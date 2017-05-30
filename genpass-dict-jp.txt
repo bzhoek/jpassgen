@@ -143,6 +143,7 @@ akebono
 akegata
 aki
 akiaki
+akiba
 akibako
 akibare
 akibin
@@ -654,6 +655,7 @@ bijin
 bijogaa
 bika
 bikan
+bikkukameraakiba
 bikkuripon
 bimei
 bimyo
@@ -713,6 +715,7 @@ bokumetsu
 bokunoojisan
 bokuranoyuuki
 bokushi
+bokutachigayarimashita
 bold
 bon
 bonchi
@@ -8627,6 +8630,7 @@ sonzaishi
 sonzoku
 soon
 soosu
+soosusannokoi
 soosuwa
 sora
 soragoto
