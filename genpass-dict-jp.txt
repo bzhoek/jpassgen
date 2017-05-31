@@ -1404,6 +1404,7 @@ doken
 doki
 dokidoki
 dokkyodai
+dokomouizu
 doku
 dokubun
 dokubutsu
@@ -2473,6 +2474,7 @@ gutai
 guttari
 guttus
 guuguruhoomu
+guugurulenzu
 guzuguzu
 gyaaa
 gyakupaka
@@ -2482,6 +2484,7 @@ gyouzabaggu
 gyuutorotama
 ha
 haaku
+haatsuyunaiteddo
 haba
 habatobi
 habatsu
@@ -3818,6 +3821,7 @@ jinx
 jippaa
 jire
 jiro
+jisabizu
 jisho
 jiten
 jitenshashearingu
