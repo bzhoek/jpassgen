@@ -653,6 +653,8 @@ biirubanare
 biitsu
 bijin
 bijogaa
+bijoude
+bijoudo
 bika
 bikan
 bikkukameraakiba
@@ -2463,6 +2465,7 @@ gunte
 gunzei
 gunzoku
 gurankuresutosenki
+guranourasanndaa
 guransutamarunouchi
 gurasu
 guriinberiizukoohii
@@ -5348,6 +5351,7 @@ kyoto
 kyotokokusaieigasai
 kyototawaasando
 kyounokirakun
+kyuaparufue
 kyuudo
 kyuukyoku
 kyuushuu
@@ -9349,6 +9353,7 @@ teochi
 teoi
 teoke
 teori
+tepurenon
 tera
 terakoya
 terewaakudei
