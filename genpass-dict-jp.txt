@@ -102,6 +102,7 @@ aikuchi
 aikyuubu
 ailment
 aima
+aimakkupuro
 aiming
 ainiku
 ainori
@@ -4870,6 +4871,7 @@ knows
 koban
 kobanare
 kobanashi
+kobaruto
 kobashiri
 kobata
 kobetsu
@@ -5781,6 +5783,7 @@ meshibe
 meshibitsu
 meshita
 meshitero
+messhi
 mesu
 met
 metabo
@@ -6055,6 +6058,7 @@ monowasure
 monshi
 monshin
 monsutaahantaa
+monsutaarosshi
 montaaju
 montei
 month
@@ -7405,6 +7409,7 @@ riajuu
 ribarai
 ribetsu
 ribonnofurokuten
+ricchikurasuto
 ricchimo
 rich
 richi
