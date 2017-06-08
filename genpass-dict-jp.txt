@@ -3509,6 +3509,7 @@ iibun
 iidarou
 iifuufuu
 iigusa
+iijiifuamirii
 iikagen
 iikamo
 iikanai
@@ -3815,6 +3816,7 @@ jidori
 jigen
 jigs
 jikafiibaa
+jikenbo
 jikkuri
 jiku
 jim
@@ -4541,6 +4543,7 @@ kejime
 kemari
 kemono
 kemonohen
+kemononofurenzu
 kemuri
 kemushi
 ken
@@ -4892,6 +4895,7 @@ kodakku
 kodama
 kodashi
 kodomo
+kodomotsukai
 koe
 koeda
 kofun
@@ -7149,6 +7153,7 @@ plenty
 plot
 pochiru
 pointing
+pokerando
 pokevision
 pokkiisukuiizu
 polloi
