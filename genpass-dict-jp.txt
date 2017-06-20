@@ -1,10 +1,6 @@
-otouhan
-tokyovanpaiyahoteru
-8nengoshinohanayome
-pondekiima
-rainkurieetaa
 22nenmaenokokuhaku
 24jikantatakaemasuka
+8nengoshinohanayome
 SMAPO
 aachankakkoii
 aakuhiruzu
@@ -1474,6 +1470,7 @@ dose
 dosei
 doshitsu
 dosoku
+dosugao
 dotakyan
 dote
 dotera
@@ -6568,6 +6565,7 @@ ninshiki
 ninshin
 nintai
 nintei
+nintendochekkuin1:
 nintendosuicchi
 ninushi
 nioiten
@@ -7042,6 +7040,7 @@ otosata
 otoshidama
 ototoi
 ototoshi
+otouhan
 otousantoitousan
 otsu
 otsuge
@@ -7167,6 +7166,7 @@ pokevision
 pokkiisukuiizu
 polloi
 pomonic
+pondekiima
 pondemaron
 pondepuremiamu
 poniteeru
@@ -7259,6 +7259,7 @@ raimei
 rain
 rainautofurii
 rainen
+rainkurieetaa
 rainmukku
 raireki
 raisan
@@ -8850,6 +8851,7 @@ sunshi
 sunzen
 supagettii
 supagettiimariaano
+supaidaajeru
 supesharugesuto
 supplies
 support
@@ -9527,6 +9529,7 @@ tokuten
 tokuyaku
 tokyo
 tokyojoshizukan
+tokyovanpaiyahoteru
 told
 tomae
 tomarigi
