@@ -6,6 +6,7 @@ aachankakkoii
 aakuhiruzu
 aane
 aateisuteikkusuimingu
+aatoakuariumu
 abarabone
 abaraya
 abaroonopurinsesuerena
@@ -2396,6 +2397,7 @@ gongon
 gonin
 good
 goodonriido
+goopuro
 goraku
 goran
 gorin
@@ -6676,6 +6678,7 @@ noticed
 notoieru
 notore
 nounenrei
+nounisumahogaumerareta
 now
 noyaki
 noyama
@@ -7845,6 +7848,7 @@ saradakinenbi
 saraigetsu
 sarainen
 sarasa
+sarashiagyudon
 sarashiko
 saru
 sarukoto
