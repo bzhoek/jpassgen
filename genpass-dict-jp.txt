@@ -598,6 +598,7 @@ beikoku
 being
 beisaku
 beishi
+bejigyuteishoku
 beki
 believe
 believed
@@ -2388,6 +2389,7 @@ golf
 goma
 gomaabura
 gomen
+gomenaishiteru
 gomibako
 gomoku
 gone
@@ -5790,6 +5792,7 @@ mephitism
 mere
 meridian
 merihari
+merukarichanneru
 mesaki
 mesen
 meshi
@@ -7340,6 +7343,7 @@ realizes
 recently
 recommendation
 red
+reddosamamandaa
 refuse
 regashii
 regelialia
