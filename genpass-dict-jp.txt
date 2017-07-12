@@ -6,6 +6,7 @@ aachankakkoii
 aakuhiruzu
 aane
 aateisuteikkusuimingu
+aatoakuariumu
 abarabone
 abaraya
 abaroonopurinsesuerena
@@ -1529,6 +1530,8 @@ edaha
 edamame
 edauchi
 edomae
+eeai
+eeaikahoko
 eeto
 eeyuusutaa
 effort
@@ -2395,6 +2398,7 @@ gongon
 gonin
 good
 goodonriido
+gopro
 goraku
 goran
 gorin
@@ -4317,6 +4321,7 @@ karakuri
 karakusa
 karamawari
 karamete
+karamosu
 karani
 karashimentaiko
 karasu
@@ -7843,6 +7848,7 @@ saradakinenbi
 saraigetsu
 sarainen
 sarasa
+sarashiagyuudon
 sarashiko
 saru
 sarukoto
@@ -8148,6 +8154,7 @@ seron
 seruka
 service
 seseragi
+seshirunomokuromi
 set
 setai
 setainushi
