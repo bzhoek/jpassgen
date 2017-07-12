@@ -598,6 +598,7 @@ beikoku
 being
 beisaku
 beishi
+bejigyuteishoku
 beki
 believe
 believed
@@ -2121,6 +2122,7 @@ ganbaroukoube
 ganbatta
 ganbatte
 ganchiku
+gandamubeesu
 gandare
 ganen
 gangi
@@ -2389,6 +2391,7 @@ golf
 goma
 gomaabura
 gomen
+gomenaishiteru
 gomibako
 gomoku
 gone
@@ -2398,7 +2401,11 @@ gongon
 gonin
 good
 goodonriido
+<<<<<<< HEAD
 gopro
+=======
+goopuro
+>>>>>>> 856246b4a45b2c94716cdfa870c9b5a0761effe3
 goraku
 goran
 gorin
@@ -5792,6 +5799,7 @@ mephitism
 mere
 meridian
 merihari
+merukarichanneru
 mesaki
 mesen
 meshi
@@ -6680,6 +6688,7 @@ noticed
 notoieru
 notore
 nounenrei
+nounisumahogaumerareta
 now
 noyaki
 noyama
@@ -7210,6 +7219,7 @@ puma
 punpunmaru
 pup
 puraaju
+puraimudee
 puraimurajio
 puraimutsuriiakaike
 puramoderu
@@ -7340,6 +7350,7 @@ realizes
 recently
 recommendation
 red
+reddosamamandaa
 refuse
 regashii
 regelialia
@@ -7848,7 +7859,11 @@ saradakinenbi
 saraigetsu
 sarainen
 sarasa
+<<<<<<< HEAD
 sarashiagyuudon
+=======
+sarashiagyudon
+>>>>>>> 856246b4a45b2c94716cdfa870c9b5a0761effe3
 sarashiko
 saru
 sarukoto
@@ -7908,6 +7923,7 @@ sazanami
 sazanka
 scared
 science
+screenx
 sea
 sealds
 seawan
@@ -8830,6 +8846,7 @@ sukinahitogairukoto
 sukiya
 sukiyaki
 sukizoparano
+sukriinekkusu
 sukuinushi
 sumabon
 sumahen
@@ -10125,6 +10142,7 @@ wanfuingaa
 wanitokagegisu
 wankoin
 wanpi
+wanpiisupuremiasho
 want
 wantan
 wanted
