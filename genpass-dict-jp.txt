@@ -1,6 +1,9 @@
 22nenmaenokokuhaku
 24jikantatakaemasuka
 8nengoshinohanayome
+<<<<<<< HEAD
+=======
+>>>>>>> 856246b4a45b2c94716cdfa870c9b5a0761effe3
 SMAPO
 aachankakkoii
 aakuhiruzu
@@ -1127,6 +1130,7 @@ cushion
 cut
 cutting
 daaburou
+daarininzafurankisu
 dabodabo
 daboku
 dachin
@@ -2122,6 +2126,8 @@ ganbaroukoube
 ganbatta
 ganbatte
 ganchiku
+gandam
+gandamubaasasu
 gandamubeesu
 gandare
 ganen
@@ -2401,11 +2407,8 @@ gongon
 gonin
 good
 goodonriido
-<<<<<<< HEAD
-gopro
-=======
 goopuro
->>>>>>> 856246b4a45b2c94716cdfa870c9b5a0761effe3
+gopro
 goraku
 goran
 gorin
@@ -3887,6 +3890,8 @@ kaaki
 kaakiiro
 kaasan
 kaatsu
+kaazu
+kaazukurosuroodo
 kaba
 kaban
 kabayaki
@@ -7859,11 +7864,8 @@ saradakinenbi
 saraigetsu
 sarainen
 sarasa
-<<<<<<< HEAD
-sarashiagyuudon
-=======
 sarashiagyudon
->>>>>>> 856246b4a45b2c94716cdfa870c9b5a0761effe3
+sarashiagyuudon
 sarashiko
 saru
 sarukoto
@@ -10273,6 +10275,7 @@ yagai
 yagaku
 yagarase
 yagi
+yaginiku
 yago
 yagu
 yagura
