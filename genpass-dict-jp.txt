@@ -1,9 +1,6 @@
 22nenmaenokokuhaku
 24jikantatakaemasuka
 8nengoshinohanayome
-<<<<<<< HEAD
-=======
->>>>>>> 856246b4a45b2c94716cdfa870c9b5a0761effe3
 SMAPO
 aachankakkoii
 aakuhiruzu
@@ -117,6 +114,7 @@ aisai
 aisareruriyu
 aisatsu
 aiseki
+aishitatte
 aiso
 aite
 aitekata
@@ -1396,6 +1394,7 @@ doctor
 doctors
 dodai
 dodasuru
+dododonpa
 doe
 doers
 doesnt
@@ -3014,6 +3013,7 @@ her
 hera
 here
 herfar
+herikoido
 herikutsu
 hero
 herself
@@ -3130,6 +3130,7 @@ himegimi
 himei
 himen
 himeyuri
+himitsugaaru
 himitsunokokotama
 himo
 himochi
@@ -6551,6 +6552,7 @@ nihonsupootsukyoukai
 niichan
 niisan
 nijigen
+nijigennomori
 nijuumaru
 nikawa
 nikibi
@@ -7145,6 +7147,7 @@ pawahara
 pay
 peacefully
 pekingushinkuukou
+pekorindoonatsu
 penpen
 people
 per
