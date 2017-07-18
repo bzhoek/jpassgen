@@ -4844,6 +4844,7 @@ kisaragi
 kiseenjaa
 kisei
 kiseki
+kisekinohagaki
 kisen
 kisetsu
 kishi
@@ -5105,6 +5106,7 @@ kopipe
 koppies
 kora
 koran
+koresawa
 korigori
 korinai
 koritsu
@@ -5308,6 +5310,7 @@ kurobuchi
 kurofune
 kurogane
 kuroiro
+kurokawanotechou
 kurokoge
 kuromaku
 kuromame
@@ -9519,6 +9522,7 @@ tokai
 tokei
 toketsu
 toki
+tokido
 tokidoki
 tokiiro
 tokiwa
@@ -10421,6 +10425,7 @@ yatsude
 yattukeru
 yavai
 yawarakai
+yawarakayakinikubaagaa
 yay
 yayako
 yayoi
