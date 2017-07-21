@@ -116,6 +116,7 @@ aisatsu
 aiseki
 aishitatte
 aiso
+aisukuriimupiza
 aite
 aitekata
 aitsu
@@ -4897,6 +4898,7 @@ kizoku
 kizokuin
 kizokutantei
 kizuna
+kizzuuiiku
 klesha
 know
 knows
@@ -7046,6 +7048,7 @@ otachi
 otafuku
 otagai
 otaku
+otakunikoiwamuzukashii
 ote
 oteage
 otedama
@@ -9663,6 +9666,7 @@ totsugeki
 totsuka
 totta
 totto
+toubuwaarudosukueaeki
 touched
 toufu
 toukyousumikkogohan
