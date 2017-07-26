@@ -464,6 +464,7 @@ atsureki
 attacks
 attercrop
 attracted
+aupitattopuran
 autocratical
 autoobuganchu
 autoobushadourando
@@ -1292,6 +1293,7 @@ degarashi
 deguchi
 deiffarensu
 deigan
+deigunobui
 deiri
 deiriiboonasu
 deisui
@@ -2501,6 +2503,7 @@ guttari
 guttus
 guuguruhoomu
 guugurulenzu
+guugurupureipurotekuto
 guzuguzu
 gyaaa
 gyakupaka
@@ -5181,6 +5184,7 @@ kozatohen
 kozeni
 kozukata
 kozukatakou
+kozumo
 kronen
 ksk
 kubetsu
@@ -9877,6 +9881,7 @@ ueetaa
 ueki
 uekibachi
 uekomi
+uenarisuto
 ugai
 ugan
 ugen
