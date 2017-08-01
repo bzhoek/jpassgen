@@ -1541,6 +1541,7 @@ edomae
 eeai
 eeaikahoko
 eeto
+eeyuuhoomu
 eeyuusutaa
 effort
 efude
@@ -1755,6 +1756,7 @@ fandiina
 fantastic
 far
 farther
+farukonuhebii
 fast
 fault
 fax
@@ -5064,6 +5066,7 @@ kondan
 kondate
 kondo
 konekogoroshi
+konennofuyukimitowakare
 kongan
 kongen
 kongetsu
@@ -5589,6 +5592,7 @@ mama
 mamagoto
 mamahaha
 mame
+mamekogane
 mamemaki
 mametsu
 mamonaku
