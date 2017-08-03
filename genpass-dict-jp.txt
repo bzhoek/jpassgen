@@ -704,6 +704,7 @@ blowzy
 blue
 blur
 boa
+bobutoiunanoneko
 bocchimeshi
 bochi
 bodiikon
@@ -1462,6 +1463,7 @@ doragenai
 doragoe
 doragonkuesuto
 doragonpurojekkuto
+doragonuesutonatsumatsuri
 doraibaa
 doraibingubarisuta
 doraibuheddo
@@ -8719,6 +8721,7 @@ soramame
 soramimi
 sorani
 soratobutaiya
+soratouminoaida
 sorei
 sorena
 sorenaa
@@ -9679,6 +9682,7 @@ totto
 toubuwaarudosukueaeki
 touched
 toufu
+toukyouarisu
 toukyousumikkogohan
 toukyoutararebamusume
 toukyoutarereba
