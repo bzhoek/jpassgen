@@ -1,7 +1,6 @@
 22nenmaenokokuhaku
 24jikantatakaemasuka
 8nengoshinohanayome
-SMAPO
 aachankakkoii
 aakuhiruzu
 aane
@@ -1365,8 +1364,8 @@ devils
 devious
 dicek
 did
-didnt
 didn’t
+didnt
 differ
 difference
 different
@@ -7080,6 +7079,7 @@ otome
 otomo
 otona
 otonanofanta
+otonanosutorecchi
 otori
 otosata
 otoshidama
@@ -7620,6 +7620,7 @@ roshin
 rosokutai
 rosonsuriefu
 rosutobakeeshon
+rosutochairudo
 rotei
 roten
 rottewaaruudotawaa
@@ -7854,6 +7855,7 @@ sankuzeeru
 sankyuusetto
 sannan
 sanoru
+sanposurushinryakusha
 sanran
 sanretsu
 sanrin
@@ -7935,6 +7937,7 @@ sawagani
 sawan
 sawara
 say
+say—thats
 saya
 saying
 sayo
@@ -7942,7 +7945,6 @@ sayoku
 sayori
 says
 sayu
-say—thats
 sazae
 sazaesan
 sazanami
@@ -8420,6 +8422,7 @@ shinnen
 shinnin
 shino
 shinogi
+shinq
 shinra
 shinrai
 shinrei
@@ -8626,6 +8629,7 @@ slowly
 slue
 small
 smapkaisan
+SMAPO
 so
 soan
 soba
@@ -10742,6 +10746,7 @@ zaps
 zaragami
 zarame
 zariaru
+zarosuto
 zaroyaruekisupresu
 zaru
 zarusoba
