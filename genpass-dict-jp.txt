@@ -1,6 +1,7 @@
 22nenmaenokokuhaku
 24jikantatakaemasuka
 8nengoshinohanayome
+SMAPO
 aachankakkoii
 aakuhiruzu
 aane
@@ -569,6 +570,7 @@ basei
 bastage
 bastard
 basue
+bataachikinkareeman
 batai
 batsu
 bawds
@@ -1364,8 +1366,8 @@ devils
 devious
 dicek
 did
-didn’t
 didnt
+didn’t
 differ
 difference
 different
@@ -2838,6 +2840,7 @@ hashibashi
 hashigaki
 hashigeta
 hashigo
+hashigoteikiken
 hashika
 hashike
 hashikure
@@ -6628,6 +6631,7 @@ nisshoku
 nisui
 nit
 nitaki
+nitoribijutsukan
 nitsuke
 nitto
 niwa
@@ -7937,7 +7941,6 @@ sawagani
 sawan
 sawara
 say
-say—thats
 saya
 saying
 sayo
@@ -7945,6 +7948,7 @@ sayoku
 sayori
 says
 sayu
+say—thats
 sazae
 sazaesan
 sazanami
@@ -8109,6 +8113,7 @@ sekuhara
 selection
 selfbeliefs
 selfimage
+sema
 semantics
 semete
 semi
@@ -8629,7 +8634,6 @@ slowly
 slue
 small
 smapkaisan
-SMAPO
 so
 soan
 soba
