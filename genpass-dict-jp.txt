@@ -276,6 +276,7 @@ anki
 anko
 ankokujoshi
 anmoku
+annachuraru
 annai
 anne
 annei
@@ -6288,6 +6289,7 @@ naginata
 nagisa
 nagori
 nagoya
+nagoyaebifuraibaagaa
 nagusami
 naha
 naibu
@@ -8952,6 +8954,7 @@ sutemi
 sutene
 suteraruu
 sutikkudomino
+sutoppukun
 sutoroberiimuun
 sutorooman
 suupaadejira
@@ -9054,6 +9057,7 @@ taima
 taimatsu
 taimei
 taimen
+taimubanku
 tainai
 tainetsu
 tainin
