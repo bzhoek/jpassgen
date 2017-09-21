@@ -3,6 +3,7 @@
 8nengoshinohanayome
 SMAPO
 aachankakkoii
+aakouya
 aakuhiruzu
 aane
 aateisuteikkusuimingu
@@ -86,6 +87,7 @@ aiaigasa
 aida
 aidagara
 aidoku
+aidorumasutaa
 aieee
 aifuku
 aigan
@@ -6697,6 +6699,7 @@ nor
 nora
 norainu
 noraneko
+noratooujo
 noren
 nori
 noriba
@@ -6991,6 +6994,7 @@ onyanko
 onyomi
 onzon
 ooedobiirumatsuri
+oorandoo
 oorusuru
 oosakarabittsu
 opal
@@ -7224,7 +7228,9 @@ pondekiima
 pondemaron
 pondepuremiamu
 poniteeru
+poogu
 poppii
+porg
 porukadotto
 position
 possession
@@ -7693,6 +7699,7 @@ saibun
 said
 saidan
 saido
+saidoemu
 saien
 saifu
 saigai
