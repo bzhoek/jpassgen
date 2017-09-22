@@ -436,6 +436,7 @@ atamagoshi
 atamakin
 atamauchi
 atami
+atarashiichizu
 atarashiihandan
 atari
 atarimaepoemu
@@ -5173,6 +5174,7 @@ kotowaza
 kotsu
 kotsuban
 kotsutsubo
+kottosunookafe
 kouji
 kouri
 kourinowadachi
@@ -8952,6 +8954,7 @@ sustains
 susu
 susuharai
 susuki
+sutabariwaado
 suteba
 sutebachi
 suteejiaraundotokyo
