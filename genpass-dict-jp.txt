@@ -8,6 +8,7 @@ aakuhiruzu
 aane
 aateisuteikkusuimingu
 aatoakuariumu
+aatotakeshiten
 abarabone
 abaraya
 abaroonopurinsesuerena
@@ -1350,6 +1351,7 @@ dentaku
 dentatsu
 dentetsu
 denwa
+deomajikku
 depending
 derisshukitchin
 derodero
@@ -1753,6 +1755,7 @@ fact
 faibaa
 fail
 failure
+fairyw!nk
 faito
 faiyaa
 fajii
@@ -1768,6 +1771,7 @@ fast
 fault
 fax
 faxed
+feariiuinku
 feel
 feet
 feitoekusutera
@@ -4689,6 +4693,7 @@ kibo
 kibori
 kiboukyouiwatekokutai
 kibounojuku
+kibounotou
 kibun
 kibutsu
 kichi
@@ -8258,6 +8263,7 @@ shadoubaasu
 shall
 shameru
 shamette
+shanshan
 shaped
 shareotsu
 sharetteiru
