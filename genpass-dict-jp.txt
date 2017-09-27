@@ -228,6 +228,7 @@ amazake
 amazarashi
 amazed
 amazingly
+amazonbijinesu
 amazondasshubotan
 amazonfuresshu
 amazoru
@@ -5561,6 +5562,7 @@ maigo
 maihime
 maikai
 maiko
+mainanbaa
 mainasukinri
 mainichi
 mainichishuzo
@@ -6130,6 +6132,7 @@ monto
 montsuki
 monzen
 mood
+moodowanretoro
 moose
 more
 mori
@@ -7278,6 +7281,7 @@ puremiamumarusheoosaka
 purenatarian
 purichiipu
 purikura
+purintosu
 puripuri
 pursue
 pursues
@@ -7485,6 +7489,7 @@ resulting
 resutoran
 retaashiiringu
 rethoric
+retoro
 retsu
 return
 rewritten
@@ -10203,6 +10208,7 @@ wandahoo
 wanfuingaa
 wanitokagegisu
 wankoin
+wannanbaasaabisu
 wanpi
 wanpiisupuremiasho
 want
