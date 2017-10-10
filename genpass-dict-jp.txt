@@ -944,6 +944,7 @@ chibi
 chibimaruko
 chibusa
 chichi
+chichibuwaraji
 chichikata
 chichioya
 chichiue
@@ -4550,6 +4551,7 @@ keihatsu
 keihi
 keihin
 keii
+keijiyugami
 keika
 keikai
 keikaku
@@ -5058,6 +5060,7 @@ kometsubu
 komi
 komichi
 komidashi
+komikkubiimuhyaku
 komo
 komochi
 komon
@@ -5972,6 +5975,7 @@ miosame
 miotori
 mirach
 mirai
+miraizaoosakajou
 miren
 mirin
 mirror
