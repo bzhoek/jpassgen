@@ -2832,6 +2832,7 @@ hariko
 harite
 haritsuke
 harootoreeningu
+harouinjanbo
 harouinmajopoteto
 haru
 harugasumi
@@ -5411,6 +5412,7 @@ ky
 kyabakura
 kyanto
 kyobashiedoguran
+kyohakushimasu
 kyokucho
 kyoto
 kyotokokusaieigasai
@@ -5698,6 +5700,7 @@ massurumonsutaa
 masterbuilder
 masu
 masui
+masukareedohoteru
 masume
 mata
 matadero
@@ -8407,6 +8410,7 @@ shinagara
 shinagire
 shinai
 shinakucha
+shinamonmerutsu
 shinamono
 shinan
 shinazoroe
