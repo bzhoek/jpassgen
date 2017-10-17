@@ -2527,6 +2527,7 @@ gyogiwaru
 gyouzabaggu
 gyuutorotama
 ha
+haabufirechikinkushi
 haaku
 haatsuyunaiteddo
 haba
@@ -2792,6 +2793,7 @@ hansei
 hansen
 hanshi
 hanshin
+hanshinengei
 hansode
 hansoku
 hantai
@@ -4264,6 +4266,7 @@ kangeki
 kangen
 kango
 kangoku
+kangokunoohimesama
 kangun
 kani
 kaniku
