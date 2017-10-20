@@ -300,6 +300,7 @@ antechoirs
 antei
 anten
 antepreterit
+antiizu
 antilitter
 anun
 any
@@ -668,6 +669,7 @@ biirubanare
 biitsu
 bijin
 bijogaa
+bijontoreeningu
 bijoude
 bijoudo
 bika
@@ -5972,6 +5974,7 @@ minotake
 minsei
 minsen
 minshin
+minshuunoteki
 minute
 minwa
 minzoku
@@ -6602,7 +6605,9 @@ nijigennomori
 nijuumaru
 nikawa
 nikibi
+nikofaareikebukuro
 nikoniko
+nikoraare
 niku
 nikubanare
 nikugan
@@ -6723,6 +6728,8 @@ noratooujo
 noren
 nori
 noriba
+noriben
+noribenfuuomusubi
 norimaki
 norimono
 noriori
@@ -7249,6 +7256,7 @@ pondemaron
 pondepuremiamu
 poniteeru
 poogu
+poorusutaa
 poppii
 porg
 porukadotto
@@ -7399,6 +7407,7 @@ rararando:
 raretsu
 raritta
 rasen
+rasutoreshipi
 ratai
 rather
 rationally
@@ -8170,6 +8179,7 @@ sengiri
 sengo
 sengoku
 sengokuzariaru
+sengomuramasaderakkusu
 seni
 seniki
 senin
@@ -9727,6 +9737,7 @@ totto
 toubuwaarudosukueaeki
 touched
 toufu
+toukyoguuruaaruii
 toukyouarisu
 toukyousumikkogohan
 toukyoutararebamusume
