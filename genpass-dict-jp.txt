@@ -1357,6 +1357,7 @@ dentetsu
 denwa
 deomajikku
 depending
+derakkusuchiizubiifu
 derisshukitchin
 derodero
 derutatawaa
@@ -1401,6 +1402,7 @@ djs
 dmmakademii
 dmmokan
 dmmpikuchaazu
+dmmsukuratchi
 do
 doai
 dobin
@@ -2395,6 +2397,7 @@ goin
 going
 goishi
 gojikaraotoko
+gojirafesu
 gokai
 gokan
 gokei
@@ -4782,6 +4785,7 @@ kimigayasashii
 kiminisasageruenburemu
 kiminonawa
 kiminonawaten
+kimitachiwadouikiruka
 kimitsu
 kimo
 kimochi
