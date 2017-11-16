@@ -323,6 +323,7 @@ aona
 aonisai
 aonori
 aota
+aoyamaomotesandox
 aozora
 apart
 apo
@@ -1453,6 +1454,7 @@ dokusei
 dokusen
 dokushin
 dokuso
+dokutaekusoshisuto
 dokuyaku
 dokuzen
 dokuzetsu
@@ -7262,6 +7264,7 @@ plot
 pochiru
 pointing
 pokerando
+pokettomonsutaa
 pokevision
 pokkiisukuiizu
 polloi
@@ -7938,6 +7941,7 @@ sanyaku
 sanyo
 sanzai
 sanzoku
+sanzukai
 sao
 saobakari
 saotome
@@ -9948,6 +9952,7 @@ uchiuchi
 uchiumi
 uchiwa
 uchiwake
+uchuyorimotooibasho
 ude
 udedameshi
 udegumi
