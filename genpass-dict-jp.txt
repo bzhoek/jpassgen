@@ -166,6 +166,7 @@ akiregao
 akisame
 akisu
 akiya
+akizora
 aku
 akubi
 akubun
@@ -2062,6 +2063,7 @@ fuyugare
 fuyugata
 fuyumono
 fuyuyama
+fuyuzora
 fuzai
 fuzei
 fuzen
@@ -2855,6 +2857,7 @@ harukaze
 harunoumi
 harusaki
 harusame
+haruzora
 has
 hasai
 hasami
@@ -3758,6 +3761,7 @@ irregular
 irui
 iruka
 irusu
+iryuminaaju
 is
 isai
 isakai
@@ -6264,6 +6268,7 @@ murioshi
 murishinai
 musan
 musashi
+musashinonomori
 musei
 musen
 mushi
@@ -6485,6 +6490,7 @@ natsubate
 natsugare
 natsuin
 natsumono
+natsuzora
 nau
 nawa
 nawabari
@@ -7039,6 +7045,7 @@ onzon
 ooedobiirumatsuri
 oorandoo
 oorusuru
+oosakajo
 oosakarabittsu
 opal
 opened
@@ -8777,6 +8784,7 @@ sonraku
 sonritsu
 sonshi
 sonshitsu
+sontakugozen
 sontoku
 sonzai
 sonzaishi
@@ -10019,6 +10027,7 @@ un
 unabara
 unable
 unagi
+unarikun
 unchi
 unchin
 uncomfortable
