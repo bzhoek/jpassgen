@@ -232,6 +232,7 @@ amazed
 amazingly
 amazonbijinesu
 amazondasshubotan
+amazonecho
 amazonfuresshu
 amazoru
 ambushed
@@ -1403,6 +1404,7 @@ disuru
 divided
 dizuniiaatoten
 djs
+dkaashea
 dmmakademii
 dmmokan
 dmmpikuchaazu
@@ -1619,6 +1621,7 @@ ekitai
 ekkusufuragu
 ekubo
 ekusuperia
+ekusuperiaharoo
 ekusuperiaiyaa
 ekusuperiatacchi
 ekutora
@@ -6670,6 +6673,7 @@ nippon
 nipponishinnokai
 nira
 nirin
+nisa
 nise
 nisemono
 nisesatsu
@@ -9874,6 +9878,7 @@ tsumiki
 tsumikusa
 tsumini
 tsumitate
+tsumitatenisa
 tsumugi
 tsuna
 tsunagi
