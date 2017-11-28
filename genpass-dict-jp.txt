@@ -80,12 +80,14 @@ ageshio
 ago
 agruif
 agunesuronsou
+agunsan
 agura
 ahiru
 aho
 ahoka
 ahondara
 aiaigasa
+aichikuukoo
 aida
 aidagara
 aidoku
@@ -5873,6 +5875,7 @@ mere
 meridian
 merihari
 merukarichanneru
+merukarinow
 mesaki
 mesen
 meshi
@@ -9885,6 +9888,7 @@ tsunagi
 tsunagime
 tsunagu
 tsunahiki
+tsunakeito
 tsunami
 tsune
 tsuno
@@ -10415,6 +10419,7 @@ yakedo
 yakei
 yaken
 yakibata
+yakibutatamagomeshi
 yakiimo
 yakiire
 yakimashi
