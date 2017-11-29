@@ -340,6 +340,7 @@ appurupaaku
 appuruuocchi
 appusuru
 apuri
+aquossensu
 ara
 araiba
 arakasegi
@@ -6307,6 +6308,7 @@ myakuari
 myakunashi
 myself
 myth
+myujikkuanrimiteddo
 nabe
 nabebuta
 nabepaa
@@ -7755,6 +7757,7 @@ saha
 sahen
 sai
 saibai
+saibamandee
 saiban
 saibashi
 saibu
@@ -9917,6 +9920,7 @@ tsuru
 tsurube
 tsuruhashi
 tsurukusa
+tsushinsetsuyaku
 tsuta
 tsute
 tsutome
