@@ -3895,6 +3895,7 @@ jimukyoku
 jimusho
 jintaka
 jinx
+jinzuwandee
 jippaa
 jire
 jiro
@@ -6282,6 +6283,7 @@ mushi
 mushiba
 mushiboshi
 mushikago
+mushikeayouhin
 mushikera
 mushikui
 mushin
@@ -7279,6 +7281,7 @@ plenty
 plot
 pochiru
 pointing
+pokemonkafe
 pokerando
 pokettomonsutaa
 pokevision
@@ -7328,6 +7331,7 @@ puraimurajio
 puraimutsuriiakaike
 puramoderu
 pureirisuto
+pureitetorisutawaa
 puremiamufuraidee
 puremiamumarusheoosaka
 purenatarian
@@ -7460,6 +7464,7 @@ reddosamamandaa
 refuse
 regashii
 regelialia
+regorandojapanhoteru
 regular
 rei
 reibai
