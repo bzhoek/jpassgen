@@ -1197,6 +1197,7 @@ dairinin
 dairiseki
 daishi
 daisotsu
+daisukeoniichankara
 daitai
 daitaibu
 daiyaku
@@ -2522,6 +2523,7 @@ guntai
 gunte
 gunzei
 gunzoku
+guraadon
 gurankuresutosenki
 guranourasanndaa
 guransutamarunouchi
@@ -6714,6 +6716,7 @@ nobara
 nobe
 nobi
 nobiiruchiizubaagaa
+nobiirupizabaagaa
 nobinobi
 nobori
 noborisen
@@ -8679,6 +8682,8 @@ should
 shouri
 shouzen
 show
+showatenno
+showatennodokuhakuroku
 showed
 shoyugao
 shrinking
@@ -9504,6 +9509,7 @@ tenko
 tenkoku
 tennen
 tennin
+tenno
 tenohira
 tenpura
 tenraku
