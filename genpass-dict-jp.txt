@@ -3942,6 +3942,7 @@ juuden
 kaabukyappu
 kaaki
 kaakiiro
+kaaruappu
 kaasan
 kaatsu
 kaazu
@@ -5379,6 +5380,7 @@ kurokoge
 kuromaku
 kuromame
 kuromatsu
+kuroobafurenzu
 kuroshe
 kuroshio
 kuroshiro
@@ -9246,6 +9248,7 @@ tamagushi
 tamamono
 tamamushi
 tamanegi
+tamanegiyogurt
 tamariba
 tamashii
 tamatsuki
@@ -9366,6 +9369,7 @@ tawashi
 tayori
 tazei
 tea
+teacha
 teacher
 teachers
 teaching
@@ -9705,6 +9709,7 @@ tomedo
 tomegane
 tomegu
 tomi
+tomikahaku
 tomin
 tominfaasuto
 tomo
