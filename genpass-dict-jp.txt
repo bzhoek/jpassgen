@@ -1195,6 +1195,7 @@ dainidenden
 dairi
 dairinin
 dairiseki
+daisakusen
 daishi
 daisotsu
 daisukeoniichankara
@@ -1232,6 +1233,7 @@ dankon
 danna
 dannen
 dannetsu
+danonpuremiamu
 danraku
 danran
 danro
@@ -2550,6 +2552,8 @@ gyuutorotama
 ha
 haabufirechikinkushi
 haaku
+haamonii
+haamoniidaisakusen
 haatsuyunaiteddo
 haba
 habatobi
