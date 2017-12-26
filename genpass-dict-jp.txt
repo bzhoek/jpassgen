@@ -3147,6 +3147,7 @@ hikage
 hikaku
 hikan
 hikari
+hikaritohonou
 hikaritokagenohibi
 hikeme
 hikeshi
@@ -5392,6 +5393,7 @@ kurosuroodo
 kurotsuchi
 kurowaruurushiguma
 kuroyama
+kurozubii
 kuru
 kurubushi
 kurukuru
@@ -7385,6 +7387,7 @@ rafu
 ragan
 rah
 rai
+raibumii
 raien
 raifusuteeji
 raigetsu
@@ -8704,6 +8707,7 @@ shussebarai
 shut
 shuukaren
 shuukyuumikkasei
+shuunyantaishu
 sick
 sift
 sight
