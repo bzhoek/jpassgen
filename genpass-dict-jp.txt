@@ -1412,6 +1412,7 @@ dizuniiaatoten
 djs
 dkaashea
 dmmakademii
+dmmbittokoin
 dmmokan
 dmmpikuchaazu
 dmmsukuratchi
@@ -5009,6 +5010,7 @@ koibito
 koibumi
 koidansu
 koigokoro
+koinchekku
 koinobori
 koisai
 koisurushirokuma
@@ -6245,6 +6247,7 @@ mugon
 muhai
 muhi
 muison
+mujinreji
 mukachaka
 mukade
 mukago
@@ -7279,6 +7282,7 @@ pine
 pinofuondyukafe
 pinpin
 pinpon
+pitattogakuwari
 pitifully
 pityful
 pk
