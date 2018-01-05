@@ -127,6 +127,7 @@ aite
 aitekata
 aitsu
 aji
+ajinomingei
 ajinomoto
 aka
 akage
@@ -6817,6 +6818,7 @@ nukegara
 nukege
 nukeme
 nukemichi
+nukenukebyo
 nukeru
 nuki
 nukigaki
@@ -7113,6 +7115,7 @@ osare
 osechi
 osen
 osenchi
+oseronia
 oshaberi
 oshiba
 oshibana
@@ -9645,6 +9648,7 @@ toden
 todo
 todoke
 todokeide
+todomenokisu
 toei
 toes
 tofuken
@@ -10809,6 +10813,7 @@ yurai
 yuri
 yurigokoro
 yurikago
+yuruemon
 yurusanai
 yusai
 yusan
