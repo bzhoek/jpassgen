@@ -1779,6 +1779,7 @@ fact
 faibaa
 fail
 failure
+fainarukatto
 fairyw!nk
 faito
 faiyaa
@@ -3014,6 +3015,7 @@ heiritsu
 heisa
 heisai
 heisei
+heiseijanpu
 heisetsu
 heishi
 heiso
@@ -5347,6 +5349,7 @@ kunren
 kunrin
 kunsei
 kunshi
+kunshu
 kunugi
 kunwa
 kunyomi
@@ -7285,6 +7288,7 @@ pine
 pinofuondyukafe
 pinpin
 pinpon
+pirikaratabuchi
 pitattogakuwari
 pitifully
 pityful
@@ -8271,6 +8275,7 @@ sensai
 sensaku
 sense
 sensei
+senseikunshu
 senseki
 sensen
 senshi
