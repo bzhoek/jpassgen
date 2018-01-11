@@ -1242,6 +1242,7 @@ dansa
 dansei
 dansen
 danshi
+danshinguhiiroo
 dansui
 dantai
 dantei
@@ -4306,6 +4307,7 @@ kangokunoohimesama
 kangun
 kani
 kaniku
+kanjukufuresshu
 kanka
 kankai
 kankaku
@@ -4868,6 +4870,7 @@ kinseni
 kinsetsu
 kinshi
 kinshin
+kintamaranbu
 kinteki
 kintetsuharukasukoin
 kinu
@@ -7245,6 +7248,7 @@ papa
 paper
 paradaisubunsho
 paradisematic
+parareruwaarudo
 parenesize
 parents
 parfum
@@ -10159,6 +10163,7 @@ uruchi
 urusagata
 urusai
 urushi
+urutorageemusu
 usagi
 usagishinboruten
 usamaru
