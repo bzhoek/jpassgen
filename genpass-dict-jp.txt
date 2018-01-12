@@ -3736,6 +3736,7 @@ insotsu
 instance
 instead
 insurance
+insutabae
 insutaguramusutorii
 intai
 intentions
@@ -5401,6 +5402,8 @@ kuroshiro
 kurosuroodo
 kurotsuchi
 kurowaruurushiguma
+kurowassan
+kurowassandonatsushokora
 kuroyama
 kurozubii
 kuru
@@ -5805,6 +5808,7 @@ medaka
 medama
 medical
 medo
+megadonkihoteyunii
 megadoru
 megamakkuguriddoru
 megamausu
