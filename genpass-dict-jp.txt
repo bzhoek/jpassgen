@@ -2357,6 +2357,7 @@ gin
 ginen
 ginga
 gingall
+gingatetsudonochichi
 giniro
 ginka
 ginnan
@@ -4188,6 +4189,7 @@ kakuha
 kakuhan
 kakuheki
 kakuho
+kakuhonoonna
 kakui
 kakuitsu
 kakukai
@@ -4841,6 +4843,7 @@ kingaku
 kingan
 kingen
 kingin
+kinguandopurinsu
 kinin
 kiniro
 kinka
@@ -6698,6 +6701,7 @@ ninshin
 nintai
 nintei
 nintendochekkuin1:
+nintendolabo
 nintendosuicchi
 ninushi
 nioiten
@@ -7964,6 +7968,7 @@ sanitsu
 sanka
 sankai
 sankaku
+sankakuchokopai
 sankakuichigochokopai
 sankan
 sankei
