@@ -2758,6 +2758,7 @@ hanamoku
 hanamuke
 hanamuko
 hananisomu
+hananochihare
 hanao
 hanarabi
 hanarewaza
@@ -2855,6 +2856,7 @@ hare
 haregi
 harema
 haremono
+harenochiyuki
 haresugata
 haretsu
 hari
@@ -3928,6 +3930,7 @@ jodhpurs
 jog
 joke
 jolt
+joniizujimusho
 joshiana
 joujaku
 joukyou
@@ -8244,6 +8247,7 @@ sen
 senaka
 senakakake
 senchi
+senchimentarugurafiti
 sendai
 sendan
 sendatsu
