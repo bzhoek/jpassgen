@@ -1154,6 +1154,7 @@ daaburou
 daarininzafurankisu
 dabodabo
 daboku
+dabudabuchi
 dachin
 daden
 daeki
@@ -3928,6 +3929,7 @@ job
 jocks
 jodhpurs
 jog
+joinusterasu
 joke
 jolt
 joniizujimusho
@@ -4641,6 +4643,7 @@ kemari
 kemono
 kemonohen
 kemononofurenzu
+kemonopapirion
 kemuri
 kemushi
 ken
@@ -7091,6 +7094,7 @@ ooedobiirumatsuri
 oorandoo
 oorusuru
 oosakajo
+oosakametoro
 oosakarabittsu
 opal
 opened
@@ -10602,6 +10606,7 @@ yasui
 yasumono
 yasune
 yasuraginosato
+yasuraginotoki
 yatai
 yatatebunko
 yatoinushi
