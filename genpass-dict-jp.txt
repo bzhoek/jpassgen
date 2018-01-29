@@ -1061,6 +1061,7 @@ choberigu
 choice
 chokokuriimu
 chon
+chonhyon
 choose
 chooses
 chosen
@@ -1782,6 +1783,7 @@ faibaa
 fail
 failure
 fainarukatto
+fainniidoru
 fairyw!nk
 faito
 faiyaa
@@ -7556,6 +7558,7 @@ renewed
 renga
 renge
 rengo
+renjii
 renka
 renkan
 renkei
