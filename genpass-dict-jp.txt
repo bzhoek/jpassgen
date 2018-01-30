@@ -1730,6 +1730,7 @@ eriguri
 erikubi
 erimaki
 erokakkoii
+ersageeto
 esa
 esc
 eshi
@@ -3682,6 +3683,7 @@ impenetrable
 important
 impress
 imu
+imyuuzu
 in
 ina
 inabauer
@@ -7467,6 +7469,7 @@ rakutan
 rakuten
 rakutenfm
 rakutenpei
+rakutenseiyu
 rakuyaki
 ran
 randa
@@ -8209,6 +8212,7 @@ seizen
 seizon
 seizoroi
 sekai
+sekaikyokutaun
 seken
 sekentei
 seki
