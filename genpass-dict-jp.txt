@@ -237,6 +237,7 @@ amazonbijinesu
 amazondasshubotan
 amazonecho
 amazonfuresshu
+amazongo
 amazoru
 ambushed
 ame
@@ -1293,6 +1294,7 @@ daunroudo
 day
 dazn
 dazoon
+dbarai
 dead
 dear
 deashi
@@ -2550,6 +2552,7 @@ guttari
 guttus
 guuguruhoomu
 guugurulenzu
+guugurupei
 guugurupureipurotekuto
 guzuguzu
 gyaaa
@@ -7103,6 +7106,7 @@ oosakarabittsu
 opal
 opened
 oppappii
+oppo
 opus
 or
 ora
