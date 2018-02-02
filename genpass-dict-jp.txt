@@ -1739,6 +1739,7 @@ eshi
 esolia
 esoragoto
 especially
+esupootsu
 etc
 etch
 eternity
@@ -4408,6 +4409,7 @@ karabito
 karaburi
 karada
 karakami
+karakarajunchikin
 karakasa
 karakaze
 karakuchi
@@ -4578,6 +4580,7 @@ kazeyoke
 kazoedoshi
 kazoeuta
 kazoku
+kazokunotabiji
 keana
 kebari
 keel
@@ -7438,6 +7441,7 @@ raimei
 rain
 rainautofurii
 rainen
+rainfainansharu
 rainkurieetaa
 rainmukku
 raireki
