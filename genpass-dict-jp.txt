@@ -2792,6 +2792,7 @@ handoku
 handosupinaa
 hands
 hane
+hanebado
 hanei
 hanen
 hanerokoikingu
@@ -5401,6 +5402,7 @@ kuribocchi
 kurifudaibingu
 kurige
 kurigoto
+kuriko
 kuripaa
 kuritsu
 kuro
@@ -5745,6 +5747,7 @@ marshes
 maru
 maruarai
 marudashi
+marudepiza
 marugakae
 marugao
 marugari
@@ -7444,6 +7447,7 @@ rainen
 rainfainansharu
 rainkurieetaa
 rainmukku
+rainwaakusu
 raireki
 raisan
 raise
