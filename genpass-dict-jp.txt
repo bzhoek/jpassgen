@@ -3891,6 +3891,7 @@ jaarimasenka
 jack
 jackets
 jane
+janpuchihirozu
 janpufesuta
 japaaaaan
 japan
@@ -5654,6 +5655,7 @@ maiyo
 majide
 majika
 majikyunrunesansu
+majimajopuazu
 majimuri
 majo
 make
@@ -7662,6 +7664,7 @@ rikuchi
 rikugun
 rikui
 rikutsu
+rikuuhai:
 rimawari
 rime
 rimen
@@ -8396,6 +8399,7 @@ shadoubaasu
 shall
 shameru
 shamette
+shanhaimuun
 shanshan
 shaped
 shareotsu
