@@ -2018,6 +2018,7 @@ furidashi
 furigana
 furigoma
 furiika
+furiipasu
 furikae
 furiko
 furikomi
@@ -3850,6 +3851,7 @@ itoku
 itoma
 itomagoi
 itome
+itoshinoairiin
 its
 itself
 itsu
@@ -5615,6 +5617,7 @@ maewatashi
 mafuyubi
 magai
 magaimono
+magajindebyu
 magao
 magari
 magazine
@@ -6694,6 +6697,7 @@ nikubanare
 nikugan
 nikuhaku
 nikuhitsu
+nikunikuniku
 nikurui
 nikusei
 nikushimi
@@ -8561,6 +8565,7 @@ shingo
 shingojira
 shingu
 shingun
+shingurusumaato
 shini
 shinimasen
 shinise
