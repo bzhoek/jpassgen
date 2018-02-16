@@ -515,6 +515,7 @@ bag
 bagu
 bai
 baibai
+baibaiburakkubaado
 baibii
 baibusu
 baien
@@ -1620,6 +1621,7 @@ eiyaku
 eiyo
 eizen
 eizoku
+ejjizaharukasu
 ekaki
 eki
 ekiben
@@ -5132,6 +5134,7 @@ komi
 komichi
 komidashi
 komikkubiimuhyaku
+komikkudays
 komo
 komochi
 komon
@@ -5664,6 +5667,7 @@ majikyunrunesansu
 majimajopuazu
 majimuri
 majo
+makaiuoozu
 make
 makenki
 makes
