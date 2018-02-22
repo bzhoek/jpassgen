@@ -866,6 +866,7 @@ bunyo
 buraja
 burakkufuraidee
 burakkukuroobaa
+burakkupean
 buraku
 buranketto
 burasode
@@ -4969,6 +4970,7 @@ kitakaze
 kitaku
 kitakunanmin
 kitan
+kitanosakura
 kitei
 kiteki
 kiten
@@ -5951,6 +5953,7 @@ mesu
 met
 metabo
 metarumakkusu
+metarumakubesu
 metcha
 method
 metsu
@@ -7509,6 +7512,7 @@ rangaku
 rankaku
 rankan
 rankei
+ranogetsukuuru
 ranritsu
 ransamuueaa
 ransei
@@ -8909,6 +8913,7 @@ soramimi
 sorani
 soratobutaiya
 soratouminoaida
+sorawaakai
 sorei
 sorena
 sorenaa
