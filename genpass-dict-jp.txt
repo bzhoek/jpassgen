@@ -1686,6 +1686,7 @@ engorokante
 engumi
 engun
 enin
+enja
 enjoy
 enka
 enkai
@@ -3901,6 +3902,7 @@ jackets
 jane
 janpuchihirozu
 janpufesuta
+janputoshokan
 japaaaaan
 japan
 japaripedia
@@ -4659,6 +4661,7 @@ keiyu
 keizai
 keizoku
 kejime
+keketemiiyo
 kemari
 kemono
 kemonohen
@@ -6374,6 +6377,7 @@ muzui
 my
 myakuari
 myakunashi
+myojo
 myself
 myth
 myujikkuanrimiteddo
@@ -6438,6 +6442,7 @@ nairiku
 naisei
 naisen
 naitei
+naitokurooraa
 naitopuuru
 naitsuandomajikku
 naiya
@@ -8543,6 +8548,7 @@ shimin
 shimo
 shimoda
 shimodoke
+shimofuri
 shimohanki
 shimoki
 shimokitazawadaihaado
@@ -8825,6 +8831,7 @@ soboro
 soburi
 sochi
 soda
+sodanee
 sode
 sodeguchi
 soegaki
