@@ -3287,6 +3287,7 @@ hishi
 hishigata
 hishimochi
 hishitsu
+hismobairu
 hiso
 hitei
 hiten
@@ -7037,6 +7038,7 @@ omae
 omaewamadagummawoshiranai
 omaiga
 omairi
+omakaseteikibin
 omake
 omamori
 omata
@@ -9062,6 +9064,7 @@ suisui
 suitai
 suitei
 suiteki
+suitsubokkusu
 suiun
 suiyoku
 suizoku
@@ -10917,6 +10920,7 @@ zai
 zaiaku
 zaibatsu
 zaidan
+zaifu
 zaigai
 zaigaku
 zaigen
