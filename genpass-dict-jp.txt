@@ -2235,6 +2235,7 @@ geigoto
 geiko
 geimei
 geinin
+geiriiorudoman
 geisha
 geka
 gekai
@@ -2747,9 +2748,11 @@ hamaya
 hame
 hameita
 hametsu
+hamidasuhamu
 hamigaki
 hamon
 hamono
+hamuteritama
 han
 hana
 hanabatake
@@ -3903,6 +3906,7 @@ jackets
 jane
 janpuchihirozu
 janpufesuta
+janpupaatii
 janputoshokan
 japaaaaan
 japan
@@ -7023,6 +7027,7 @@ okugai
 okunai
 okuni
 okunote
+okuotoko
 okuribi
 okurimono
 okurisaki
@@ -9253,6 +9258,7 @@ taimatsu
 taimei
 taimen
 taimubanku
+taimutonneru
 tainai
 tainetsu
 tainin
