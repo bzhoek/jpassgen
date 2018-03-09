@@ -7390,6 +7390,7 @@ porukadotto
 position
 possession
 possible
+posutoyoshimoto
 pounyoponyo
 power
 ppap
@@ -7420,10 +7421,12 @@ puraimudee
 puraimurajio
 puraimutsuriiakaike
 puramoderu
+purasuurutora
 pureirisuto
 pureitetorisutawaa
 puremiamufuraidee
 puremiamumarusheoosaka
+puremiiru
 purenatarian
 purichiipu
 purikura
@@ -7481,6 +7484,7 @@ rainen
 rainfainansharu
 rainkurieetaa
 rainmukku
+rainnuroretto
 rainwaakusu
 raireki
 raisan
@@ -8080,6 +8084,7 @@ sarasa
 sarashiagyudon
 sarashiagyuudon
 sarashiko
+sarina
 saru
 sarukoto
 sarumane
