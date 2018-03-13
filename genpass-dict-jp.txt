@@ -803,6 +803,7 @@ buchigireru
 buds
 bugaku
 bugei
+bugiipoppu
 bugu
 buhibuhi
 buhin
@@ -3516,6 +3517,7 @@ huskiness
 hustles
 hutsugonashinjitsu
 hyakumanennoonnatachi
+hyokkorihan
 hyoukinzoku
 hyperprism
 i
@@ -3747,6 +3749,7 @@ inochi
 inochigake
 inochigoi
 inochitori
+inosentodeizu
 inoshishi
 inparfit
 inreki
@@ -6989,6 +6992,7 @@ oisaki
 oitachi
 oitoma
 oiuchi
+ojosaba
 oka
 okaeshi
 okage
@@ -7001,6 +7005,7 @@ okara
 okashinokuruma
 okata
 okawari
+okayamamomotarokuko
 okayu
 okazunashi
 oke
@@ -10417,6 +10422,7 @@ wanton
 wants
 waon
 warabi
+warawahen
 warawara
 warii
 warini
@@ -10525,6 +10531,7 @@ yabuhebi
 yabun
 yabusame
 yachin
+yaden
 yado
 yadochin
 yadokari
