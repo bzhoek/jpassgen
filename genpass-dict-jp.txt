@@ -6111,6 +6111,7 @@ miseshime
 miseya
 mishima
 miso
+misokatsuraisu
 misoshiru
 mistaken
 mistress
@@ -9846,6 +9847,7 @@ tomoshibi
 tonakai
 tonari
 tonarigumi
+tonarinokyuketsukisan
 tonchi
 tone
 tonjiru
@@ -10797,6 +10799,7 @@ yomichi
 yomide
 yomigana
 yomikaki
+yomiko
 yomimono
 yomise
 yomiuri
