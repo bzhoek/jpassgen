@@ -1180,6 +1180,7 @@ daidai
 daidokoro
 daidoku
 daigaku
+daigasuguruupu
 daigiin
 daigishi
 daigomi
@@ -4898,6 +4899,7 @@ kinkin
 kinko
 kinkotsu
 kinku
+kinmukanintaabaru
 kinnen
 kinniku
 kinoko
@@ -7810,6 +7812,7 @@ ronshi
 ronten
 roof
 room
+roosonginko
 roots
 rosen
 roses
@@ -11039,6 +11042,7 @@ zendera
 zendo
 zenei
 zenfon
+zenfon5
 zengaku
 zengen
 zengetsu
