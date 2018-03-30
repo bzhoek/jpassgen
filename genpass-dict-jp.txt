@@ -1824,6 +1824,7 @@ few
 fifteen
 fifty
 fight
+figyuaraizurabo
 find
 finding
 fingaanappu
@@ -6521,6 +6522,7 @@ namikaze
 namiki
 namima
 naminori
+naminoripikaa
 namisei
 nan
 nanahikari
@@ -7498,6 +7500,7 @@ rainfainansharu
 rainkurieetaa
 rainmukku
 rainnuroretto
+rainshouken
 rainwaakusu
 raireki
 raisan
@@ -7842,6 +7845,7 @@ ruisen
 ruishin
 ruisui
 rukei
+rukuafuudohooru
 rumata
 rung
 runrun
@@ -9493,6 +9497,7 @@ taue
 taurid
 tawagoto
 tawai
+tawaobutera
 tawara
 tawashi
 tayori
