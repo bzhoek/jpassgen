@@ -221,6 +221,7 @@ amagu
 amagumo
 amagutsu
 amai
+amakasuhisone
 amakuchi
 amamori
 amanoakiraten
@@ -2144,6 +2145,7 @@ gaiya
 gaizen
 gaka
 gake
+gakeppuchihoteru
 gaki
 gakkii
 gaku
@@ -2276,6 +2278,7 @@ gelations
 gen
 genan
 genatsu
+genbabito
 genchi
 gendai
 gendo
@@ -4036,6 +4039,7 @@ kaedama
 kaede
 kaehoudai
 kaen
+kaeremandee
 kaerichi
 kaerigiwa
 kaerimichi
@@ -5304,6 +5308,7 @@ kozeni
 kozukata
 kozukatakou
 kozumo
+kradness
 kronen
 ksk
 kubetsu
@@ -6034,6 +6039,7 @@ mikeneko
 miketsu
 miki
 mikiki
+mikketai
 miko
 mikon
 mikoshi
@@ -7228,6 +7234,7 @@ otachi
 otafuku
 otagai
 otaku
+otakunikoi
 otakunikoiwamuzukashii
 ote
 oteage
