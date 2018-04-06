@@ -1831,6 +1831,7 @@ finding
 fingaanappu
 fingan
 first
+fisewaarudo
 fish
 fishweir
 fitted
@@ -2923,6 +2924,7 @@ hashireoumatsusan
 hasn’t
 hason
 hasshin
+hasshumakkusu
 hastily
 hasu
 hasuhasu
@@ -4732,6 +4734,7 @@ kenshiki
 kenshin
 kenson
 kensui
+kentackey
 kentai
 kentei
 kento
@@ -7505,6 +7508,7 @@ rainautofurii
 rainen
 rainfainansharu
 rainkurieetaa
+rainkyaria
 rainmukku
 rainnuroretto
 rainshouken
@@ -9188,6 +9192,7 @@ sutene
 suteraruu
 sutikkudomino
 sutoppukun
+sutorakuchuraruburu
 sutoroberiimuun
 sutorooman
 suupaadejira
