@@ -6,6 +6,8 @@ SMAPO
 aachankakkoii
 aakouya
 aakuhiruzu
+aamondoai
+aamondoboi
 aane
 aateisuteikkusuimingu
 aatoakuariumu
@@ -1808,6 +1810,7 @@ family
 fandiina
 fantastic
 far
+faro
 farther
 farukonuhebii
 fast
@@ -3928,9 +3931,11 @@ jc
 jd
 jeikosu
 jejeje
+jeko
 jentirooni
 jeopardize
 jeopardy
+jeri
 jet
 jewels
 jibanyanman
@@ -5570,6 +5575,7 @@ lemon
 lemonade
 let
 letters
+lezu
 lie
 liens
 life
@@ -5714,6 +5720,7 @@ makiudon
 makizoe
 makku
 makkubaagaa
+mako
 maku
 makuai
 makuake
@@ -5963,6 +5970,7 @@ menzei
 menzen
 mephitism
 mere
+meri
 meridian
 merihari
 merukarichanneru
@@ -7359,6 +7367,7 @@ per
 perapera
 peresutoroika
 perfectly
+peri
 peropero
 person
 personal
@@ -7373,6 +7382,7 @@ picture
 pig
 piidiiefupen
 piipiieepiikafue
+piko
 pikotarou
 pine
 pinofuondyukafe
@@ -7570,6 +7580,7 @@ rarapouto
 rararando:
 raretsu
 raritta
+raro
 rasen
 rasutoreshipi
 ratai
