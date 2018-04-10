@@ -4462,6 +4462,7 @@ karategata
 karatsuyu
 karauri
 kare
+kareepan
 kareha
 karei
 kareki
@@ -5169,6 +5170,7 @@ komichi
 komidashi
 komikkubiimuhyaku
 komikkudays
+komikkutinto
 komo
 komochi
 komon
@@ -7203,6 +7205,7 @@ osage
 osagi
 osaka
 osakatouin
+osakaumedatwin
 osakini
 osan
 osanago
@@ -8857,6 +8860,7 @@ silk
 simple
 simplified
 single
+singtuyo
 sink
 sit
 sitting
@@ -10578,6 +10582,7 @@ yado
 yadochin
 yadokari
 yadonashi
+yadonparadaisu
 yadonushi
 yadorigi
 yadoya
