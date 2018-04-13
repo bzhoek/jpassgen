@@ -2045,6 +2045,7 @@ furniturerattling
 furo
 furoku
 furomaajuman
+furoozenremon
 furorida
 furoshiki
 furu
@@ -4060,6 +4061,7 @@ kafutan
 kagai
 kagaku
 kagami
+kagaminokojou
 kagaminuki
 kagaribi
 kage
@@ -4896,6 +4898,7 @@ kindan
 kindoruanrimiteddo
 kine
 kinen
+kinenkan
 kingaku
 kingan
 kingen
@@ -7459,6 +7462,7 @@ puraimudee
 puraimurajio
 puraimutsuriiakaike
 puramoderu
+purasumesseeji
 purasuurutora
 pureirisuto
 pureitetorisutawaa
@@ -7557,6 +7561,7 @@ rakuseki
 rakusen
 rakutan
 rakuten
+rakutenbikku
 rakutenfm
 rakutenpei
 rakutenseiyu
