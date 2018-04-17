@@ -676,6 +676,7 @@ big
 bigaku
 bigguaroha
 bigi
+bigmacbeekon
 bihin
 biimuzusukuuru
 biirubanare
@@ -1375,6 +1376,7 @@ densen
 densetsu
 denshi
 denshin
+denshishoten
 densify
 dentaku
 dentatsu
@@ -3765,6 +3767,7 @@ inochitori
 inosentodeizu
 inoshishi
 inparfit
+inputtohoride
 inreki
 inritsu
 insatsu
@@ -3989,6 +3992,7 @@ jumbled
 jump
 jumping
 jumps
+jumpsqrise
 jumpy
 junbiokke
 junchuugata
@@ -7651,6 +7655,7 @@ remarks
 remember
 remembered
 reminding
+remonface:
 ren
 renaato
 renai
