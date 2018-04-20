@@ -2583,6 +2583,7 @@ gyaaa
 gyakupaka
 gyarakushiibukku
 gyogiwaru
+gyouruikan
 gyouzabaggu
 gyuutorotama
 ha
@@ -4972,6 +4973,7 @@ kirimi
 kirimomi
 kirimori
 kirin
+kiringakuru
 kirisame
 kiritsu
 kiriuri
@@ -5595,6 +5597,7 @@ like
 limb
 limitations
 line
+lineemoji
 linters
 lion
 lip
@@ -10189,6 +10192,7 @@ uguisu
 uha
 uhen
 uiru
+uizurajio
 uka
 ukai
 ukeoi
