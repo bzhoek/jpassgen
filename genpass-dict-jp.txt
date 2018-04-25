@@ -70,6 +70,7 @@ aen
 affiliations
 afraid
 after
+afurakku
 again
 agariguchi
 ageashi
@@ -3906,6 +3907,8 @@ iware
 iwashi
 iwaya
 iwayama
+iyaada
+iyaaduo
 iyada
 iyaiya
 iyaki
@@ -3938,6 +3941,7 @@ jd
 jeikosu
 jejeje
 jeko
+jellypro
 jentirooni
 jeopardize
 jeopardy
@@ -6003,6 +6007,7 @@ metarumakkusu
 metarumakubesu
 metcha
 method
+metorodeasakatsu
 metsu
 metsuki
 mettoraifudoomu
@@ -10584,6 +10589,7 @@ writers
 writingdesk
 writingdesks
 wrong
+xperiaiyaa
 yaba
 yabai
 yabane
