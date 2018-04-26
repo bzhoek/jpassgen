@@ -224,6 +224,7 @@ amagu
 amagumo
 amagutsu
 amai
+amakasu
 amakasuhisone
 amakuchi
 amamori
@@ -634,6 +635,7 @@ belongs
 beloved
 belt
 ben
+benbabito
 benchi
 bengaku
 bengi
@@ -5438,6 +5440,7 @@ kunwa
 kunyomi
 kura
 kurabemono
+kuraddonesu
 kuragae
 kuragari
 kurage
