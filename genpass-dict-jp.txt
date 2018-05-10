@@ -4486,6 +4486,7 @@ kareshi
 kari
 karichin
 karigaaru
+karigyura
 kariire
 karimono
 karinui
@@ -7271,6 +7272,7 @@ otachi
 otafuku
 otagai
 otaku
+otakukoin
 otakunikoi
 otakunikoiwamuzukashii
 ote
@@ -10085,6 +10087,7 @@ tsukushi
 tsuma
 tsumagoi
 tsumasaki
+tsumayobaranoyouni
 tsume
 tsumeato
 tsumeeri
@@ -11151,6 +11154,7 @@ zenza
 zenzai
 zephyrs
 zero
+zeronotiitaimu
 zesei
 zetsuen
 zetsumei
