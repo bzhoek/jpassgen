@@ -5464,6 +5464,7 @@ kurenaizoku
 kureyo
 kuri
 kuriaawasupuree
+kuriarate
 kuribocchi
 kurifudaibingu
 kurige
@@ -6710,6 +6711,7 @@ nenritsu
 nensan
 nenshi
 nenza
+neogeo
 neoki
 nerimono
 neru
@@ -6726,6 +6728,7 @@ netsuben
 netsuen
 netsugen
 netsui
+nettokonbini
 neuchi
 never
 new
@@ -9992,6 +9995,7 @@ toukyouarisu
 toukyousumikkogohan
 toukyoutararebamusume
 toukyoutarereba
+toumeinayurikago
 towards
 tozama
 tozan
