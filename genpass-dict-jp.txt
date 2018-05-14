@@ -3835,6 +3835,7 @@ iryuminaaju
 is
 isai
 isakai
+isakaya
 isaku
 isamiashi
 isan
@@ -7060,6 +7061,7 @@ okashinokuruma
 okata
 okawari
 okayamamomotarokuko
+okayamaribettsu
 okayu
 okazunashi
 oke
@@ -7452,6 +7454,7 @@ poniteeru
 poogu
 poorusutaa
 poppii
+poreeru
 porg
 porukadotto
 position
