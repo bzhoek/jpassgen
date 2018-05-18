@@ -528,6 +528,7 @@ baigaeshi
 baika
 baikai
 baikin
+baikushea
 baimei
 bainkamera
 bairitsu
@@ -5021,6 +5022,7 @@ kitakaze
 kitaku
 kitakunanmin
 kitan
+kitanoblue
 kitanosakura
 kitei
 kiteki
@@ -5553,6 +5555,7 @@ kvetching
 kwsk
 ky
 kyabakura
+kyabebanban
 kyanto
 kyobashiedoguran
 kyohakushimasu
@@ -7619,6 +7622,7 @@ raretsu
 raritta
 raro
 rasen
+rasutochansu
 rasutoreshipi
 ratai
 rather
@@ -7724,6 +7728,7 @@ resultant
 resulting
 resutoran
 retaashiiringu
+retasugyudon
 rethoric
 retoro
 retsu
@@ -8582,6 +8587,7 @@ shiiku
 shiima
 shiin
 shiitake
+shiizaa
 shika
 shikabane
 shikaeshi
