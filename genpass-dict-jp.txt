@@ -1922,6 +1922,7 @@ fuhen
 fuhyouhigai
 fuigo
 fuiuchi
+fujiorokku
 fuka
 fukachi
 fukade
@@ -5782,6 +5783,7 @@ manaita
 manamusume
 manatsubi
 manazashi
+manbikikazoku
 mandan
 mandara
 manen
@@ -6009,6 +6011,7 @@ mesen
 meshi
 meshibe
 meshibitsu
+meshinuma
 meshita
 meshitero
 messhi
@@ -6335,6 +6338,7 @@ motone
 motosen
 moufu
 moumokunoyoshinorisensei
+moumokuouji
 mountain
 mountains
 mourisu
@@ -10366,6 +10370,7 @@ ushirogami
 using
 uso
 usotsuki
+usotsukihime
 usu
 usualone
 usubi
