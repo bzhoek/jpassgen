@@ -1390,6 +1390,7 @@ denwa
 deomajikku
 depending
 derakkusuchiizubiifu
+dere
 derisshukitchin
 derodero
 derutatawaa
@@ -2037,6 +2038,7 @@ furankenshutain
 furanki
 furazan
 furekomi
+furepechiino::
 furidashi
 furigana
 furigoma
@@ -5993,6 +5995,7 @@ menseki
 mensetsu
 menshi
 menshiki
+mensoorefesta
 mentaiko
 mentsu
 menyu
@@ -6873,6 +6876,7 @@ nogai
 nogeemunoraifu
 nogi
 nogihen
+nogisatsu
 nohara
 noise
 nokemono
@@ -10218,6 +10222,7 @@ ueki
 uekibachi
 uekomi
 uenarisuto
+uenobukiyo
 ugai
 ugan
 ugen
