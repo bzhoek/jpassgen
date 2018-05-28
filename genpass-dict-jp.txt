@@ -1600,6 +1600,7 @@ eeyuuhoomu
 eeyuusutaa
 effort
 efude
+efuriigu
 efushiieruesu
 efushiiimabari
 egao
@@ -3994,6 +3995,7 @@ joinusterasu
 joke
 jolt
 joniizujimusho
+joodanhikkusu
 joshiana
 joujaku
 joukyou
@@ -10460,6 +10462,7 @@ wagei
 wagi
 wagiri
 wago
+wagunerian
 wairo
 wairudodaro
 wait
