@@ -3100,6 +3100,7 @@ henkan
 henkei
 henken
 henkin
+hennashimu
 henrei
 henreki
 henrin
@@ -6449,6 +6450,7 @@ muzui
 my
 myakuari
 myakunashi
+mydaiz
 myojo
 myself
 myth
@@ -6826,6 +6828,7 @@ ninushi
 nioiten
 nippon
 nipponishinnokai
+nipponseitetsu
 nira
 nirin
 nisa
@@ -7296,6 +7299,7 @@ otakunikoiwamuzukashii
 ote
 oteage
 otedama
+otegarupuran
 otemae
 otemori
 oten
