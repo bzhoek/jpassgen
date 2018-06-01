@@ -2297,6 +2297,7 @@ genatsu
 genbabito
 genchi
 gendai
+gendan
 gendo
 genei
 geneki
@@ -2310,6 +2311,7 @@ gengosenryaku
 genin
 genka
 genkai
+genkaidanchi
 genkaku
 genkan
 genkei
@@ -5570,6 +5572,7 @@ kyoto
 kyotokokusaieigasai
 kyototawaasando
 kyounokirakun
+kyuamasheri
 kyuaparufue
 kyuudo
 kyuukyoku
@@ -7456,6 +7459,7 @@ plot
 pochiru
 pointing
 pokemonkafe
+pokemonkuesuto
 pokerando
 pokettomonsutaa
 pokevision
@@ -9482,6 +9486,7 @@ tanabata
 tanago
 tanako
 tanaoroshi
+tanbaya
 tanchi
 tandai
 tanden
@@ -9521,6 +9526,7 @@ tansui
 tantai
 tantan
 tantei
+tanteigahayasugiri
 tanuki
 tanzaku
 taorumyuujikku
@@ -9947,6 +9953,7 @@ tonosama
 tonya
 tonza
 too
+tookukyapucha
 toolsi
 top
 toppa
