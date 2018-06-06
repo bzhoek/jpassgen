@@ -1100,6 +1100,7 @@ clock
 close
 coalesce
 coast
+cokeclear
 cold
 coldheartedness
 collection
@@ -2222,6 +2223,7 @@ ganri
 ganriki
 gansaku
 ganseki
+ganshieruju
 ganso
 gantai
 gantan
@@ -4639,6 +4641,7 @@ kazarike
 kazarimono
 kazashimo
 kaze
+kazegatsuyoku
 kazei
 kazeyoke
 kazoedoshi
@@ -6135,6 +6138,7 @@ miniondaidassoukafe
 minionhachamecharaido
 minka
 minkan
+minnanotakushii
 mino
 minohodo
 minomushi
@@ -7393,6 +7397,7 @@ panpan
 pantsu
 papa
 paper
+paraariina
 paradaisubunsho
 paradisematic
 parareruwaarudo
