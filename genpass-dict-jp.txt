@@ -1824,6 +1824,7 @@ faro
 farther
 farukonuhebii
 fast
+fateextella
 fault
 fax
 faxed
@@ -5568,6 +5569,7 @@ ky
 kyabakura
 kyabebanban
 kyanto
+kyaputentsubasa
 kyobashiedoguran
 kyohakushimasu
 kyokucho
@@ -6698,6 +6700,7 @@ neiro
 neko
 nekobaba
 nekoguruma
+nekohadaku
 nekoyanagi
 nekoze
 nekurasu
