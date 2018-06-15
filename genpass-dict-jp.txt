@@ -85,6 +85,7 @@ agruif
 agunesuronsou
 agunsan
 agura
+agureshiburetsuko
 agurishoe
 ahiru
 aho
@@ -1172,6 +1173,7 @@ daarininzafurankisu
 dabodabo
 daboku
 dabudabuchi
+daburufantaji
 dachin
 daden
 daeki
@@ -4408,6 +4410,7 @@ kankodori
 kankoku
 kankopii
 kanku
+kankyaku
 kanna
 kannachise
 kannan
@@ -5180,6 +5183,7 @@ kokusen
 kokushi
 kokuso
 kokusui
+kokusupo
 kokutai
 kokutei
 kokuten
@@ -7489,6 +7493,7 @@ poniteeru
 poogu
 poorusutaa
 poppii
+poputepi
 poreeru
 porg
 porukadotto
