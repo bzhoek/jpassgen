@@ -2206,6 +2206,7 @@ gaman
 gamanshiro
 game
 gamen
+gameshogai
 gan
 ganbare
 ganbaroukoube
@@ -7476,6 +7477,7 @@ plenty
 plot
 pochiru
 pointing
+pokekan
 pokemonkafe
 pokemonkuesuto
 pokerando
@@ -7767,6 +7769,7 @@ resulting
 resutoran
 retaashiiringu
 retasugyudon
+retasugyumen
 rethoric
 retoro
 retsu
@@ -8625,6 +8628,7 @@ shiiku
 shiima
 shiin
 shiitake
+shiiza
 shiizaa
 shika
 shikabane
@@ -10240,6 +10244,7 @@ uchiuchi
 uchiumi
 uchiwa
 uchiwake
+uchugun
 uchuyorimotooibasho
 ude
 udedameshi
