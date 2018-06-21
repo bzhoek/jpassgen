@@ -3127,6 +3127,7 @@ hensoku
 hentai
 henten
 hentetsu
+hentonaissa
 henzai
 her
 hera
@@ -3498,6 +3499,7 @@ horei
 hori
 horibata
 horimono
+horipuro
 horishi
 horiwari
 horo
@@ -4912,6 +4914,7 @@ kimei
 kimete
 kimi
 kimidori
+kimigakimide
 kimigayasashii
 kiminisasageruenburemu
 kiminonawa
@@ -5814,6 +5817,7 @@ manetsu
 manga
 mangaku
 mangan
+mangatimekirara
 mangetsu
 mangetuchiizutukimi
 manhoorukaado
@@ -9481,6 +9485,7 @@ takumi
 takushiibin
 talc
 talents
+talesofvespalia
 talk
 talking
 tall
