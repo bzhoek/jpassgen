@@ -950,6 +950,8 @@ chakkyo
 challenging
 chances
 change
+chankii
+chankiikukkii
 chanpuru
 chap
 charachara
@@ -1088,6 +1090,7 @@ chottomatte
 chou
 chounaikai
 chumps
+chunkycookie
 chutney
 chuushoku
 cilioscleral
@@ -1895,6 +1898,7 @@ fox
 foxes
 foxy
 frame
+frappuccino
 frary
 fredericka
 free
@@ -2043,6 +2047,7 @@ furaiingusamaamajikku
 furan
 furankenshutain
 furanki
+furappa
 furazan
 furekomi
 furepechiino::
@@ -2122,6 +2127,7 @@ fuzai
 fuzei
 fuzen
 fuzoku
+gaaden
 gachi
 gadai
 gadan
@@ -3643,6 +3649,7 @@ igi
 igiari
 igo
 igokochi
+igtv
 igusa
 ihai
 ihan
@@ -5425,6 +5432,7 @@ kukaku
 kukan
 kukei
 kuki
+kukkii
 kuku
 kuma
 kumabachi
@@ -7634,6 +7642,8 @@ rakusatsu
 rakusei
 rakuseki
 rakusen
+rakuspa
+rakusupa
 rakutan
 rakuten
 rakutenbikku
@@ -8564,6 +8574,7 @@ sewa
 sewanin
 sexcharged
 sezoku
+sgo48
 shabbot
 shadoubaasu
 shall
@@ -9364,6 +9375,7 @@ taido
 taieki
 taifu
 taiga
+taigaasakaba
 taigai
 taigaku
 taigan
@@ -9860,6 +9872,7 @@ through
 throw
 thrust
 ticking
+tigersakaba
 till
 time
 times
