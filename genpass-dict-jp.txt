@@ -1347,6 +1347,7 @@ deiri
 deiriiboonasu
 deisui
 deizuneo
+dejimonriaraizu
 deka
 dekasegi
 dekata
@@ -9629,6 +9630,7 @@ tawai
 tawaobutera
 tawara
 tawashi
+tawashimakura
 tayori
 tazei
 tea
@@ -11145,6 +11147,7 @@ zanshi
 zanson
 zantei
 zany
+zaodaiba
 zaps
 zaragami
 zarame
