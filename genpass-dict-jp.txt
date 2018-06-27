@@ -2609,6 +2609,7 @@ gwifi
 gyaaa
 gyakupaka
 gyarakushiibukku
+gyarakushiinooto
 gyogiwaru
 gyouruikan
 gyouzabaggu
@@ -5519,6 +5520,7 @@ kurokoge
 kuromaku
 kuromame
 kuromatsu
+kuronekopei
 kuronikutakosu
 kuroobafurenzu
 kuroshe
@@ -6055,6 +6057,7 @@ messhi
 mesu
 met
 metabo
+metappusu
 metarumakkusu
 metarumakubesu
 metcha
@@ -9234,6 +9237,7 @@ sukiyaki
 sukizoparano
 sukriinekkusu
 sukuinushi
+sukuriintaimu
 sumabon
 sumahen
 sumaho
