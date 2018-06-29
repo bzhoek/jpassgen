@@ -3822,6 +3822,7 @@ into
 intoku
 inton
 inu
+inua
 inuponpon
 inuyashiki
 inuzori
@@ -7590,6 +7591,7 @@ quiz
 r1guranpuri
 raamen
 rabuchunyu
+rabupurasueburi
 raburabu
 rachi
 raden
@@ -8360,6 +8362,8 @@ seikendensetsu
 seiki
 seikin
 seikon
+seikore18
+seikoreichihachi
 seikotsu
 seikurabe
 seimai
@@ -8681,6 +8685,7 @@ shikiso
 shikitari
 shikiten
 shikkari
+shikokusuizokukan
 shikon
 shikori
 shiku
@@ -8875,6 +8880,7 @@ shishitsu
 shiso
 shisoku
 shison
+shisui
 shita
 shitaago
 shitabaki
@@ -11007,6 +11013,7 @@ yotsugi
 yotsukado
 yotsuyu
 you
+youkaiuocchiwaarudo
 youkaiuocchizararii
 your
 yours
