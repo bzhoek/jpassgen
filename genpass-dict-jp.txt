@@ -2387,6 +2387,7 @@ ghibli
 ghost
 gian
 gibo
+gibotomusume
 gida
 gidai
 gien
@@ -2488,6 +2489,7 @@ gokoku
 goku
 gokuaku
 gokuboso
+gokudoruzu
 gokugoku
 gokuhi
 gokuhin
@@ -2561,6 +2563,7 @@ guai
 gubi
 guchi
 guchiguchi
+guddodr
 guess
 guest
 gugen
@@ -6820,6 +6823,7 @@ niichan
 niisan
 nijigen
 nijigennomori
+nijigumi
 nijuumaru
 nikawa
 nikibi
@@ -7992,6 +7996,7 @@ ryuukyuuasutiida
 saabisu
 saakasu
 saba
+sabaibaruwedding
 sabaku
 sabetsu
 sabi
@@ -11085,9 +11090,11 @@ yume
 yumi
 yuminari
 yumiya
+yunasan
 yunkerunba
 yunomi
 yuppa
+yuragisou
 yurai
 yuri
 yurigokoro
