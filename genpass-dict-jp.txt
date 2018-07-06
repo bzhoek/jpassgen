@@ -74,6 +74,7 @@ afurakku
 again
 agariguchi
 ageashi
+agemizawa
 agemono
 agency
 agepoyo
@@ -612,6 +613,7 @@ bed
 bedding
 bedirt
 bedrivelled
+beekonmakku
 beekonpotetopai
 been
 before
@@ -2129,6 +2131,7 @@ fuzei
 fuzen
 fuzoku
 gaaden
+gachamuku
 gachi
 gadai
 gadan
@@ -2851,6 +2854,7 @@ handosupinaa
 hands
 hane
 hanebado
+hanedaakusesu
 hanei
 hanen
 hanerokoikingu
@@ -5791,6 +5795,7 @@ makizoe
 makku
 makkubaagaa
 makkuoesu
+makkupooku
 mako
 maku
 makuai
@@ -8743,6 +8748,7 @@ shindai
 shindan
 shinden
 shindo
+shinekuinto
 shinen
 shingai
 shingaku
