@@ -502,6 +502,7 @@ awamori
 aware
 away
 ax
+axiz
 ayame
 ayu
 aza
@@ -9493,6 +9494,7 @@ taken
 takenoko
 takenokofon
 takes
+takeshigun
 taketori
 takeuma
 takeyabu
