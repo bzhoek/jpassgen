@@ -688,6 +688,7 @@ bigaku
 bigguaroha
 bigi
 bigmacbeekon
+bigsaitoeki
 bihin
 biimuzusukuuru
 biirubanare
@@ -1824,6 +1825,7 @@ fainniidoru
 fairyw!nk
 faito
 faiyaa
+faiyasanda
 fajii
 fall
 familiar
@@ -6648,6 +6650,7 @@ nanisama
 nanka
 nankai
 nankan
+nankareedoggu
 nankin
 nankotsu
 nankuse
@@ -7572,6 +7575,7 @@ purichiipu
 purikura
 purintosu
 puripuri
+purorii
 pursue
 pursues
 pushed
@@ -7803,6 +7807,7 @@ retasugyumen
 rethoric
 retoro
 retsu
+rettsupaatigura
 return
 rewritten
 riage
@@ -9987,6 +9992,7 @@ tokutei
 tokuten
 tokuyaku
 tokyo
+tokyobigsight
 tokyodime
 tokyojoshizukan
 tokyovanpaiyahoteru
