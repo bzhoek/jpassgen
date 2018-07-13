@@ -2947,6 +2947,7 @@ haru
 harugasumi
 haruka
 harukaze
+harunosora
 harunoumi
 harusaki
 harusame
@@ -4057,6 +4058,7 @@ juuden
 kaabukyappu
 kaaki
 kaakiiro
+kaaringushitoonzu
 kaaruappu
 kaasan
 kaatsu
@@ -9146,6 +9148,7 @@ sozei
 speech
 spell
 sphinx
+spicyrokomoko
 spineless
 splendour
 sport
@@ -9796,6 +9799,7 @@ tengu
 tengusa
 teni
 tenin
+tenjinbibure
 tenka
 tenkai
 tenkaichi
