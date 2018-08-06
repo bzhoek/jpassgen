@@ -5773,6 +5773,7 @@ mainichishuzo
 mainintenndou
 maisetsu
 maishin
+maisutatokyo
 maitake
 maitoshi
 maitsuki
@@ -6520,6 +6521,7 @@ nagaame
 nagagutsu
 nagai
 nagaiki
+nagamatsu
 nagamochi
 naganaga
 naganen
