@@ -1431,6 +1431,7 @@ different
 dig
 digs
 diiemu
+diitabu
 dim
 direction
 discotheques
@@ -3233,6 +3234,7 @@ hikage
 hikaku
 hikan
 hikari
+hikarimirai
 hikaritohonou
 hikaritokagenohibi
 hikeme
@@ -3421,6 +3423,7 @@ hiyodori
 hiyoke
 hiyokko
 hiyoko
+hiyokochanman
 hiyori
 hiyorimi
 hiyu
@@ -5528,6 +5531,7 @@ kuroekimu
 kurofune
 kurogane
 kuroiro
+kurokareekatsu
 kurokawanotechou
 kurokoge
 kuromaku
@@ -6123,6 +6127,7 @@ migoshirae
 migotae
 migurumi
 miharai
+miharashiki
 mihon
 mihonichi
 miiri
@@ -6489,6 +6494,7 @@ musubime
 musuko
 musume
 musumemuko
+mutafukazu
 muteki
 mutodoke
 mutsuki
@@ -6837,6 +6843,7 @@ niisan
 nijigen
 nijigennomori
 nijigumi
+nijubashisq
 nijuumaru
 nikawa
 nikibi
@@ -9800,7 +9807,9 @@ tengoku
 tengu
 tengusa
 teni
+tenimyu
 tenin
+teninyubunkasai
 tenjinbibure
 tenka
 tenkai
