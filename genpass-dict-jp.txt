@@ -3534,6 +3534,7 @@ hosaki
 hosei
 hosen
 hoshi
+hoshiainosora
 hoshigaki
 hoshikage
 hoshikusa
@@ -7293,6 +7294,7 @@ ore
 orei
 orenji
 orenjiiro
+orenoguriru
 oreoresagi
 oresama
 oretachi
@@ -7472,6 +7474,7 @@ patapata
 pawahara
 pay
 peacefully
+peaker
 pekingushinkuukou
 pekorindoonatsu
 penpen
@@ -7495,6 +7498,7 @@ picked
 picture
 pig
 piidiiefupen
+piikaa
 piipiieepiikafue
 piko
 pikotarou
