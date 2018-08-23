@@ -2545,6 +2545,7 @@ gossypine
 got
 gote
 goten
+gotoubunbride
 gotouchikaraagekun
 goukai
 goukon
@@ -6610,6 +6611,7 @@ nakigoe
 nakigoto
 nakihito
 nakimushi
+nakimushishotan
 nama
 namae
 namagashi
@@ -6814,6 +6816,7 @@ next
 neyuki
 nezame
 niage
+niantic
 nibbled
 niboshi
 nice
@@ -7506,6 +7509,7 @@ pine
 pinofuondyukafe
 pinpin
 pinpon
+piofiore
 pirikaratabuchi
 pitattogakuwari
 pitifully
