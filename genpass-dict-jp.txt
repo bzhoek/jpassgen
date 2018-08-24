@@ -784,6 +784,7 @@ bosen
 boshi
 boss
 bosss
+bosutonikku
 botai
 botamochi
 botan
@@ -2372,6 +2373,7 @@ genzai
 genzan
 genzei
 geologised
+geosugu
 geraku
 geri
 gesen
@@ -2467,6 +2469,7 @@ gobusata
 gochagocha
 god
 godoku
+godoteiki
 gods
 goei
 gofu
