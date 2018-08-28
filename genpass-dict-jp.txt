@@ -1882,6 +1882,7 @@ fog
 foliage
 folkright
 follow
+fonain
 food
 fooku
 fop
@@ -4988,6 +4989,8 @@ kinku
 kinmukanintaabaru
 kinnen
 kinniku
+kinnikutaiso
+kinnotsukimi
 kinoko
 kinori
 kinosei
@@ -6367,6 +6370,7 @@ monshi
 monshin
 monsutaahantaa
 monsutaarosshi
+monsutaasutoraiki
 montaaju
 montei
 month
