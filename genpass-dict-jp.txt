@@ -719,6 +719,7 @@ bisei
 bishabisha
 bishin
 bishonen
+bisupo
 bit
 biten
 bitoku
@@ -3640,6 +3641,7 @@ ichiyoku
 ichiza
 ichizoku
 ichizon
+icocapoint
 id
 idai
 idaten
@@ -5768,6 +5770,7 @@ maguro
 magusa
 mahanakoon
 mahi
+mahopei
 mai
 maiasa
 maiban
@@ -7485,6 +7488,7 @@ pawahara
 pay
 peacefully
 peaker
+peipei
 pekingushinkuukou
 pekorindoonatsu
 penpen
@@ -9388,6 +9392,7 @@ tabikaeru
 tabinekoripooto
 tabisaki
 table
+tabs4
 tacchibyou
 tachi
 tachiai
