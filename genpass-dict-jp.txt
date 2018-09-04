@@ -3989,6 +3989,7 @@ janpupaatii
 janputoshokan
 japaaaaan
 japan
+japantaxi
 japaripedia
 jay
 jc
@@ -5381,7 +5382,9 @@ kouri
 kourinowadachi
 kousei
 kousoku
+kowaharo
 kowairo
+kowakawa
 kowake
 koya
 koyagake
@@ -5678,6 +5681,7 @@ limb
 limitations
 line
 lineemoji
+linkpoint
 linters
 lion
 lip
@@ -6661,6 +6665,7 @@ naname
 nananabiichipaaku
 nandai
 nandakke
+nandenkanden
 nando
 nangi
 nangiyanaa
