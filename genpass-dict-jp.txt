@@ -386,6 +386,7 @@ armourlike
 aro
 around
 arthrodynic
+artisanbijutsukan
 artist
 aruain
 aruaru
@@ -1116,6 +1117,7 @@ close
 coalesce
 coast
 cokeclear
+cokepluscoffee
 cold
 coldheartedness
 collection
@@ -1424,6 +1426,7 @@ desk
 detachaajikaado
 detour
 development
+devilman
 devils
 devious
 dicek
@@ -3600,6 +3603,7 @@ ibiki
 ibo
 ibuki
 ibukuro
+iburitoubujishin
 ibushigin
 ibutsu
 ices
@@ -6867,6 +6871,7 @@ nijigennomori
 nijigumi
 nijubashisq
 nijuumaru
+nikaido
 nikawa
 nikibi
 nikofaareikebukuro
@@ -7328,6 +7333,7 @@ orikara
 orime
 orimono
 oriya
+orochi
 oroshi
 oroshine
 osagari
