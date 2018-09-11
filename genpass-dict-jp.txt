@@ -2923,6 +2923,7 @@ hantsuki
 hanzai
 haori
 haoto
+hapiryu
 happened
 happiness
 happy
@@ -3989,6 +3990,7 @@ izutoreiru
 jaarimasenka
 jack
 jackets
+jajjiaizu
 jane
 janpuchihirozu
 janpufesuta
@@ -5341,6 +5343,7 @@ korinai
 koritsu
 koro
 koroai
+korokkebaga
 koromo
 koromogae
 koromohen
@@ -8193,6 +8196,7 @@ sakuki
 sakumotsu
 sakunen
 sakura
+sakuraebi
 sakuramyuujikku
 sakuretsu
 sakusan
@@ -8666,7 +8670,9 @@ shibai
 shibakari
 shibayama
 shibu
+shibusutori
 shibutsu
+shibuyastream
 shichi
 shichirin
 shichiya
