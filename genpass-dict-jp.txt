@@ -267,6 +267,7 @@ aminome
 among
 amoore
 ampul
+amurosu
 an
 ana
 anaba
@@ -6440,6 +6441,7 @@ movement
 moving
 moya
 moyashi
+moyashigyudon
 moyori
 mtv
 mube
@@ -8674,6 +8676,7 @@ shibafu
 shibai
 shibakari
 shibayama
+shibikara
 shibu
 shibusutori
 shibutsu
@@ -8823,6 +8826,7 @@ shingetsu
 shingi
 shingin
 shingo
+shingohaha
 shingojira
 shingu
 shingun
@@ -11134,6 +11138,7 @@ yugami
 yuge
 yuigon
 yuka
+yukaihotei
 yukaita
 yukari
 yukashita
