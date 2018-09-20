@@ -1574,6 +1574,7 @@ dowasure
 down
 downstream
 doyagao
+doyouwannadance
 dozen
 dozy
 dqn
@@ -3180,6 +3181,7 @@ hesokuri
 heta
 hetare
 heya
+heykitaro
 hiai
 hiasobi
 hiatari
@@ -5639,6 +5641,7 @@ kyanto
 kyaputentsubasa
 kyobashiedoguran
 kyohakushimasu
+kyokaishi
 kyokucho
 kyoto
 kyotokokusaieigasai
@@ -7606,6 +7609,7 @@ projects
 pronunciation
 proper
 provide
+psclassic
 puddly
 pulgada
 pulses
