@@ -2562,6 +2562,7 @@ gote
 goten
 gotoubunbride
 gotouchikaraagekun
+goudon
 goukai
 goukon
 govern
@@ -7762,6 +7763,7 @@ ratobara
 raven
 ravens
 raving
+rawhero
 reach
 reached
 ready
@@ -8856,6 +8858,8 @@ shinku
 shinnen
 shinnin
 shino
+shinobe
+shinobeusaemon
 shinogi
 shinq
 shinra
@@ -9866,6 +9870,7 @@ tenimyu
 tenin
 teninyubunkasai
 tenjinbibure
+tenjintoiro
 tenka
 tenkai
 tenkaichi
@@ -10513,6 +10518,7 @@ urusagata
 urusai
 urushi
 urutorageemusu
+usaemon
 usagi
 usagishinboruten
 usamaru
