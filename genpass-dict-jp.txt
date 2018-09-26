@@ -2,6 +2,7 @@
 24jikantatakaemasuka
 4dripuree
 4shucheese
+7ginko
 7iroinko
 8nengoshinohanayome
 Nchutobu
@@ -2534,6 +2535,7 @@ gongon
 gonin
 good
 goodonriido
+googleplay
 goopuro
 gopro
 goraku
@@ -6066,6 +6068,7 @@ mekubari
 mekubase
 memai
 members
+memoji
 memori
 memoto
 men
@@ -6164,6 +6167,7 @@ miharai
 miharashiki
 mihon
 mihonichi
+miimoji
 miiri
 mikado
 mikageishi
@@ -7558,6 +7562,7 @@ place
 plaid
 plants
 playing
+playpoints
 pleasure
 pleasures
 pled
@@ -8366,6 +8371,7 @@ sazanami
 sazanka
 scared
 science
+screentime
 screenx
 sea
 sealds
@@ -8373,6 +8379,7 @@ seawan
 sebire
 sebiro
 sebone
+sebunginko
 sechie
 sechiku
 sections
@@ -9336,6 +9343,7 @@ sumahen
 sumaho
 sumahoatm
 sumahoteikiken
+sumahowari
 sumai
 suman
 sumi
@@ -11184,6 +11192,7 @@ yumiya
 yunasan
 yunkerunba
 yunomi
+yupack
 yuppa
 yuragisou
 yurai
