@@ -1615,6 +1615,7 @@ ebikareeman
 ebipurikatsu
 ebisen
 eboshi
+ecobin
 eda
 edaha
 edamame
@@ -5743,6 +5744,7 @@ maccharippukuriimu
 machi
 machibari
 machibuse
+machiekobin
 machikado
 machina
 machinami
@@ -6066,6 +6068,7 @@ mekanizumu
 mekata
 mekubari
 mekubase
+meltan
 memai
 members
 memoji
@@ -6101,6 +6104,7 @@ meridian
 merihari
 merukarichanneru
 merukarinow
+merutan
 mesaki
 mesen
 meshi
@@ -6321,6 +6325,7 @@ mochitsuki
 mock
 moegiiro
 mofuku
+mofunuudoru
 mofuru
 mogi
 mogomogo
@@ -6362,6 +6367,7 @@ moment
 momi
 momigara
 momo
+momofuku
 momohiki
 momoiro
 momokusa
@@ -7115,6 +7121,7 @@ ochibo
 ochido
 ochime
 oclock
+ocularquest
 odaibaminnanoyumetairiku
 odaku
 odei
