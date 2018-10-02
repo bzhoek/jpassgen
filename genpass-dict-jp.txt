@@ -750,6 +750,7 @@ bobutoiunanoneko
 bocchimeshi
 bochi
 bodiikon
+bodimente
 bohi
 boin
 boka
@@ -1700,6 +1701,7 @@ emmeleia
 emoi
 emonkake
 emono
+emusupo
 en
 enamours
 enburemu
@@ -3512,6 +3514,7 @@ hongoshi
 hongumori
 honi
 honin
+honjotask
 honkaku
 honkan
 honke
@@ -3771,6 +3774,7 @@ ikusaki
 ikusei
 ill
 illustrated
+ilustcaster
 im
 ima
 imadesho
@@ -6153,6 +6157,7 @@ midori
 midorigo
 midoriiro
 mie
+miffysakura
 migara
 migawari
 might
@@ -6459,6 +6464,7 @@ moya
 moyashi
 moyashigyudon
 moyori
+mspo
 mtv
 mube
 much
