@@ -600,6 +600,7 @@ banzaishisutemu
 bara
 barairo
 bariki
+baruniiru
 basei
 bastage
 bastard
@@ -1644,6 +1645,7 @@ eibun
 eichi
 eidan
 eiga
+eigawonuru
 eigo
 eihei
 eikaiwa
@@ -5208,6 +5210,7 @@ kokon
 kokoro
 kokoroiki
 kokorone
+kokowataikutsu
 koku
 kokuban
 kokubetsu
@@ -6808,6 +6811,7 @@ neko
 nekobaba
 nekoguruma
 nekohadaku
+nekomusume
 nekoyanagi
 nekoze
 nekurasu
@@ -8083,6 +8087,7 @@ ryo
 ryokai
 ryoushuusho
 ryukogo
+ryuseibaruniiru
 ryuukyuuasutiida
 saabisu
 saakasu
