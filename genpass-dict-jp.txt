@@ -13,6 +13,7 @@ aakuhiruzu
 aamondoai
 aamondoboi
 aane
+aasaa
 aateisuteikkusuimingu
 aatoakuariumu
 aatotakeshiten
@@ -6488,6 +6489,7 @@ mugon
 muhai
 muhi
 muison
+mujihotel
 mujinreji
 mukachaka
 mukade
@@ -7062,6 +7064,7 @@ notoieru
 notore
 nounenrei
 nounisumahogaumerareta
+nova3
 now
 noyaki
 noyama
@@ -8332,6 +8335,7 @@ sarasa
 sarashiagyudon
 sarashiagyuudon
 sarashiko
+sarazanmai
 sarina
 saru
 sarukoto
@@ -10895,6 +10899,7 @@ yakuwari
 yakuyoke
 yakuzai
 yakuzen
+yakyunaikaku
 yama
 yamaai
 yamaarashi
