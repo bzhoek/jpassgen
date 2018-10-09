@@ -403,6 +403,7 @@ arutashiataa
 as
 asa
 asaban
+asadora
 asagake
 asagao
 asagata
@@ -1030,6 +1031,7 @@ chiketore
 chiki
 chikinsando
 chikintaruta
+chikochan
 chikoku
 chiku
 chikubi
@@ -6072,6 +6074,7 @@ meiun
 meiwaku
 meiyaku
 meizan
+mejiroke
 meka
 mekakushi
 mekanizumu
@@ -10103,6 +10106,7 @@ tokyobigsight
 tokyodime
 tokyojoshizukan
 tokyovanpaiyahoteru
+tokyufood
 told
 tomae
 tomarigi
