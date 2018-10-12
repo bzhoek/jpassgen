@@ -2088,6 +2088,7 @@ furigoma
 furiika
 furiipasu
 furikae
+furikakix
 furiko
 furikomi
 furippaazu
@@ -2626,6 +2627,7 @@ gunte
 gunzei
 gunzoku
 guraadon
+gurangaarikku
 gurankuresutosenki
 guranourasanndaa
 guransutamarunouchi
@@ -5410,6 +5412,7 @@ kotsutsubo
 kottosunookafe
 koudanshavrlabo
 kouji
+koukazuya
 kouri
 kourinowadachi
 kousei
@@ -5838,6 +5841,7 @@ majikyunrunesansu
 majimajopuazu
 majimuri
 majo
+majori
 makaiuoozu
 make
 makenki
@@ -6710,6 +6714,7 @@ nanakusa
 naname
 nanameyugure
 nananabiichipaaku
+nanbaskyoh
 nandai
 nandakke
 nandenkanden
