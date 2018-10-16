@@ -1163,6 +1163,7 @@ conversation
 convince
 coo
 copy
+coredomuro
 corner
 corticostriate
 could
@@ -5660,6 +5661,7 @@ kyanto
 kyaputentsubasa
 kyobashiedoguran
 kyohakushimasu
+kyokagen
 kyokaishi
 kyokucho
 kyoto
@@ -5764,6 +5766,7 @@ machikado
 machina
 machinami
 machine
+machiterasu
 macosmojave
 mad
 madai
@@ -5900,6 +5903,8 @@ manen
 manetsu
 manga
 mangaku
+mangamee
+mangamii
 mangan
 mangatimekirara
 mangetsu
@@ -10560,6 +10565,7 @@ uruchi
 urusagata
 urusai
 urushi
+urutoraaa
 urutorageemusu
 usaemon
 usagi
@@ -11137,6 +11143,7 @@ yoshibarumi
 yoshidanagi
 yoshimi
 yoshin
+yoshitomogesu
 yoso
 yosogoto
 yosoiki
