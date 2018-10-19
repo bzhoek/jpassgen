@@ -2512,6 +2512,7 @@ going
 goishi
 gojikaraotoko
 gojirafesu
+gojiraza
 gokai
 gokan
 gokei
@@ -2824,6 +2825,7 @@ hakusetsu
 hakushi
 hakushin
 half
+halowitch
 hama
 hamabe
 hamachi
@@ -4101,6 +4103,7 @@ just
 jute
 juuden
 kaabukyappu
+kaadokeitai
 kaaki
 kaakiiro
 kaaringushitoonzu
@@ -5720,6 +5723,7 @@ limb
 limitations
 line
 lineemoji
+linehoken
 linkpoint
 linters
 lion
@@ -6709,6 +6713,7 @@ namidagoe
 namikaze
 namiki
 namima
+namimari
 naminori
 naminoripikaa
 namisei
