@@ -4047,6 +4047,7 @@ jidori
 jigen
 jigs
 jigusou
+jiibusu
 jikafiibaa
 jikenbo
 jikkuri
@@ -7466,6 +7467,7 @@ otokoyu
 otome
 otomo
 otona
+otonakizania
 otonanofanta
 otonanosutorecchi
 otori
@@ -7689,6 +7691,7 @@ puttsun
 puyopuyo
 pyjamas
 qbk
+qplaza
 quack
 quacking
 quart
