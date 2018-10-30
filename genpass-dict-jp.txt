@@ -427,6 +427,7 @@ asayake
 ascaridol
 ase
 asemo
+asheet
 ashi
 ashiato
 ashiba
@@ -437,6 +438,7 @@ ashidori
 ashigaaru
 ashigata
 ashigatame
+ashiito
 ashika
 ashikake
 ashikase
@@ -5217,6 +5219,7 @@ koko
 kokochi
 kokoku
 kokon
+kokoonomesu
 kokoro
 kokoroiki
 kokorone
@@ -7047,6 +7050,7 @@ nomimono
 nomishiro
 nomisugi
 nomiya
+nomomo
 nonmamahakusho
 nonsense
 nooben
@@ -7538,6 +7542,7 @@ pane
 panikkuru
 panikuru
 panpan
+pantoboku
 pantsu
 papa
 paper
@@ -10005,6 +10010,7 @@ that
 thatched
 thats
 the
+thedouble
 their
 them
 then
@@ -11264,6 +11270,7 @@ yuwakashi
 yuzamashi
 yuzame
 zabuton
+zadaburu
 zadan
 zagashira
 zai
@@ -11336,6 +11343,7 @@ zatsueki
 zatsumu
 zatsunen
 zatsuon
+zaw
 zazen
 zebra
 zebras
