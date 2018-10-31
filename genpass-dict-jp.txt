@@ -1010,6 +1010,7 @@ chihei
 chiho
 chii
 chiiki
+chiikirenkei
 chiikubangu
 chiipukashio
 chiirui
@@ -1689,6 +1690,7 @@ ekimei
 ekimu
 ekiri
 ekitai
+ekkusu
 ekkusufuragu
 ekubo
 ekusuperia
@@ -1847,6 +1849,9 @@ faibaa
 fail
 failure
 fainarukatto
+faindee
+faindo
+faindoekkusu
 fainniidoru
 fairyw!nk
 faito
@@ -3676,6 +3681,7 @@ ichiyoku
 ichiza
 ichizoku
 ichizon
+ickaado
 icocapoint
 id
 idai
@@ -5575,6 +5581,8 @@ kuri
 kuriaawasupuree
 kuriarate
 kuribocchi
+kurieeta
+kurietapuro
 kurifudaibingu
 kurige
 kurigoto
@@ -5907,6 +5915,7 @@ manazashi
 manbikikazoku
 mandan
 mandara
+maneetappu
 manen
 manetsu
 manga
@@ -7375,6 +7384,7 @@ opal
 opened
 oppappii
 oppo
+oppofindx
 opus
 or
 ora
