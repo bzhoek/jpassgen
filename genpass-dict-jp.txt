@@ -762,6 +762,7 @@ boka
 bokan
 boke
 bokei
+bokemodo
 boketsu
 boketto
 boki
@@ -3686,6 +3687,7 @@ icocapoint
 id
 idai
 idaten
+idbokenmode
 idea
 ideko
 iden
@@ -5923,6 +5925,7 @@ mangaku
 mangamee
 mangamii
 mangan
+mangarabo
 mangatimekirara
 mangetsu
 mangetuchiizutukimi
@@ -5948,6 +5951,7 @@ many
 manzai
 manzaishi
 manzoku
+maousama
 map
 mappa
 mappadaka
@@ -6967,6 +6971,7 @@ ninaite
 ninchi
 nindaku
 ningen
+ningyononemuru
 ninka
 ninkan
 ninki
@@ -8032,6 +8037,7 @@ risu
 risui
 riten
 ritoku
+ritorai
 ritorubokko
 ritsu
 ritsuan
