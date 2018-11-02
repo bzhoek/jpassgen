@@ -398,6 +398,7 @@ aruaru
 arubaito
 arukeyoomome
 arukiki
+arukimedesu
 arukisumaho
 arutashiataa
 as
@@ -4741,6 +4742,8 @@ kazoku
 kazokunotabiji
 keana
 kebari
+kecha
+kechakecha
 keel
 kega
 keganin
@@ -5909,6 +5912,7 @@ mamorigami
 mamukai
 mamushi
 man
+manabiwith
 manadeshi
 manaita
 manamusume
@@ -5971,6 +5975,7 @@ marugakae
 marugao
 marugari
 marugata
+marugotochoko
 marugotopurinman
 maruhadaka
 maruki
@@ -7581,6 +7586,7 @@ patapata
 pawahara
 pay
 peacefully
+peacocktheatre
 peaker
 peipei
 pekingushinkuukou
@@ -7607,6 +7613,7 @@ picture
 pig
 piidiiefupen
 piikaa
+piikokshiata
 piipiieepiikafue
 piko
 pikotarou
@@ -7699,6 +7706,7 @@ puremiiru
 purenatarian
 purichiipu
 purikura
+purinpan
 purintosu
 puripuri
 purorii
