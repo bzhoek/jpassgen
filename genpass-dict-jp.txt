@@ -1189,6 +1189,7 @@ cried
 cross
 crowded
 crucial
+crusherjochu
 culiciform
 cummer
 curiosity
@@ -1199,6 +1200,7 @@ cut
 cutting
 daaburou
 daarininzafurankisu
+daauinzugeemu
 dabodabo
 daboku
 dabudabuchi
@@ -1314,6 +1316,7 @@ daritsu
 dark
 darkness
 daruma
+darwinsgame
 dasai
 dasakawaii
 dasaku
@@ -2160,6 +2163,7 @@ fuwatari
 fuyo
 fuyu
 fuyuba
+fuyudaruma
 fuyugare
 fuyugata
 fuyumono
@@ -2992,6 +2996,7 @@ haru
 harugasumi
 haruka
 harukaze
+harunatsuko
 harunosora
 harunoumi
 harusaki
@@ -5574,6 +5579,7 @@ kuraishisu
 kuraku
 kuramoto
 kurashi
+kurasshaajochuu
 kurasuta
 kurayami
 kuregata
@@ -5679,11 +5685,14 @@ kyabakura
 kyabebanban
 kyanto
 kyaputentsubasa
+kykyk
 kyobashiedoguran
 kyohakushimasu
 kyokagen
 kyokaishi
 kyokucho
+kyokuyako
+kyokuyakou
 kyoto
 kyotokokusaieigasai
 kyototawaasando
