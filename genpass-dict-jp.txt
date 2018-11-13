@@ -1613,6 +1613,7 @@ during
 duty
 dwell
 dyads
+dyingeye
 eahanami
 eapodzu
 early
@@ -1954,6 +1955,7 @@ from
 front
 froth
 fruit
+fruittakuhai
 fubai
 fubarai
 fubo
@@ -6057,6 +6059,7 @@ mebari
 meberi
 meboshi
 meccha
+mecchamatcha
 mecha
 mechakucha
 medaka
@@ -10871,6 +10874,7 @@ wonderful
 word
 words
 work
+workman+
 workshy
 world
 worries
