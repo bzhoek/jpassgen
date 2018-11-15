@@ -1649,6 +1649,7 @@ efushiieruesu
 efushiiimabari
 egao
 egara
+eggmara
 ego
 egotistic
 egui
@@ -1734,6 +1735,7 @@ endures
 enei
 eneki
 enemy
+enenshobotai
 energy
 engai
 engan
@@ -2552,6 +2554,7 @@ gokuro
 golf
 goma
 gomaabura
+gomara
 gomen
 gomenaishiteru
 gomibako
@@ -6038,6 +6041,7 @@ matte
 matters
 maturissho
 mawari
+mawarimichi
 mawata
 mawatte
 may
@@ -7505,6 +7509,7 @@ otomo
 otona
 otonakizania
 otonanofanta
+otonanokoi
 otonanosutorecchi
 otori
 otosata
@@ -9699,6 +9704,7 @@ talking
 tall
 tama
 tamago
+tamagomara
 tamagoyaki
 tamagushi
 tamamono
