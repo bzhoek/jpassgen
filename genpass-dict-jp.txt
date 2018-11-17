@@ -5755,6 +5755,7 @@ limitations
 line
 lineemoji
 linehoken
+linekakeibo
 linkpoint
 linters
 lion
@@ -7632,6 +7633,7 @@ piidiiefupen
 piikaa
 piikokshiata
 piipiieepiikafue
+pikadonut
 piko
 pikotarou
 pine
@@ -9136,6 +9138,7 @@ shrinking
 shudder
 shujin
 shukatsu
+shukatunenga
 shukudai
 shumahha
 shussebarai
@@ -11233,6 +11236,7 @@ yowatari
 yoyaku
 yozai
 yozora
+ytpremi
 yuagari
 yuami
 yuatsu
