@@ -456,6 +456,7 @@ asked
 asking
 asleep
 asobiba
+asobiru
 aspire
 asshiikun
 assistant
@@ -952,6 +953,7 @@ cannot
 cap
 capeskin
 car
+carame
 career
 case
 cases
@@ -4566,6 +4568,7 @@ kaomise
 kaon
 kaotsuki
 kaoyaku
+kaparu
 kappu
 kara
 karaage
@@ -7825,6 +7828,7 @@ rakutenfm
 rakutenpei
 rakutenseiyu
 rakuyaki
+rameru
 ran
 randa
 randoku
@@ -8155,6 +8159,7 @@ ruten
 rutsubo
 ruuvurubijitsukantei
 ruzai
+ryakushiteburariku
 ryo
 ryokai
 ryoushuusho
