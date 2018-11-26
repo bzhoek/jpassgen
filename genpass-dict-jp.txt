@@ -1015,6 +1015,7 @@ chiho
 chii
 chiiki
 chiikirenkei
+chiikirenkeiic
 chiikubangu
 chiipukashio
 chiirui
@@ -1737,6 +1738,7 @@ endures
 enei
 eneki
 enemy
+enen
 enenshobotai
 energy
 engai
@@ -2576,10 +2578,12 @@ goran
 gorin
 goriyaku
 goro
+gorobin
 gorochiki
 gorogoro
 goroku
 goromaru
+goropin
 gorotsuki
 goryoushin
 gosa
@@ -5602,6 +5606,7 @@ kuriarate
 kuribocchi
 kurieeta
 kurietapuro
+kurietazpuroguramu
 kurifudaibingu
 kurige
 kurigoto
@@ -5939,6 +5944,7 @@ manazashi
 manbikikazoku
 mandan
 mandara
+maneetap
 maneetappu
 manen
 manetsu
@@ -6488,6 +6494,7 @@ moose
 more
 mori
 morido
+morimin
 morisoba
 moritsuchi
 morning
@@ -7072,6 +7079,7 @@ nogihen
 nogisatsu
 nohara
 noise
+nojimat
 nokemono
 noki
 nokiba
@@ -7197,6 +7205,7 @@ ochiba
 ochibo
 ochido
 ochime
+ochoa
 oclock
 ocularquest
 odaibaminnanoyumetairiku
@@ -8723,6 +8732,8 @@ seri
 serifu
 seriuri
 seron
+seruhi
+seruhioramosu
 seruka
 service
 seseragi
@@ -10094,6 +10105,7 @@ time
 times
 timidly
 tldr
+tliigu
 toami
 tobaku
 tobi
@@ -10475,6 +10487,7 @@ uchikake
 uchimaku
 uchimata
 uchimi
+uchinomeido
 uchinori
 uchiuchi
 uchiumi
@@ -10700,6 +10713,7 @@ uwayaku
 uyo
 uyoku
 uza
+uzasugiru
 valley
 vanished
 vapour
