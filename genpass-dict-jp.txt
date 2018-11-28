@@ -357,6 +357,7 @@ appurupaaku
 appuruuocchi
 appusuru
 apuri
+aquosr2
 aquossensu
 ara
 araiba
@@ -627,6 +628,7 @@ bed
 bedding
 bedirt
 bedrivelled
+beefkurocurry
 beekonmakku
 beekonpotetopai
 been
@@ -866,6 +868,7 @@ bungeigeinin
 bungen
 bungo
 bungu
+bungujoshi
 buni
 bunka
 bunkai
@@ -1873,6 +1876,7 @@ fajii
 fall
 familiar
 family
+famizero
 fandiina
 fanmanuel
 fantastic
@@ -1904,6 +1908,7 @@ fingan
 first
 fisewaarudo
 fish
+fisherspaaku
 fishweir
 fitted
 five
@@ -4107,6 +4112,7 @@ jolt
 joniizujimusho
 joodanhikkusu
 joshiana
+joshihaku
 joujaku
 joukyou
 judge
@@ -4599,10 +4605,12 @@ karategata
 karatsuyu
 karauri
 kare
+kareeman
 kareepan
 kareha
 karei
 kareki
+kareman
 kareshi
 kari
 karichin
@@ -5761,6 +5769,7 @@ like
 limb
 limitations
 line
+linebank
 lineemoji
 linehoken
 linekakeibo
@@ -9441,6 +9450,7 @@ suizoku
 suizokukangaaru
 sukaacho
 sukedachi
+sukerudenchi
 suki
 sukima
 sukinahitogairukoto
@@ -9611,6 +9621,7 @@ taii
 taiiki
 taiiku
 taiin
+taijuseimei
 taika
 taikai
 taikaku
@@ -10895,6 +10906,7 @@ with
 within
 without
 wizard’s
+wnotch
 woke
 wolves
 won
