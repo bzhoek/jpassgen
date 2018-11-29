@@ -607,6 +607,7 @@ banzaishisutemu
 bara
 barairo
 bariki
+barubora
 baruniiru
 basei
 bastage
@@ -3012,6 +3013,7 @@ haru
 harugasumi
 haruka
 harukaze
+harumatubokura
 harunatsuko
 harunosora
 harunoumi
@@ -3630,6 +3632,7 @@ house
 housed
 housekinokuni
 how
+howaitoguraffu
 however
 hozei
 hozen
@@ -7080,6 +7083,7 @@ nochinochi
 nocuous
 nodo
 nodogoshi
+nodojiman
 nodomoto
 nogai
 nogeemunoraifu
@@ -7642,6 +7646,7 @@ peropero
 person
 personal
 personhood
+perusonaq2
 peten
 petto
 phoenix
@@ -10742,6 +10747,7 @@ visions
 visionsa
 visualise
 vixens
+vnodojiman
 vocabulary
 vokalia
 vow
@@ -10889,6 +10895,7 @@ which
 while
 whip
 white
+whitegraph
 who
 whoever
 whole
