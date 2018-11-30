@@ -2659,6 +2659,7 @@ gunte
 gunzei
 gunzoku
 guraadon
+gurakoro
 gurangaarikku
 gurankuresutosenki
 guranourasanndaa
@@ -4118,6 +4119,8 @@ joshiana
 joshihaku
 joujaku
 joukyou
+jryokohama
+jrytawa
 judge
 jug
 jukeboxes
@@ -7090,6 +7093,7 @@ nogeemunoraifu
 nogi
 nogihen
 nogisatsu
+nogura
 nohara
 noise
 nojimat
@@ -9359,6 +9363,7 @@ spring
 stagnant
 stalks
 stand
+startwinkle
 state
 steal
 step
@@ -11241,6 +11246,7 @@ yoshibarumi
 yoshidanagi
 yoshimi
 yoshin
+yoshinoyapurika
 yoshitomogesu
 yoso
 yosogoto
@@ -11522,6 +11528,7 @@ zokusetsu
 zokushin
 zokuzoku
 zozomarinsutajiamu
+zozoshoes
 zundahoraizun
 zuru
 zuruzuru
