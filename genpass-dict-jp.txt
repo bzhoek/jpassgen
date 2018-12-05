@@ -5725,6 +5725,7 @@ kyotokokusaieigasai
 kyototawaasando
 kyounokirakun
 kyuamasheri
+kyuanfini
 kyuaparufue
 kyuudo
 kyuukyoku
@@ -7305,12 +7306,14 @@ okimari
 okimono
 okina
 okinawa
+okippa
 okite
 okizari
 okkanai
 oko
 okoemonika
 okonomi
+okonomisosu
 okoshi
 okowa
 oku
@@ -9328,6 +9331,7 @@ soshitedaremoinakunatta
 soshitsu
 sosugao
 sosui
+sosumanju
 soto
 sotoba
 sotobori
@@ -10327,6 +10331,7 @@ tozanguchi
 tozei
 tozetsu
 train
+trainerbattle
 tranquil
 transformed
 translate
