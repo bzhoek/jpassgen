@@ -4,6 +4,9 @@
 4shucheese
 7ginko
 7iroinko
+7kaigi
+7meetings
+7tsunokaigi
 8nengoshinohanayome
 Nchutobu
 SMAPO
@@ -55,6 +58,7 @@ accomplish
 accomplishment
 account
 accuse
+acecombat
 acetylized
 achieve
 acres
@@ -1648,6 +1652,7 @@ edauchi
 edomae
 eeai
 eeaikahoko
+eesukonbatto
 eeto
 eeyuuhoomu
 eeyuusutaa
@@ -2448,6 +2453,7 @@ gezai
 gezan
 ggrks
 ghibli
+ghibliten
 ghost
 gian
 gibo
@@ -4083,6 +4089,7 @@ jewels
 jibanyanman
 jibunshoten
 jibunwohometai
+jiburiten
 jidori
 jigen
 jigs
@@ -8714,6 +8721,7 @@ senketsu
 senki
 senko
 senkoku
+senkorooru
 senku
 sennen
 sennichite
