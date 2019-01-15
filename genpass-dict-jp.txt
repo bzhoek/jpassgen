@@ -610,6 +610,7 @@ banyaku
 banzaishisutemu
 bara
 barairo
+barentain
 bariki
 barubora
 baruniiru
@@ -9501,6 +9502,7 @@ sumahoteikiken
 sumahowari
 sumai
 suman
+sumasutaji
 sumi
 sumibi
 sumie
