@@ -137,6 +137,7 @@ aisatsu
 aiseki
 aishitatte
 aiso
+aisukoopu
 aisukuriimupiza
 aite
 aitekata
@@ -3677,6 +3678,7 @@ ibukuro
 iburitoubujishin
 ibushigin
 ibutsu
+icecoop
 ices
 ichaicha
 ichi
