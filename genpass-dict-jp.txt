@@ -2699,6 +2699,7 @@ gyarakushiinooto
 gyogiwaru
 gyouruikan
 gyouzabaggu
+gyusukiman
 gyuutorotama
 ha
 haabufirechikinkushi
@@ -4136,6 +4137,7 @@ joujaku
 joukyou
 jryokohama
 jrytawa
+jsisland
 judge
 jug
 jukeboxes
@@ -7645,6 +7647,7 @@ parsons
 particularly
 parts
 party
+paslugat
 pasokon
 past
 pasupotosaizu
@@ -10187,6 +10190,7 @@ toho
 toi
 toiki
 toil
+toio
 toishi
 toka
 tokai
