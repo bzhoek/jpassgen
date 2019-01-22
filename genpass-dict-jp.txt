@@ -196,6 +196,7 @@ akuheki
 akui
 akuma
 akumabito
+akumaudon
 akumu
 akunin
 akuosuaaru
@@ -1771,6 +1772,7 @@ enja
 enjoy
 enka
 enkai
+enkakayo
 enkaku
 enkei
 enki
@@ -8769,6 +8771,7 @@ senzai
 senzen
 senzo
 senzoku
+seoularena
 seoyogi
 separate
 separated
@@ -9241,6 +9244,7 @@ smapkaisan
 snkheroine
 so
 soan
+soarin
 soba
 sobo
 soboro
@@ -9374,6 +9378,7 @@ souls
 sounyuu
 soupy
 souregashii
+souruariina
 sox
 soyokaze
 sozai
@@ -10895,6 +10900,7 @@ watage
 watagumo
 wataire
 watanabemorinari
+watarai
 wataridori
 watashi
 watashiba
