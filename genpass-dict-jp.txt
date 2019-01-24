@@ -1284,6 +1284,7 @@ dameyodamedame
 damin
 dan
 danatsu
+danberunankiro
 danchi
 dandan
 dandori
@@ -1566,9 +1567,11 @@ dont
 donten
 donzoko
 doonattsupoppu
+dorafode
 doragenai
 doragoe
 doragonkuesuto
+doragonmaaku
 doragonpurojekkuto
 doragonuesutonatsumatsuri
 doraibaa
@@ -1611,6 +1614,7 @@ dozen
 dozy
 dqn
 dragged
+dramafode
 drawers
 drawing
 dream
@@ -8155,6 +8159,7 @@ rokuon
 rokuro
 rokuzaburo
 rolled
+roma
 romen
 romtteru
 ron
@@ -8171,6 +8176,7 @@ ronshi
 ronten
 roof
 room
+rooma
 roosonginko
 roots
 rosen
@@ -8184,6 +8190,7 @@ rosutochairudo
 rotei
 roten
 rottewaaruudotawaa
+rouma
 round
 rubankappu
 rude
