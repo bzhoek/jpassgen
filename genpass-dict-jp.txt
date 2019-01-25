@@ -340,6 +340,7 @@ anzenshinwa
 ao
 aoarashi
 aoba
+aoharutv
 aoiro
 aokabi
 aomono
@@ -4570,6 +4571,7 @@ kanroku
 kanrui
 kansa
 kansai
+kansaibanpaku
 kansaiki
 kansan
 kansatsu
@@ -5101,6 +5103,7 @@ kinnotsukimi
 kinoko
 kinori
 kinosei
+kinounanitabeta
 kinrai
 kinran
 kinrei
@@ -6022,6 +6025,7 @@ maousama
 map
 mappa
 mappadaka
+maramosu
 march
 mari
 marimo
@@ -6363,6 +6367,7 @@ mirach
 mirai
 mirainomirai
 miraizaoosakajou
+mirakoro
 miren
 mirin
 mirror
