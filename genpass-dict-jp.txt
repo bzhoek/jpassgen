@@ -8,8 +8,6 @@
 7meetings
 7tsunokaigi
 8nengoshinohanayome
-Nchutobu
-SMAPO
 aachankakkoii
 aakouya
 aakuhiruzu
@@ -626,6 +624,7 @@ batai
 batsu
 bawds
 baz
+bdwonderland
 be
 beam
 bears
@@ -1468,8 +1467,8 @@ devils
 devious
 dicek
 did
-didnt
 didn’t
+didnt
 differ
 difference
 different
@@ -3674,7 +3673,6 @@ hyokkorihan
 hyoukinzoku
 hyperprism
 i
-iPhoneXS
 iaido
 ian
 iatsu
@@ -3686,6 +3684,7 @@ ibukuro
 iburitoubujishin
 ibushigin
 ibutsu
+icearena
 icecoop
 ices
 ichaicha
@@ -3946,6 +3945,7 @@ inzei
 io
 iori
 iowans
+iPhoneXS
 ipssaibo
 ipsum
 irai
@@ -4547,6 +4547,7 @@ kankodori
 kankoku
 kankopii
 kanku
+kankuice
 kankyaku
 kanna
 kannachise
@@ -5837,6 +5838,7 @@ luxury
 m1guranpuri
 maa
 maai
+maakuandorouna
 maamaa
 mabataki
 maboroshi
@@ -6030,6 +6032,7 @@ march
 mari
 marimo
 mariopikachu
+markandlona
 marks
 marl
 maroniegeetoginza
@@ -6686,6 +6689,7 @@ nabe
 nabebuta
 nabepaa
 nada
+nadabu
 nadare
 nadegiri
 nadeshiko
@@ -6891,6 +6895,7 @@ nayose
 nazo
 nazonazo
 nazotoki
+Nchutobu
 neagari
 neage
 nearer
@@ -7910,6 +7915,7 @@ ranshin
 ranso
 ranun
 ranyo
+rapiddo
 rapurasunomajo
 rarapouto
 rararando:
@@ -8523,6 +8529,7 @@ sawagani
 sawan
 sawara
 say
+say—thats
 saya
 saying
 sayo
@@ -8530,7 +8537,6 @@ sayoku
 sayori
 says
 sayu
-say—thats
 sazae
 sazaesan
 sazanami
@@ -9253,6 +9259,7 @@ slowly
 slue
 small
 smapkaisan
+SMAPO
 snkheroine
 so
 soan
