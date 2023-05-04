@@ -8,6 +8,8 @@
 7meetings
 7tsunokaigi
 8nengoshinohanayome
+Nchutobu
+SMAPO
 aachankakkoii
 aakouya
 aakuhiruzu
@@ -1467,8 +1469,8 @@ devils
 devious
 dicek
 did
-didn’t
 didnt
+didn’t
 differ
 difference
 different
@@ -2130,6 +2132,7 @@ furigana
 furigoma
 furiika
 furiipasu
+furiiransuhogohou
 furikae
 furikakix
 furiko
@@ -3673,6 +3676,7 @@ hyokkorihan
 hyoukinzoku
 hyperprism
 i
+iPhoneXS
 iaido
 ian
 iatsu
@@ -3945,7 +3949,6 @@ inzei
 io
 iori
 iowans
-iPhoneXS
 ipssaibo
 ipsum
 irai
@@ -5634,6 +5637,7 @@ kuramoto
 kurashi
 kurasshaajochuu
 kurasuta
+kuraunsupootsu
 kurayami
 kuregata
 kuregure
@@ -6895,7 +6899,6 @@ nayose
 nazo
 nazonazo
 nazotoki
-Nchutobu
 neagari
 neage
 nearer
@@ -8529,7 +8532,6 @@ sawagani
 sawan
 sawara
 say
-say—thats
 saya
 saying
 sayo
@@ -8537,6 +8539,7 @@ sayoku
 sayori
 says
 sayu
+say—thats
 sazae
 sazaesan
 sazanami
@@ -9209,6 +9212,7 @@ shokuji
 shokujisuru
 shooru
 shorai
+shotime
 should
 shouri
 shouzen
@@ -9259,7 +9263,6 @@ slowly
 slue
 small
 smapkaisan
-SMAPO
 snkheroine
 so
 soan
