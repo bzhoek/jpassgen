@@ -8891,6 +8891,7 @@ shigai
 shigaisen
 shigaku
 shigan
+shigatsuninareba
 shigeki
 shigemi
 shigen
