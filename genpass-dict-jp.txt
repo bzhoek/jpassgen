@@ -1,5 +1,6 @@
 22nenmaenokokuhaku
 24jikantatakaemasuka
+3k
 4dripuree
 4shucheese
 7ginko
@@ -1233,6 +1234,7 @@ daha
 daho
 dai
 daian
+daiarogubuusuto
 daibakari
 daiben
 daibutsu
@@ -2648,6 +2650,7 @@ greatness
 gregor
 gregors
 grin
+groupbarai
 grow
 growth
 guai
@@ -2691,6 +2694,7 @@ guriinberiizukoohii
 guriinbooizu
 gurunavipei
 gurutachi
+guruupushiharai
 gusaku
 gushin
 gutai
@@ -7233,6 +7237,7 @@ nurumayu
 nurunuru
 nushi
 nuuhara
+nuuuuto
 nyaera
 nymph
 nymphs
@@ -9217,6 +9222,7 @@ shokuji
 shokujisuru
 shooru
 shorai
+shotaimu
 shotime
 should
 shouri
@@ -10943,6 +10949,7 @@ waza
 wazakurabe
 wazawai
 wazu
+wbc
 we
 weakness
 weather
