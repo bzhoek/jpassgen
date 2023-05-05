@@ -2332,6 +2332,7 @@ game
 gamen
 gameshogai
 gan
+ganba
 ganbare
 ganbaroukoube
 ganbatta
@@ -7492,6 +7493,7 @@ omae
 omaewamadagummawoshiranai
 omaiga
 omairi
+omakase
 omakaseteikibin
 omake
 omamori
