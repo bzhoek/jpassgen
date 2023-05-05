@@ -2061,6 +2061,7 @@ fukugaku
 fukugan
 fukugen
 fukuhai
+fukuhannou
 fukuhei
 fukuheki
 fukuhon
@@ -3239,6 +3240,7 @@ hen
 henatsuki
 henchi
 heni
+henikabu
 henka
 henkaku
 henkan
@@ -3817,6 +3819,7 @@ iiwake
 ijounashi
 ika
 ikada
+ikageemu
 ikaku
 ikan
 ikanai
@@ -6075,6 +6078,7 @@ march
 mari
 marimo
 mariopikachu
+maritozzo
 markandlona
 marks
 marl
@@ -6114,6 +6118,7 @@ masterbuilder
 masu
 masui
 masukareedohoteru
+masukukaishoku
 masume
 mata
 matadero
@@ -6522,6 +6527,7 @@ mokusan
 mokusei
 mokushi
 mokushitsu
+mokushoku
 mokusoku
 mokutan
 mokuteki
@@ -7751,6 +7757,7 @@ phoenix
 physical
 pick
 picked
+pictogram
 picture
 pig
 piidiiefupen
@@ -8215,6 +8222,7 @@ robesu
 robottokonrochirichiri
 roei
 roguery
+rojonomi
 roka
 rokabogyumen
 rokata
@@ -9482,6 +9490,7 @@ spot
 spots
 spread
 spring
+squidgame
 stagnant
 stalks
 stand
