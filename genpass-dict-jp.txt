@@ -5612,6 +5612,7 @@ kugi
 kugurido
 kuhai
 kui
+kuidaore
 kuiddichi
 kuiinzurinngu
 kuike
@@ -8938,6 +8939,7 @@ shibakari
 shibayama
 shibikara
 shibu
+shibui
 shibusutori
 shibutsu
 shibuyastream
@@ -9124,6 +9126,7 @@ shinrei
 shinreki
 shinri
 shinrin
+shinrinyoku
 shinro
 shinrui
 shinsa
@@ -10415,6 +10418,7 @@ torikuchi
 torikumi
 torima
 torime
+torimodosu
 toriniku
 torinoichi
 torippurusurii
@@ -10575,6 +10579,7 @@ tsunagu
 tsunahiki
 tsunakeito
 tsunami
+tsundoku
 tsune
 tsuno
 tsunobue
