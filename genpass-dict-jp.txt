@@ -10118,6 +10118,7 @@ tekisei
 tekiseigo
 tekishi
 tekitai
+tekitoo
 tekiyaku
 tekizai
 teko
