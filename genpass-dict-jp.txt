@@ -30,6 +30,7 @@ abayo
 abcess
 abekku
 abemabideo
+abenomasuku
 abeuta
 ability
 able
@@ -129,6 +130,7 @@ aima
 aimakkupuro
 aiming
 ainiku
+ainofujichaku
 ainori
 ainote
 airaku
@@ -228,6 +230,7 @@ always
 am
 ama
 amaashi
+amabie
 amachan
 amadare
 amadera
@@ -508,6 +511,7 @@ atsugami
 atsugi
 atsui
 atsumi
+atsumori
 atsureki
 attacks
 attercrop
@@ -535,6 +539,7 @@ azekura
 azemichi
 baabekyuumosubaagaa
 baai
+baaigaeshi
 baasan
 baatari
 baba
@@ -763,6 +768,7 @@ blew
 blind
 blinded
 bliss
+blmundo
 blow
 blowzy
 blue
@@ -2198,6 +2204,7 @@ futokorode
 futomomo
 futon
 futsubun
+fuwachan
 fuwaku
 fuwatari
 fuyo
@@ -2632,6 +2639,9 @@ gossypine
 got
 gote
 goten
+gotocampaign
+gototoraberu
+gototravel
 gotoubunbride
 gotouchikaraagekun
 goudon
@@ -4136,6 +4146,7 @@ jire
 jiro
 jisabizu
 jisho
+jishukukeisatsu
 jiten
 jitenshashearingu
 jitojito
@@ -4260,6 +4271,7 @@ kaginote
 kagizaki
 kago
 kagon
+kagopaku
 kagoya
 kagu
 kagura
@@ -5068,6 +5080,7 @@ kimatsu
 kimedama
 kimei
 kimete
+kimetsunoyaiba
 kimi
 kimidori
 kimigakimide
@@ -5509,6 +5522,7 @@ kouri
 kourinowadachi
 kousei
 kousoku
+kousui
 kowaharo
 kowairo
 kowakawa
@@ -7467,6 +7481,7 @@ onnetsu
 ono
 onore
 onpukensaku
+onrainnomikai
 onsa
 onsei
 onsen
@@ -7607,6 +7622,7 @@ otsuge
 otsuri
 ottotto
 oubaka
+ouchijikan
 ought
 oumagatoki
 our
@@ -8461,6 +8477,7 @@ sanken
 sanketsu
 sankuzeeru
 sankyuusetto
+sanmitsu
 sannan
 sanoru
 sanposurushinryakusha
@@ -9339,6 +9356,7 @@ sokutei
 sokuza
 sold
 solitude
+solocamp
 some
 somemono
 someone
@@ -9392,6 +9410,7 @@ sorenaa
 sorenari
 sori
 soroban
+sorokyanpu
 sort
 sosei
 soseki
@@ -10066,6 +10085,7 @@ tekoire
 tekubari
 tekubi
 tekuse
+telework
 tell
 tema
 temae
@@ -10135,6 +10155,7 @@ teori
 tepurenon
 tera
 terakoya
+terewaaku
 terewaakudei
 teriizamei
 teriyaki
@@ -10882,6 +10903,7 @@ wakataka
 wakate
 wake
 wakeari
+wakeeshon
 wakemae
 wakeme
 wakewakame
@@ -11010,6 +11032,7 @@ wonderful
 word
 words
 work
+workation
 workman+
 workshy
 world
@@ -11612,6 +11635,7 @@ zokusei
 zokusetsu
 zokushin
 zokuzoku
+zoombae
 zozomarinsutajiamu
 zozoshoes
 zundahoraizun
