@@ -139,6 +139,7 @@ aishitatte
 aiso
 aisukoopu
 aisukuriimupiza
+aisupeesu
 aite
 aitekata
 aitsu
@@ -4006,6 +4007,7 @@ isokun
 isomatsu
 isoria
 isoukai
+ispace
 isthe
 isu
 it
@@ -4611,6 +4613,7 @@ kaoku
 kaomake
 kaomise
 kaon
+kaoninshokaisatsu
 kaotsuki
 kaoyaku
 kaparu
