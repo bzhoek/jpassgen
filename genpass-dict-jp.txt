@@ -1617,6 +1617,7 @@ dote
 dotera
 dotsubo
 doudemoii
+doujou
 doujousurunarakanekure
 douka
 dounattsupoppu
@@ -4132,6 +4133,7 @@ jeri
 jet
 jewels
 jibanyanman
+jibunhome
 jibunshoten
 jibunwohometai
 jiburiten
