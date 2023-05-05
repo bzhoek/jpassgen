@@ -288,6 +288,7 @@ anairara
 anan
 anata
 anatanokotowasorehodo
+anaterebi
 anaume
 anchi
 and
@@ -1550,6 +1551,7 @@ dokusei
 dokusen
 dokushin
 dokuso
+dokutachokoreeto
 dokutaekusoshisuto
 dokuyaku
 dokuzen
@@ -1622,6 +1624,7 @@ dragged
 dramafode
 drawers
 drawing
+drchoko
 dream
 dreamers
 dreams
@@ -1725,6 +1728,7 @@ ekiri
 ekitai
 ekkusu
 ekkusufuragu
+ekkusugeemuzu
 ekubo
 ekusuperia
 ekusuperiaharoo
@@ -4123,6 +4127,7 @@ jim
 jimotojapan
 jimukyoku
 jimusho
+jingisukandansu
 jintaka
 jinx
 jinzuwandee
@@ -7685,6 +7690,7 @@ pay
 peacefully
 peacocktheatre
 peaker
+pedori
 peipei
 pekingushinkuukou
 pekopa
@@ -7692,6 +7698,8 @@ pekorindoonatsu
 penpen
 pentagonpeepaazu
 people
+peppamiru
+peppermill
 per
 perapera
 peresutoroika
@@ -9017,6 +9025,7 @@ shinden
 shindo
 shinekuinto
 shinen
+shinfukusakura
 shingai
 shingaku
 shingan
@@ -9364,6 +9373,7 @@ sonzai
 sonzaishi
 sonzoku
 soon
+sooruoriensu
 soosu
 soosusannokoi
 soosuwa
@@ -10585,6 +10595,7 @@ uchiumi
 uchiwa
 uchiwake
 uchugun
+uchujinnoaitsu
 uchuyorimotooibasho
 ude
 udedameshi
@@ -10630,6 +10641,7 @@ ukikusa
 ukime
 ukimi
 ukiyo
+ukraine
 uma
 umamibaagaa
 umanori
