@@ -2356,6 +2356,7 @@ gareki
 gasconade
 gaso
 gaten
+gatsugatsu
 gawa
 gazai
 gazed
@@ -3036,6 +3037,7 @@ harabai
 harabire
 harachigai
 haragake
+harahara
 harahetta
 haraigoshi
 haraise
@@ -5801,6 +5803,7 @@ kyokaishi
 kyokucho
 kyokuyako
 kyokuyakou
+kyorokyoro
 kyoto
 kyotokokusaieigasai
 kyototawaasando
@@ -7743,6 +7746,7 @@ pedori
 peipei
 pekingushinkuukou
 pekopa
+pekopeko
 pekorindoonatsu
 penpen
 pentagonpeepaazu
@@ -11691,9 +11695,11 @@ zokusetsu
 zokushin
 zokuzoku
 zoombae
+zotto
 zozomarinsutajiamu
 zozoshoes
 zundahoraizun
 zuru
 zuruzuru
+zutto
 zuttomo
