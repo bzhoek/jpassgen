@@ -192,6 +192,7 @@ akisame
 akisu
 akiya
 akizora
+akogare
 aku
 akubi
 akubun
@@ -2636,6 +2637,7 @@ goroku
 goromaru
 goropin
 gorotsuki
+gorudenawaa
 goryoushin
 gosa
 gosai
@@ -2723,6 +2725,7 @@ gurutachi
 guruupushiharai
 gusaku
 gushin
+gussuri
 gutai
 guttari
 guttus
@@ -4607,6 +4610,7 @@ kannushi
 kanoke
 kanon
 kanou
+kanpeki
 kanraku
 kanran
 kanrei
@@ -5808,11 +5812,14 @@ kyorokyoro
 kyoto
 kyotokokusaieigasai
 kyototawaasando
+kyoudai
 kyounokirakun
+kyouryoku
 kyuamasheri
 kyuanfini
 kyuaparufue
 kyuudo
+kyuuka
 kyuukyoku
 kyuushuu
 lab
@@ -6034,6 +6041,7 @@ mametsu
 mamonaku
 mamono
 mamorigami
+mamoritai
 mamukai
 mamushi
 man
@@ -6908,6 +6916,7 @@ nankin
 nankotsu
 nankuse
 nannchatte
+nannmonai
 nanohana
 nanpa
 nansei
@@ -8140,6 +8149,7 @@ rihaba
 rihan
 rihatsu
 rihi
+riidaa
 riji
 rijicho
 rika
@@ -8314,6 +8324,7 @@ ruzai
 ryakushiteburariku
 ryo
 ryokai
+ryoushin
 ryoushuusho
 ryukogo
 ryuseibaruniiru
@@ -11525,6 +11536,7 @@ yusei
 yushi
 yutori
 yuubinkyoku
+yuugen
 yuuhan
 yuushoku
 yuwakashi
@@ -11681,6 +11693,7 @@ zesei
 zetsuen
 zetsumei
 zetsumetsu
+zetsumyou
 zezehihi
 zippers
 zippy
