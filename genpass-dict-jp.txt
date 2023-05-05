@@ -4207,6 +4207,7 @@ jocks
 jodhpurs
 jog
 joinusterasu
+jojo
 joke
 jolt
 joniizujimusho
@@ -7546,6 +7547,7 @@ ondo
 ondoku
 ondori
 one
+onepiece
 oneteam
 ongaeshi
 ongaku
@@ -9740,6 +9742,7 @@ susu
 susuharai
 susuki
 sutabariwaado
+sutando
 suteba
 sutebachi
 suteejiaraundotokyo
@@ -11058,6 +11061,7 @@ wanitokagegisu
 wankoin
 wannanbaasaabisu
 wanpi
+wanpiisu
 wanpiisupuremiasho
 want
 wantan
