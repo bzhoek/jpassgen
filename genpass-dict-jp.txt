@@ -399,6 +399,7 @@ ari
 ariake
 ariari
 arigane
+arigatameiwaku
 ariinazagitowa
 arika
 arinomamade
@@ -582,6 +583,7 @@ bakakkoii
 bakemono
 baken
 baketsupoteto
+bakkushan
 bakuchi
 bakuchiku
 bakudan
@@ -790,6 +792,7 @@ boin
 boka
 bokan
 boke
+bokeh
 bokei
 bokemodo
 boketsu
@@ -933,6 +936,7 @@ buraku
 buranketto
 burasode
 bureauicchi
+bureikou
 buri
 buruhairu
 burui
@@ -1857,6 +1861,7 @@ esolia
 esoragoto
 especially
 esports
+esshu
 esupootsu
 etc
 etch
@@ -2215,6 +2220,7 @@ futokorode
 futomomo
 futon
 futsubun
+fuubutsushi
 fuwachan
 fuwaku
 fuwatari
@@ -2937,7 +2943,9 @@ hanabira
 hanabusa
 hanadayori
 hanadoki
+hanafubuki
 hanagara
+hanagasumi
 hanagata
 hanagoe
 hanagoyomi
@@ -3374,6 +3382,7 @@ hikigane
 hikigeki
 hikigiwa
 hikikae
+hikikomori
 hikinige
 hikiniku
 hikishio
@@ -3728,6 +3737,7 @@ icearena
 icecoop
 ices
 ichaicha
+icharibachode
 ichi
 ichian
 ichiba
@@ -3825,6 +3835,7 @@ iinari
 iine
 iinee
 iisugi
+iitomo
 iiwake
 ijounashi
 ika
@@ -4553,6 +4564,7 @@ kanamono
 kanan
 kanata
 kanazuchi
+kanban
 kanchi
 kanchigai
 kandan
@@ -4801,6 +4813,7 @@ katsuyaku
 kattakata
 kattenifureetero
 kawa
+kawaakari
 kawaberi
 kawabiraki
 kawadoko
@@ -4830,6 +4843,7 @@ kayaku
 kayu
 kazaana
 kazaguruma
+kazahana
 kazai
 kazakami
 kazakiri
@@ -5124,6 +5138,7 @@ kimoi
 kimoiri
 kimon
 kimono
+kimyou
 kin
 kinagashi
 kinako
@@ -5177,6 +5192,7 @@ kinshin
 kintamaranbu
 kinteki
 kintetsuharukasukoin
+kintsugi
 kinu
 kinuito
 kinuke
@@ -5327,6 +5343,7 @@ koidansu
 koigokoro
 koinchekku
 koinobori
+koinoyokan
 koisai
 koisurushirokuma
 koitsu
@@ -5553,6 +5570,7 @@ kourinowadachi
 kousei
 kousoku
 kousui
+kouyou
 kowaharo
 kowairo
 kowakawa
@@ -5609,6 +5627,7 @@ kuchimane
 kuchimoto
 kuchinashi
 kuchipaku
+kuchisabishii
 kuchisaki
 kuchiura
 kuchizoe
@@ -5813,6 +5832,7 @@ kyoto
 kyotokokusaieigasai
 kyototawaasando
 kyoudai
+kyoukasuigetsu
 kyounokirakun
 kyouryoku
 kyuamasheri
@@ -6031,6 +6051,7 @@ makurosuderutasukuranburu
 makushita
 malt
 mama
+mamachari
 mamagoto
 mamahaha
 mamari
@@ -6589,6 +6610,7 @@ monomane
 monomi
 monomochi
 monomorai
+mononoaware
 monosashi
 monoshiri
 monotori
@@ -7003,6 +7025,8 @@ neko
 nekobaba
 nekoguruma
 nekohadaku
+nekojita
+nekokaburi
 nekomusume
 nekoyanagi
 nekoze
@@ -7981,6 +8005,7 @@ rakutenfm
 rakutenpei
 rakutenseiyu
 rakuyaki
+rakuyou
 rameru
 ran
 randa
@@ -9852,6 +9877,7 @@ takakukei
 takamatsupea
 takanami
 takane
+takanenosuigetsu
 takanozomi
 takara
 takarabune
@@ -10552,6 +10578,7 @@ tsuishi
 tsuishin
 tsuitate
 tsuitotsu
+tsujikiri
 tsuka
 tsukaide
 tsukaimono
@@ -10932,7 +10959,9 @@ vokalia
 vow
 vox
 w
+wa
 waadomyuuto
+wabisabi
 wadachi
 wadai
 wafting
@@ -11329,6 +11358,7 @@ yoha
 yohaku
 yoi
 yoin
+yoisho
 yoiyami
 yoka
 yokai
@@ -11446,6 +11476,7 @@ yotsuyu
 you
 youkaiuocchiwaarudo
 youkaiuocchizararii
+youkan
 your
 yours
 yourself
