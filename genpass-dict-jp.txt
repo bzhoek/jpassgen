@@ -4,11 +4,13 @@
 3mitsu
 4dripuree
 4shucheese
+555
 7ginko
 7iroinko
 7kaigi
 7meetings
 7tsunokaigi
+888
 8nengoshinohanayome
 Nchutobu
 SMAPO
@@ -121,6 +123,7 @@ aiiro
 aikagi
 aikan
 aikata
+aikawarazu
 aiken
 aiko
 aikoku
@@ -161,6 +164,7 @@ akairo
 akamatsu
 akami
 akamushi
+akan
 akane
 akaneiro
 akantai
@@ -1018,6 +1022,7 @@ charms
 chasm
 chatters
 chauchau
+chaude
 che
 cheek
 chest
@@ -1148,6 +1153,7 @@ choshoku
 chottomatte
 chou
 chounaikai
+choushidou
 chumps
 chunkycookie
 chutney
@@ -1357,6 +1363,7 @@ darkness
 darru
 daruma
 darwinsgame
+dasa
 dasai
 dasakawaii
 dasaku
@@ -2695,6 +2702,7 @@ guddodr
 guess
 guest
 gugen
+gugure
 guguru
 gugutte
 guigui
@@ -3018,6 +3026,8 @@ hanne
 hannichi
 hannin
 hanon
+hanpanai
+hanpanee
 hanraku
 hanran
 hanrei
@@ -3629,6 +3639,7 @@ honkaku
 honkan
 honke
 honken
+honma
 honne
 honnen
 honnin
@@ -3774,6 +3785,7 @@ ichiou
 ichiran
 ichirei
 ichiri
+ichitasuichiwa
 ichiya
 ichiyoku
 ichiza
@@ -4507,6 +4519,7 @@ kakuzai
 kakuzetsu
 kama
 kamaboko
+kamacho
 kamado
 kamaitachi
 kamakiri
@@ -5457,6 +5470,7 @@ konayuki
 konbini
 konbure
 konchi
+konchiwa
 kondan
 kondate
 kondo
@@ -6704,6 +6718,7 @@ mukago
 mukamuka
 mukan
 mukashi
+mukatsuku
 mukei
 muketsu
 muki
@@ -6918,9 +6933,11 @@ naname
 nanameyugure
 nananabiichipaaku
 nanbaskyoh
+nanchatte
 nandai
 nandakke
 nandenkanden
+nandeyanen
 nando
 nangi
 nangiyanaa
@@ -6953,6 +6970,7 @@ nanten
 nantoka
 nantonaku
 nanushi
+nanyakore
 nanzan
 naore
 nara
@@ -7496,6 +7514,7 @@ omomuki
 omonaga
 omoni
 omori
+omoroi
 omoshi
 omote
 omotegaki
@@ -9328,6 +9347,7 @@ shokinkasegi
 shokku
 shokuji
 shokujisuru
+shondoi
 shooru
 shorai
 shotaimu
@@ -10153,6 +10173,7 @@ teito
 teitoku
 teiyaku
 tekagen
+tekateka
 teki
 tekichi
 tekihatsu
@@ -10453,6 +10474,8 @@ toranomaki
 toranpugensho
 toredaka
 tori
+toriaezu
+toriaezubiiru
 toride
 torie
 torigaaru
@@ -11042,11 +11065,14 @@ waon
 warabi
 warawahen
 warawara
+ware
 warii
+wariine
 warini
 warm
 warned
 warota
+warugaki
 waruienyasu
 was
 wasai
@@ -11125,6 +11151,7 @@ with
 within
 without
 wizard’s
+wktk
 wnotch
 woke
 wolves
@@ -11147,6 +11174,7 @@ writers
 writingdesk
 writingdesks
 wrong
+ww
 xperiaiyaa
 yaba
 yabai
@@ -11747,6 +11775,7 @@ zozomarinsutajiamu
 zozoshoes
 zundahoraizun
 zuru
+zurui
 zuruzuru
 zutto
 zuttomo
