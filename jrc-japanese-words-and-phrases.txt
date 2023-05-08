@@ -822,6 +822,7 @@ chichikata
 chichioya
 chichiue
 chidori
+chidorinokusesugo
 chie
 chigaidana
 chigaku
@@ -897,6 +898,7 @@ chirainoyo
 chiri
 chirigami
 chiritsubaki
+chiruzakura
 chisai
 chisan
 chisei
@@ -1611,6 +1613,7 @@ fukurahagi
 fukuri
 fukuro
 fukurou
+fukusakura
 fukusei
 fukusen
 fukushi
@@ -8983,6 +8986,7 @@ tenaoshi
 tenarai
 tenchi
 tengoku
+tengokudaimakyo
 tengusa
 teni
 tenimyu
@@ -9021,6 +9025,8 @@ tentai
 tenteki
 tentekomai
 tentetsuki
+tentochito
+tentoku
 tenugui
 tenukari
 tenuki
@@ -10344,4 +10350,4 @@ zuru
 zurui
 zuruzuru
 zutto
-zuttomo
+zuttomoshinfukusakura
