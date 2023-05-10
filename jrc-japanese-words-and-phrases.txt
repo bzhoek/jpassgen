@@ -13,6 +13,7 @@
 7meetings
 7tsunokaigi
 888
+8loom
 8nengoshinohanayome
 Nchutobu
 SMAPO
@@ -102,6 +103,7 @@ aikuchi
 aikyuubu
 aima
 aimakkupuro
+aimyon
 ainiku
 ainofujichaku
 ainori
@@ -459,6 +461,7 @@ baatari
 baburukeizai
 bacchiguu
 bachi
+backnanbaa
 backwinded
 bagu
 bai
@@ -811,6 +814,7 @@ challenging
 chances
 chankii
 chankiikukkii
+chanmina
 chanpuru
 charachara
 charai
@@ -4486,6 +4490,7 @@ kinenkan
 kingaku
 kingan
 kingen
+kinggnu
 kingin
 kinguandopurinsu
 kinin
@@ -5272,6 +5277,7 @@ majimajopuazu
 majimuri
 majori
 makaiuoozu
+makaronienpitsu
 makenki
 makes
 makiami
@@ -6109,6 +6115,7 @@ nanigashi
 nanigoto
 nanimono
 nanisama
+naniwadanshi
 nanka
 nankai
 nankan
@@ -6261,6 +6268,7 @@ nettokonbini
 neuchi
 newake
 newaza
+newjeans
 neyuki
 nezame
 niage
@@ -7624,6 +7632,7 @@ satsuki
 satsumaimo
 satsutaba
 saturday
+saucydog
 sawa
 sawagani
 sawan
