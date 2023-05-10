@@ -1589,6 +1589,7 @@ fuhen
 fuhyouhigai
 fuigo
 fuiuchi
+fujingahou
 fujiorokku
 fuka
 fukachi
@@ -10341,6 +10342,7 @@ zeirishi
 zeiritsu
 zeisei
 zeitaku
+zekushii
 zen
 zenaku
 zenchi
