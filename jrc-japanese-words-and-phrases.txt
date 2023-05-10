@@ -818,6 +818,7 @@ charms
 chatters
 chauchau
 chaude
+cheriipiisu
 chian
 chibajidai
 chibengakuen
@@ -2218,6 +2219,7 @@ gyaaa
 gyakupaka
 gyarakushiibukku
 gyarakushiinooto
+gyarupiisu
 gyogiwaru
 gyouruikan
 gyouzabaggu
@@ -3552,6 +3554,7 @@ jitojito
 jiwajiwa
 jizo
 jk
+jkpoozu
 joaquin
 jocks
 joinusterasu
@@ -4121,6 +4124,7 @@ katamichi
 katan
 katana
 kataomoi
+kataomoihaato
 kataribe
 katarigusa
 katarite
@@ -6193,12 +6197,14 @@ negura
 neguse
 neiki
 neiro
+neirumisepoozu
 neko
 nekobaba
 nekoguruma
 nekohadaku
 nekojita
 nekokaburi
+nekomimipiisu
 nekomusume
 nekoyanagi
 nekoze
@@ -6575,7 +6581,9 @@ okinawa
 okippa
 okite
 okizari
+okkafu
 okkanai
+okkeekafu
 oko
 okoemonika
 okonomi
@@ -6929,6 +6937,7 @@ pondeyoroizuka
 poniteeru
 poogu
 poorusutaa
+poozu
 poppii
 poputepi
 poreeru
@@ -9050,6 +9059,7 @@ tensei
 tenseki
 tensen
 tenshi
+tenshihaato
 tenshin
 tentai
 tenteki
