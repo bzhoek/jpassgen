@@ -1,5 +1,7 @@
+10enpan
 22nenmaenokokuhaku
 24jikantatakaemasuka
+2Dkeeki
 3k
 3mitsu
 4dripuree
@@ -3997,6 +3999,7 @@ kantan
 kantei
 kantetsu
 kantoku
+kanure
 kanwa
 kanyo
 kanyu
@@ -5043,6 +5046,7 @@ kurietazpuroguramu
 kurifudaibingu
 kurige
 kurigoto
+kuriimuudon
 kuriko
 kuripaa
 kuritsu
@@ -5050,6 +5054,7 @@ kuro
 kuroboshi
 kurobuchi
 kuroekimu
+kuroffuru
 kurofune
 kurogane
 kuroiro
@@ -6048,6 +6053,7 @@ nakihito
 nakimushi
 nakimushishotan
 nama
+namadonuts
 namae
 namagashi
 namagomi
@@ -7003,6 +7009,7 @@ rainyafuu
 raireki
 raisan
 raishin
+raisupeepaa
 raiten
 raiu
 raiun
