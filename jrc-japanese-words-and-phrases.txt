@@ -60,6 +60,7 @@ adjusting
 adohen
 adomaiyariido
 aen
+aera
 affiliations
 afurakku
 agariguchi
@@ -1563,6 +1564,7 @@ foxes
 frappuccino
 frary
 fredericka
+friday
 fruittakuhai
 fubai
 fubarai
@@ -6436,6 +6438,7 @@ nomisugi
 nomiya
 nomomo
 nonmamahakusho
+nonno
 nooben
 noone
 noosaido
@@ -6969,6 +6972,7 @@ porukadotto
 posutoyoshimoto
 pounyoponyo
 ppap
+president
 prevents
 priorities
 produces
@@ -8880,6 +8884,7 @@ taretare
 tariki
 taru
 taruki
+tarzan
 tasaku
 tasan
 tasen
