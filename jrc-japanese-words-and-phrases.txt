@@ -1271,6 +1271,7 @@ doraibuheddo
 doraisensou
 doredore
 dorei
+doritorai
 doro
 dorodoro
 dorokyun
@@ -2379,6 +2380,7 @@ hamaguri
 hamaki
 hamatta
 hamaya
+hamayarisa
 hameita
 hametsu
 hamidasuhamu
@@ -2515,6 +2517,7 @@ hari
 harigami
 harigane
 hariko
+harissa
 harite
 haritsuke
 harokagero
@@ -3297,6 +3300,7 @@ imin
 immerges
 imo
 imomushi
+imomushipan
 imon
 imono
 imori
@@ -3403,6 +3407,7 @@ isen
 isetsu
 ishi
 ishibashi
+ishichajonsuku
 ishidan
 ishidatami
 ishigaki
@@ -4615,6 +4620,7 @@ kobun
 kobune
 kobushi
 kobutsu
+kocchimuiteyo
 kochikochi
 kochira
 kodachi
@@ -4847,6 +4853,7 @@ kosui
 kotae
 kotai
 kotatsu
+kotchimuite
 kote
 kotei
 kotekitai
