@@ -174,6 +174,8 @@ akumaudon
 akumu
 akunin
 akuosuaaru
+akuriru
+akurirusutando
 akusei
 akusen
 akusenkuutou
@@ -237,6 +239,7 @@ anaguma
 anagura
 anairara
 anata
+anatanokansou
 anatanokotowasorehodo
 anaterebi
 anaume
@@ -572,6 +575,7 @@ bensai
 benza
 benzetsu
 bera
+bereal
 bero
 beso
 betahome
@@ -658,6 +662,7 @@ bokushi
 bokutachigayarimashita
 bonchi
 bonda
+bondee
 bonkura
 bonodori
 bonresuhamu
@@ -931,6 +936,7 @@ chottomatte
 chou
 chounaikai
 choushidou
+chuki
 chumps
 chunkycookie
 chuushoku
@@ -1071,6 +1077,7 @@ daretoku
 daria
 daritsu
 darru
+daru
 daruma
 darwinsgame
 dasa
@@ -2492,6 +2499,7 @@ hantoki
 hantoshi
 hantsuki
 hanzai
+hao
 haoto
 hapiryu
 happened
@@ -4143,6 +4151,7 @@ kawa
 kawaakari
 kawaberi
 kawabiraki
+kawachii
 kawadoko
 kawagishi
 kawagutsu
@@ -6099,6 +6108,7 @@ nankuse
 nannchatte
 nannmonai
 nanohana
+nanoteepufuusen
 nanpa
 nansei
 nansen
@@ -6411,6 +6421,7 @@ noriori
 norisame
 norishiro
 norito
+noroi
 noroshi
 noshi
 noshigami
@@ -6781,6 +6792,7 @@ otokoyu
 otome
 otomo
 otona
+otonaburuu
 otonakizania
 otonanofanta
 otonanokoi
@@ -7319,6 +7331,7 @@ rusui
 ruten
 rutsubo
 ruuvurubijitsukantei
+ruuzusokkusu
 ruzai
 ryakushiteburariku
 ryo
@@ -7940,6 +7953,7 @@ shigemi
 shigen
 shigi
 shigin
+shigodeki
 shigosen
 shigoto
 shigotoba
@@ -8145,6 +8159,7 @@ shirakaba
 shiraki
 shirami
 shiranami
+shirankedo
 shirasagi
 shirasu
 shiratama
@@ -8382,6 +8397,7 @@ sosen
 soshi
 soshiki
 soshina
+soshinanonoroi
 soshitedaremoinakunatta
 soshitsu
 sosugao
@@ -9262,6 +9278,7 @@ toukyousumikkogohan
 toukyoutararebamusume
 toukyoutarereba
 toumeinayurikago
+toyonagatakuto
 tozama
 tozan
 tozanguchi
@@ -9440,6 +9457,7 @@ uchiwa
 uchiwake
 uchugun
 uchujinnoaitsu
+uchukushii
 uchuyorimotooibasho
 ude
 udedameshi
