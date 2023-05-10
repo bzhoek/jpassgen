@@ -92,6 +92,7 @@ aiiku
 aiin
 aiiro
 aikagi
+aikakou
 aikan
 aikata
 aikawarazu
@@ -760,6 +761,7 @@ bunshunhou
 buntai
 buntan
 bunyo
+buraboo
 buraja
 burakkufuraidee
 burakkukuroobaa
@@ -822,6 +824,7 @@ charms
 chatters
 chauchau
 chaude
+chensooman
 cheriipiisu
 chian
 chibajidai
@@ -4922,6 +4925,7 @@ kozukatakou
 kozumo
 kradness
 ksk
+kuabegi
 kubetsu
 kubi
 kubiki
@@ -5903,6 +5907,7 @@ mukimi
 mukin
 muko
 mukudori
+mukuena
 mukuge
 mukumi
 mukuro
@@ -6167,6 +6172,7 @@ natsuin
 natsumono
 natsuzora
 nau
+naunau
 nawa
 nawabari
 nawashiro
@@ -8453,6 +8459,7 @@ spicyrokomoko
 splendour
 spots
 squidgame
+sserafim
 stalks
 startwinkle
 steps
@@ -8710,6 +8717,7 @@ tainai
 tainetsu
 tainin
 taion
+taipa
 tairetsu
 tairiku
 tairin
@@ -9119,6 +9127,7 @@ teyaku
 tezawari
 thatched
 thedouble
+theoutlet
 theyve
 things
 thousands
@@ -9272,6 +9281,7 @@ torizata
 torobi
 toromi
 tororo
+torukokoohii
 tosaka
 tosei
 toshi
