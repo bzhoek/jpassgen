@@ -1549,6 +1549,7 @@ fingaanappu
 fingan
 fisewaarudo
 fisherspaaku
+flash
 flies
 floats
 flocked
@@ -8315,6 +8316,7 @@ shokku
 shokuji
 shokujisuru
 shondoi
+shonenjump
 shooru
 shorai
 shotaimu
