@@ -620,6 +620,7 @@ bikkukameraakiba
 bikkuripon
 bimei
 bimyo
+bimyou
 binan
 binbin
 binetsu
@@ -1359,6 +1360,7 @@ efushiiimabari
 egao
 egara
 eggmara
+eggu
 egui
 ehon
 ehonsutajio
@@ -3478,6 +3480,7 @@ itoku
 itoma
 itomagoi
 itome
+itoote
 itoshinoairiin
 itsu
 itsudatsu
@@ -5288,6 +5291,7 @@ majika
 majikyunrunesansu
 majimajopuazu
 majimuri
+majisska
 majori
 makaiuoozu
 makaronienpitsu
@@ -5910,6 +5914,7 @@ mukamuka
 mukan
 mukashi
 mukatsuku
+mukatto
 mukei
 muketsu
 muki
@@ -6735,6 +6740,7 @@ onyanko
 onyomi
 onzon
 ooedobiirumatsuri
+ookini
 oorandoo
 oorusuru
 oosakajo
@@ -9791,6 +9797,7 @@ wants
 waon
 warawahen
 warawara
+ware
 warii
 wariine
 warini
