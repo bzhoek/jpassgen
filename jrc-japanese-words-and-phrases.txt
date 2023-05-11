@@ -1135,6 +1135,7 @@ daunroudo
 dazn
 dazoon
 dbarai
+de
 deashi
 deba
 debag
@@ -1795,6 +1796,7 @@ fuzai
 fuzei
 fuzen
 fuzoku
+ga
 gaaden
 gachamuku
 gachi
@@ -2256,6 +2258,7 @@ gyouruikan
 gyouzabaggu
 gyusukiman
 gyuutorotama
+ha
 haabufirechikinkushi
 haaku
 haamonii
@@ -2666,6 +2669,7 @@ hazakaiki
 hazakura
 hazama
 hazui
+he
 heads
 heard
 hebi
@@ -2676,6 +2680,7 @@ hed
 hedo
 hedoro
 heeki
+hehe
 heichi
 heieki
 heien
@@ -6429,6 +6434,7 @@ niwasaki
 niwatori
 niyaniya
 nizakana
+no
 noarashi
 nobanashi
 nobara
@@ -8008,6 +8014,7 @@ sharetteiru
 shashinshuu
 shatsu
 shefu
+shi
 shiai
 shian
 shiatsu
@@ -9213,6 +9220,7 @@ thousands
 tigersakaba
 tldr
 tliigu
+to
 toami
 tobaku
 tobi
@@ -9782,6 +9790,7 @@ vixens
 vnodojiman
 vokalia
 vox
+wa
 waadomyuuto
 wabisabi
 wadachi
@@ -9903,6 +9912,7 @@ wisest
 wizard’s
 wktk
 wnotch
+wo
 wolves
 words
 workation
@@ -9915,6 +9925,7 @@ writingdesks
 ww
 xjapan
 xperiaiyaa
+ya
 yabai
 yabane
 yabatan
