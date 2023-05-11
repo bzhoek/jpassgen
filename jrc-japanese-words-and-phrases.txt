@@ -116,6 +116,7 @@ aisareruriyu
 aisatsu
 aiseki
 aishitatte
+aishitechoudai
 aiso
 aisukoopu
 aisukuriimupiza
@@ -304,6 +305,7 @@ aotiger
 aoyamaomotesandox
 aozora
 apo
+appappa
 appare
 approaches
 appurupaaku
@@ -529,6 +531,7 @@ bantan
 bante
 banyaku
 banzaishisutemu
+barabara
 barairo
 barentain
 bariki
@@ -675,6 +678,7 @@ bondee
 bonkura
 bonodori
 bonresuhamu
+bonshari
 bontai
 bookmarksgrove
 boomboom
@@ -740,6 +744,7 @@ bungujoshi
 buni
 bunka
 bunkai
+bunkajuutaku
 bunkakei
 bunkan
 bunkatsu
@@ -818,6 +823,7 @@ chakkari
 chakku
 chakkyo
 challenging
+chanbara
 chances
 chankii
 chankiikukkii
@@ -900,6 +906,7 @@ chimneys
 chinage
 chinatsu
 chinden
+chindonya
 chinetsu
 chingin
 chinka
@@ -1193,6 +1200,7 @@ dentatsu
 dentetsu
 denwa
 deomajikku
+depachika
 derakkusuchiizubiifu
 derisshukitchin
 derodero
@@ -1495,6 +1503,7 @@ eridori
 eriguri
 erikubi
 erimaki
+eroguronansensu
 erokakkoii
 ersageeto
 esa
@@ -3490,6 +3499,7 @@ itsuwa
 itsuzai
 ittaiichiro
 ittera
+itto
 ive
 iwaba
 iwahada
@@ -3578,6 +3588,7 @@ joaquin
 jocks
 joinusterasu
 jojo
+jokyuu
 joniizujimusho
 joodanhikkusu
 joshiana
@@ -3789,6 +3800,8 @@ kaizan
 kaizen
 kaizoe
 kaizoku
+kajino
+kajinofoorii
 kakaku
 kakari
 kakariin
@@ -5203,6 +5216,8 @@ lives
 looked
 lorem
 loves
+lupin
+lupiniii
 m1guranpuri
 maa
 maai
@@ -5401,6 +5416,7 @@ marugotopurinman
 maruhadaka
 maruki
 marukinmarubi
+marukusubooi
 marumie
 marumofubiyori
 marunomi
@@ -5767,10 +5783,13 @@ mochinige
 mochinushi
 mochiten
 mochitsuki
+modaan
+modanraifu
 moegiiro
 mofuku
 mofunuudoru
 mofuru
+mogamobo
 mogi
 mogomogo
 mogura
@@ -5853,6 +5872,8 @@ monto
 montsuki
 monzen
 moodowanretoro
+moraruhara
+moratoriamu
 mori
 morido
 morimin
@@ -6742,6 +6763,7 @@ onzon
 ooedobiirumatsuri
 ookini
 oorandoo
+oorudoosu
 oorusuru
 oosakajo
 oosakametoro
@@ -7374,7 +7396,10 @@ ruisui
 rukei
 rukuafuudohooru
 rumata
+runpen
 runrun
+rupan
+rupansansei
 ruri
 rusu
 rusuban
@@ -7750,6 +7775,7 @@ seikotsu
 seikurabe
 seimai
 seimei
+seimeisen
 seimon
 seimu
 seinan
@@ -7961,6 +7987,7 @@ shabbot
 shadoubaasu
 shameru
 shamette
+shan
 shanhaimuun
 shanshan
 shareotsu
@@ -8283,6 +8310,7 @@ shitauke
 shitayomi
 shitazasae
 shite
+shitechou
 shitei
 shiteki
 shiten
@@ -8301,6 +8329,7 @@ shitsumu
 shitsuon
 shitsurei
 shitsuren
+shitureishichauwa
 shiuchi
 shiun
 shiunten
@@ -8669,6 +8698,7 @@ tachigie
 tachigiki
 tachigui
 tachiiri
+tachiirikinshi
 tachiki
 tachimi
 tachiuchi
@@ -9119,6 +9149,7 @@ teoke
 teori
 tepurenon
 terakoya
+terebi
 terewaaku
 terewaakudei
 teriizamei
@@ -9266,6 +9297,7 @@ tono
 tonosama
 tonya
 tonza
+tookii
 tookukyapucha
 toolsi
 toppa
