@@ -860,6 +860,7 @@ chihai
 chihei
 chiho
 chii
+chiichan
 chiiki
 chiikirenkei
 chiikirenkeiic
@@ -1289,6 +1290,7 @@ dono
 donten
 donzoko
 doonattsupoppu
+doraemon
 dorafode
 doragenai
 doragoe
@@ -6452,6 +6454,8 @@ noki
 nokiba
 nokisaki
 nokishita
+nokkin
+nokkinonrokkudoa
 nokogiri
 nokori
 nokorika
@@ -6925,6 +6929,7 @@ pantoboku
 pantsu
 paraariina
 paradaisubunsho
+paradaisuregeindo
 paradisematic
 parareruwaarudo
 parenesize
@@ -9724,7 +9729,9 @@ utsute
 utsutsu
 utsuwa
 uubaaiitsu
+uuman
 uumanrentaru
+uumantookingu
 uwaago
 uwabaki
 uwabe
@@ -10296,6 +10303,7 @@ yuushoku
 yuwakashi
 yuzamashi
 yuzame
+yuzukisanchi
 zabuton
 zadaburu
 zadan
