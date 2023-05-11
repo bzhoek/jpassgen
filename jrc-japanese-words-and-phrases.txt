@@ -341,9 +341,11 @@ arishihi
 armourlike
 aro
 artisanbijutsukan
+aru
 aruain
 aruaru
 arubaito
+aruiwa
 arukeyoomome
 arukiki
 arukimedesu
@@ -3281,6 +3283,7 @@ ikageemu
 ikaku
 ikan
 ikanai
+ikanakya
 ikaneba
 ikareteru
 ikari
@@ -3306,6 +3309,7 @@ ikigake
 ikigire
 ikiiki
 ikijibiki
+ikimasu
 ikimono
 ikinari
 ikinashi
@@ -5215,6 +5219,8 @@ linekakeibo
 linkpoint
 linters
 lives
+longlongman
+longman
 looked
 lorem
 loves
@@ -6600,6 +6606,7 @@ ohisa
 ohisashiburi
 ohitashi
 ohizamoto
+oideyasu
 oiegei
 oigashira
 oigoe
@@ -6609,6 +6616,7 @@ oioi
 oiran
 oisaki
 oitachi
+oiteoite
 oitoma
 oiuchi
 ojosaba
@@ -8038,6 +8046,7 @@ shigen
 shigi
 shigin
 shigodeki
+shigoku
 shigosen
 shigoto
 shigotoba
@@ -8136,6 +8145,7 @@ shinagara
 shinagire
 shinai
 shinakucha
+shinakya
 shinamonmerutsu
 shinamono
 shinan
@@ -8304,6 +8314,7 @@ shitagaki
 shitagi
 shitaharu
 shitai
+shitakereba
 shitaku
 shitakusa
 shitamachi
@@ -8317,8 +8328,11 @@ shitazasae
 shite
 shitechou
 shitei
+shiteiku
 shiteki
+shiteku
 shiten
+shiteoku
 shitetsu
 shito
 shitsu
@@ -8334,6 +8348,8 @@ shitsumu
 shitsuon
 shitsurei
 shitsuren
+shitteiru
+shitteoku
 shitureishichauwa
 shiuchi
 shiun
@@ -8650,6 +8666,7 @@ suribachi
 surikogi
 surimi
 surimono
+suru
 surubeku
 surume
 sushi
@@ -8687,7 +8704,10 @@ tabai
 tabako
 tabegoro
 tabemono
+tabenai
+tabenakya
 taberu
+tabeta
 tabi
 tabibito
 tabidori
