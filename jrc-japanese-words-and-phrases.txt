@@ -462,6 +462,7 @@ azemichi
 baabekyuumosubaagaa
 baai
 baaigaeshi
+baainiyotte
 baasan
 baatari
 baburukeizai
@@ -8467,6 +8468,7 @@ sonkei
 sonkin
 sonna
 sono
+sonobaai
 sonobun
 sonogo
 sonohen
