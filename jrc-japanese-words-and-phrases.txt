@@ -2916,6 +2916,7 @@ hinote
 hinsei
 hinshi
 hinshitsu
+hipmai
 hira
 hirahira
 hirai
@@ -3170,6 +3171,7 @@ hutsugonashinjitsu
 hyakumanennoonnatachi
 hyokkorihan
 hyoukinzoku
+hypnosismic
 iPhoneXS
 iaido
 ian
@@ -9140,6 +9142,7 @@ teni
 tenimyu
 tenin
 teninyubunkasai
+tenipuri
 tenjinbibure
 tenjintoiro
 tenka
