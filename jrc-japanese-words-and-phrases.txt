@@ -6789,6 +6789,7 @@ ooedobiirumatsuri
 ookini
 oorandoo
 oorudoosu
+oorusupaisu
 oorusuru
 oosakajo
 oosakametoro
@@ -8378,6 +8379,7 @@ shiyoku
 shiza
 shizai
 shizen
+shizenni
 shizoku
 shoberunaito
 shoganai
