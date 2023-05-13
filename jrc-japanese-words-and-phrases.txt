@@ -6436,6 +6436,7 @@ niyaniya
 nizakana
 no
 noarashi
+nobaai
 nobanashi
 nobara
 nobe
@@ -8474,6 +8475,7 @@ sonomichi
 sonomono
 sonosaki
 sonota
+sonotame
 sonraku
 sonritsu
 sonshi
