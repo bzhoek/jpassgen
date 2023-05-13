@@ -165,6 +165,7 @@ akiratoakira
 akiregao
 akisame
 akisu
+akitaken
 akiya
 akizora
 akogare
@@ -965,6 +966,9 @@ choushidou
 chuki
 chumps
 chunkycookie
+chuukadon
+chuukagai
+chuukaman
 chuushoku
 circumstances
 clabbered
@@ -4705,6 +4709,7 @@ kogan
 kogane
 koganeiro
 kogarashi
+kogataken
 kogo
 kogoe
 kogoto
@@ -6786,6 +6791,7 @@ onyanko
 onyomi
 onzon
 ooedobiirumatsuri
+oogataken
 ookini
 oorandoo
 oorudoosu
@@ -8030,6 +8036,7 @@ shiba
 shibafu
 shibai
 shibakari
+shibaken
 shibayama
 shibikara
 shibu
@@ -9845,6 +9852,7 @@ wakeari
 wakeeshon
 wakemae
 wakeme
+waken
 wakewakame
 waki
 wakibara
