@@ -1750,6 +1750,7 @@ furugao
 furugi
 furuhon
 furui
+furukoronasedai
 furusato
 furusu
 furute
@@ -4675,6 +4676,7 @@ kizokutantei
 kizuna
 kizzuuiiku
 klesha
+kmanga
 knows
 kobanare
 kobanashi
@@ -5431,6 +5433,8 @@ maruarai
 marudashi
 marudepiza
 marugakae
+marugameseimei
+marugamesheikuudon
 marugao
 marugari
 marugata
@@ -5790,6 +5794,7 @@ mizen
 mizeni
 mizo
 mizore
+mizuuminoonnatachi
 moanatodensetsunoumi
 mobbing
 mochi
