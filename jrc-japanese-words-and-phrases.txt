@@ -1804,6 +1804,7 @@ fuzai
 fuzei
 fuzen
 fuzoku
+g7hiroshima
 ga
 gaaden
 gachamuku
@@ -2481,6 +2482,7 @@ hanauta
 hanawa
 hanaya
 hanayome
+hanayuuki
 hanazakari
 hanazono
 hanbaagaa
@@ -3403,6 +3405,7 @@ inochi
 inochigake
 inochigoi
 inochitori
+inogeetoosaka
 inosentodeizu
 inoshishi
 inparfit
@@ -5383,6 +5386,7 @@ manadeshi
 manaita
 manamusume
 manatsubi
+manatsuno
 manazashi
 manbikikazoku
 mandan
@@ -8189,6 +8193,7 @@ shinchin
 shindai
 shindan
 shinden
+shinderera
 shindo
 shinekuinto
 shinen
@@ -8266,6 +8271,7 @@ shinto
 shinwa
 shinya
 shinyaku
+shinyunibaasurobo
 shinzan
 shinzen
 shinzoku
