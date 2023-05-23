@@ -7385,6 +7385,7 @@ roba
 roban
 robata
 robesu
+robokun
 robottokonrochirichiri
 roei
 rojonomi
@@ -8272,6 +8273,7 @@ shinwa
 shinya
 shinyaku
 shinyunibaasurobo
+shinyuniro
 shinzan
 shinzen
 shinzoku
