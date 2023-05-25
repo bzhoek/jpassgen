@@ -471,6 +471,7 @@ bacchiguu
 bachi
 backnanbaa
 backwinded
+baeru
 bagu
 bai
 baibai
@@ -1313,6 +1314,7 @@ doraibuheddo
 doraisensou
 doredore
 dorei
+doriimufesu
 doritorai
 doro
 dorodoro
@@ -2242,6 +2244,9 @@ gurankuresutosenki
 guranourasanndaa
 guransutamarunouchi
 gurasu
+guregure
+gurejani
+guretto
 guriinberiizukoohii
 guriinbooizu
 gurunavipei
@@ -3559,6 +3564,7 @@ jaarimasenka
 jackets
 jajjiaizu
 jalert
+janiizu
 janpuchihirozu
 janpufesuta
 janpupaatii
@@ -3661,13 +3667,16 @@ kabetsuchi
 kabin
 kabu
 kabuka
+kabukabu
 kabuken
+kabukigurasu
 kabunushi
 kabura
 kaburimono
 kabushiki
 kabuto
 kabutogani
+kabutomushi
 kabuwake
 kabuyasu
 kachi
@@ -5315,6 +5324,7 @@ maiasa
 maiban
 maibotsu
 maido
+maifaasuto
 maifun
 maigo
 maihime
@@ -6021,6 +6031,7 @@ mushikera
 mushikui
 mushin
 mushinron
+mushishi
 mushiyaki
 musubime
 musuko
@@ -6039,6 +6050,7 @@ muzui
 myakuari
 myakunashi
 mydaiz
+myfirstbaes
 myojo
 myujikkuanrimiteddo
 naantte
@@ -9125,6 +9137,7 @@ teiso
 teitai
 teitaku
 teiten
+teitenhaaku
 teito
 teitoku
 teiyaku
