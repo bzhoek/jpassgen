@@ -4909,6 +4909,7 @@ konyaku
 konzai
 konzatsu
 konzetsu
+koofurippin
 kopipe
 koppies
 koran
@@ -6974,6 +6975,7 @@ oyobare
 oyobi
 oyobigoshi
 ozuwarudo
+paafekutodeizu
 pachinko
 pachuuka
 packed
@@ -7018,6 +7020,7 @@ peppamiru
 peppermill
 perapera
 peresutoroika
+perfectdays
 peropero
 personhood
 perusonaq2
@@ -7074,6 +7077,7 @@ prevents
 princessarthur
 priorities
 produces
+projectq
 projects
 psclassic
 pulgada
@@ -7099,6 +7103,7 @@ purikura
 purinpan
 purintosu
 puripuri
+purojekutoq
 purorii
 pursues
 pushed
@@ -7305,6 +7310,7 @@ ribarai
 ribetsu
 ribonnofurokuten
 riborubaa
+riborubaaririi
 ricchikurasuto
 ricchimo
 richi
@@ -9028,6 +9034,7 @@ tasogare
 tasukebune
 tasuki
 tasukigake
+tasutiieeraa
 tataki
 tatakidai
 tatami
@@ -9852,6 +9859,7 @@ visionsa
 visualise
 vixens
 vnodojiman
+voco
 vokalia
 vox
 wa
