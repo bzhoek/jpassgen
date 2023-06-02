@@ -115,6 +115,7 @@ aisai
 aisareruriyu
 aisatsu
 aiseki
+aiselfie
 aishitatte
 aishitechoudai
 aiso
@@ -1327,6 +1328,7 @@ doroon
 doroonmyujiamu
 dorumenx
 dosei
+dosemi
 doshitsu
 dosoku
 dosugao
@@ -3643,6 +3645,7 @@ jumbled
 jumping
 jumps
 jumpsqrise
+jumptoon
 junbiokke
 junchuugata
 junkendou
@@ -4910,6 +4913,7 @@ konzai
 konzatsu
 konzetsu
 koofurippin
+kopairotto
 kopipe
 koppies
 koran
@@ -5336,6 +5340,7 @@ maigo
 maihime
 maikai
 maiko
+maimittu
 mainanbaa
 mainasukinri
 mainichi
@@ -6058,6 +6063,7 @@ myakuari
 myakunashi
 mydaiz
 myfirstbaes
+mymits
 myojo
 myujikkuanrimiteddo
 naantte
@@ -7033,6 +7039,8 @@ piipiieepiikafue
 pikadonut
 piko
 pikotarou
+pincool
+pinkuru
 pinofuondyukafe
 pinpin
 pinpon
@@ -7357,6 +7365,7 @@ rikuuhai:
 rimawari
 rimen
 rin
+rinda
 rindoku
 rinen
 ringetsu
@@ -8090,6 +8099,7 @@ shibu
 shibui
 shibusutori
 shibutsu
+shibuyaakushu
 shibuyastream
 shichi
 shichirin
@@ -9406,6 +9416,7 @@ tookukyapucha
 toolsi
 toppa
 torabaiyyu
+toraberuruuru
 torai
 torakichi
 torakkuman
@@ -10048,6 +10059,7 @@ yakisoba
 yakitori
 yakiuchi
 yakizakana
+yakkai
 yaku
 yakuba
 yakubi
@@ -10439,6 +10451,7 @@ zaitaku
 zaiya
 zako
 zakone
+zakumocchiringu
 zakurakken
 zakuro
 zakutsu
