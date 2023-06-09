@@ -654,6 +654,7 @@ blessedest
 blew
 blmundo
 bluehearts
+blueproto
 bobutoiunanoneko
 bocchimeshi
 bochi
@@ -821,6 +822,7 @@ cambridge
 campiness
 cana
 caned
+capcom
 carame
 cases
 caves
@@ -869,6 +871,7 @@ chihei
 chiho
 chii
 chiichan
+chiikawa
 chiiki
 chiikirenkei
 chiikirenkeiic
@@ -1145,6 +1148,7 @@ dazn
 dazoon
 dbarai
 de
+deadrock
 deashi
 deba
 debag
@@ -3747,6 +3751,7 @@ kaibashira
 kaibatsu
 kaibun
 kaibutsu
+kaibutsukikori
 kaichiku
 kaida
 kaidai
@@ -7117,6 +7122,7 @@ pursues
 pushed
 pusshuhon
 puttsun
+puuakuma
 puyopuyo
 pyjamas
 qbk
@@ -10576,6 +10582,7 @@ zezehihi
 zippers
 zofuruuza
 zoi
+zokkon
 zoku
 zokugara
 zokugo
