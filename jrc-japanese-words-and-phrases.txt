@@ -376,6 +376,7 @@ asase
 asashan
 asashio
 asatsuyu
+asauna
 asayake
 ascaridol
 asemo
@@ -981,6 +982,7 @@ circumstances
 clabbered
 claims
 cleans
+codenegainodaisho
 cokeclear
 cokepluscoffee
 colporteurs
@@ -993,6 +995,7 @@ consequences
 consonantia
 consonantised
 contractu
+copairotto
 coredomuro
 couldnt
 counterfeited
@@ -5156,6 +5159,7 @@ kuromaku
 kuromame
 kuromatsu
 kuronekopei
+kuronekoyuu
 kuronikutakosu
 kuroobafurenzu
 kuroshe
@@ -5849,6 +5853,7 @@ mochitsuki
 modaan
 modanraifu
 moegiiro
+moffun
 mofuku
 mofunuudoru
 mofuru
@@ -6736,6 +6741,7 @@ okusama
 okusan
 okusoko
 okusoku
+okusueki
 okute
 okuyami
 okuyuki
@@ -7434,6 +7440,7 @@ robottokonrochirichiri
 roei
 rojonomi
 rokabogyumen
+rokana
 rokata
 roken
 rokettomobairu
@@ -10424,6 +10431,7 @@ yuugen
 yuuhan
 yuushoku
 yuwakashi
+yuyuwonderland
 yuzamashi
 yuzame
 yuzukisanchi
