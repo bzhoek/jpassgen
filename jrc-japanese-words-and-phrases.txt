@@ -12,6 +12,7 @@
 7kaigi
 7meetings
 7tsunokaigi
+80tobi
 888
 8loom
 8nengoshinohanayome
@@ -961,6 +962,7 @@ chizza
 choberiba
 choberigu
 chokokuriimu
+chokugekikisha
 chon
 chonhyon
 chooses
@@ -1232,6 +1234,7 @@ deshiiri
 desires
 detachaajikaado
 devils
+diakou
 dicek
 didn’t
 diiemu
@@ -1400,6 +1403,7 @@ ehonsutajio
 eibun
 eichi
 eidan
+eieai
 eiga
 eigawonuru
 eigo
@@ -1550,6 +1554,7 @@ europe
 european
 evangeliser
 exchanged
+eximo
 existing
 experimenting
 experts
@@ -4723,6 +4728,7 @@ kobune
 kobushi
 kobutsu
 kocchimuiteyo
+kocchinokento
 kochikochi
 kochira
 kodachi
@@ -5116,6 +5122,7 @@ kuragari
 kurage
 kurai
 kuraidori
+kuraimakina
 kuraishisu
 kuraku
 kuramoto
@@ -5835,6 +5842,7 @@ mizore
 mizuhaumi
 mizuuminoonnatachi
 moanatodensetsunoumi
+mobanya
 mobbing
 mochi
 mochiba
@@ -6522,6 +6530,7 @@ nogihen
 nogisatsu
 nogura
 nohara
+noisesoff
 nojimat
 nokemono
 noki
@@ -7782,6 +7791,7 @@ satogokoro
 satoimo
 satsu
 satsuei
+satsueizai
 satsuki
 satsumaimo
 satsutaba
@@ -8181,6 +8191,7 @@ shikibu
 shikichi
 shikifu
 shikifuku
+shikihouai
 shikii
 shikiishi
 shikikan
@@ -10156,6 +10167,7 @@ yane
 yani
 yanikku
 yanushi
+yaokopay
 yaomote
 yaoya
 yappaumai
