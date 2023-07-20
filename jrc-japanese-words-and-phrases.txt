@@ -8195,6 +8195,7 @@ shikiso
 shikitari
 shikiten
 shikkari
+shikkou
 shikokusuizokukan
 shikon
 shikori
@@ -9071,6 +9072,7 @@ tategami
 tategoto
 tategu
 tatehiza
+tateishi
 tateito
 tatekaku
 tatemae
@@ -9416,6 +9418,7 @@ tomoshibi
 tonakai
 tonari
 tonarigumi
+tonarinobravo
 tonarinokyuketsukisan
 tonchi
 tonjiru
