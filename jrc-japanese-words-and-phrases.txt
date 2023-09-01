@@ -237,6 +237,7 @@ ameiro
 amesuri
 amida
 amidana
+amiigo
 amime
 amimono
 amimoto
@@ -260,6 +261,7 @@ andoroidopei
 ane
 aniki
 animenome
+animetokyo
 animetsuurizumukyoukai
 aniyome
 anka
@@ -1363,6 +1365,7 @@ dreamers
 dreams
 dropped
 drops
+dsinsight
 duden
 dukushi
 dyads
@@ -2838,6 +2841,7 @@ hidoi
 hidokei
 hidori
 hidosugiru
+hiejimatime
 hifu
 hifuku
 hifun
@@ -3854,6 +3858,7 @@ kaiwarezoku
 kaiyaku
 kaizai
 kaizan
+kaizei
 kaizen
 kaizoe
 kaizoku
@@ -4622,6 +4627,7 @@ kinuke
 kinuta
 kinyoku
 kinyu
+kinyuu
 kinzoku
 kiochi
 kioku
@@ -5403,6 +5409,7 @@ makuramoto
 makuron
 makurosuderutasukuranburu
 makushita
+malice
 mama
 mamachari
 mamagoto
@@ -5468,6 +5475,7 @@ maramosu
 mari
 marimo
 mariopikachu
+marisu
 maritozzo
 markandlona
 marks
@@ -6326,6 +6334,7 @@ negoto
 negura
 neguse
 neiki
+neimaaru
 neiro
 neirumisepoozu
 neko
@@ -7140,8 +7149,10 @@ puttsun
 puuakuma
 puyopuyo
 pyjamas
+pythonxls
 qbk
 qplaza
+qroom
 quacking
 questions
 quickjived
@@ -7680,6 +7691,7 @@ salesmen
 sama
 samakuro
 samasama
+sambadeamigo
 samidare
 samon
 samples
@@ -8125,6 +8137,7 @@ shibutsu
 shibuyaakushu
 shibuyastream
 shichi
+shichimikaoru
 shichirin
 shichiya
 shida
@@ -10528,6 +10541,7 @@ zawamekujikan
 zazen
 zebras
 zei
+zeicho
 zeigaku
 zeikan
 zeikin
