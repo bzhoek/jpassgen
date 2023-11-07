@@ -244,6 +244,7 @@ amimono
 amimoto
 aminome
 amoore
+amugiri
 amurosu
 anaba
 anago
@@ -6913,6 +6914,7 @@ osara
 osaraarai
 osarai
 osare
+osatojoi
 osechi
 osen
 osenchi
